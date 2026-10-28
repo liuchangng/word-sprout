@@ -30,7 +30,13 @@ export function Onboarding() {
           <h1>你现在用哪一册？</h1>
           <div className="choice-grid">
             {BOOKS.map((b) => (
-              <button key={b.id} type="button" className={book === b.id ? "choice is-on" : "choice"} onClick={() => setBook(b.id)}>
+              <button
+                key={b.id}
+                type="button"
+                className={book === b.id ? "choice is-on" : "choice"}
+                aria-pressed={book === b.id}
+                onClick={() => setBook(b.id)}
+              >
                 {b.label}
               </button>
             ))}
@@ -43,7 +49,13 @@ export function Onboarding() {
           <h1>每天想学几个词？</h1>
           <div className="choice-grid">
             {GOALS.map((g) => (
-              <button key={g} type="button" className={goal === g ? "choice is-on" : "choice"} onClick={() => setGoal(g)}>
+              <button
+                key={g}
+                type="button"
+                className={goal === g ? "choice is-on" : "choice"}
+                aria-pressed={goal === g}
+                onClick={() => setGoal(g)}
+              >
                 {g} 个
               </button>
             ))}
