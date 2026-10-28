@@ -77,8 +77,9 @@ button:focus-visible {
 .ring-text strong { font-size: 28px; }
 .ring-text span { font-size: 12px; color: var(--ink-soft); }
 
-.bed { display: grid; grid-template-columns: repeat(6, 1fr); gap: 4px; }
+.bed { display: grid; grid-template-columns: repeat(auto-fill, minmax(44px, 1fr)); gap: 4px; }
 .bed-cell { display: grid; place-items: center; min-height: 44px; }
+.bed-cell svg { max-width: 100%; height: auto; }
 
 .speak {
   display: inline-grid; place-items: center;
@@ -98,6 +99,7 @@ button:focus-visible {
 }
 .sheet-head { display: flex; justify-content: space-between; align-items: center; }
 .sheet-head h2 { font-size: 18px; margin: 0; }
+.sheet-head button { min-width: 44px; min-height: 44px; }
 
 .toast {
   position: fixed; left: 50%; bottom: 88px; transform: translateX(-50%);

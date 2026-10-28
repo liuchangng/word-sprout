@@ -18,8 +18,9 @@ export function Speak({ text, accent = "uk", rate = 1, size = 18 }: { text: stri
       aria-label={`朗读 ${text}`}
       onClick={(e) => {
         e.stopPropagation();
+        // 朗读失败（不支持、空文本、synth 抛错）就不做高亮动画
+        if (!speak(text, { accent, rate })) return;
         setOn(true);
-        speak(text, { accent, rate });
         if (timer.current !== undefined) window.clearTimeout(timer.current);
         timer.current = window.setTimeout(() => {
           timer.current = undefined;
