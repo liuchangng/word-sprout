@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useBook, unitWords } from "../data/catalog";
 import type { BookId, Unit } from "../data/types";
 import { go } from "../lib/router";
@@ -19,10 +19,25 @@ export function Garden({ book: initial }: { book?: BookId }) {
   // 路由可能带着 #/garden?book=5B 再次进入且组件保持挂载，路由参数变化时跟随；页内点页签走本地状态
   const [id, setId] = useState<BookId>(initial ?? save.settings.activeBook);
   const [open, setOpen] = useState<Unit | null>(null);
+  const tabRefs = useRef(new Map<BookId, HTMLButtonElement>());
 
   useEffect(() => {
     if (initial) setId(initial);
   }, [initial]);
+
+  // 页签键盘操作：左右键切换相邻页签并保持焦点，符合 role=tab 约定
+  const onKeyDown = (e: React.KeyboardEvent<HTMLDivElement>) => {
+    if (e.key !== "ArrowRight" && e.key !== "ArrowLeft" && e.key !== "Home" && e.key !== "End") return;
+    e.preventDefault();
+    const current = BOOK_IDS.indexOf(id);
+    let next: number;
+    if (e.key === "Home") next = 0;
+    else if (e.key === "End") next = BOOK_IDS.length - 1;
+    else next = (current + (e.key === "ArrowRight" ? 1 : -1) + BOOK_IDS.length) % BOOK_IDS.length;
+    const target = BOOK_IDS[next];
+    setId(target);
+    tabRefs.current.get(target)?.focus();
+  };
 
   const book = useBook(id);
 
@@ -35,10 +50,15 @@ export function Garden({ book: initial }: { book?: BookId }) {
         </div>
       </header>
 
-      <div className="book-tabs" role="tablist" aria-label="选择教材">
+      <div className="book-tabs" role="tablist" aria-label="选择教材" onKeyDown={onKeyDown}>
         {BOOK_IDS.map((b) => (
           <button
             key={b} type="button" role="tab" aria-selected={id === b}
+            tabIndex={id === b ? 0 : -1}
+            ref={(el) => {
+              if (el) tabRefs.current.set(b, el);
+              else tabRefs.current.delete(b);
+            }}
             className={id === b ? "tab is-on" : "tab"}
             onClick={() => setId(b)}
           >
