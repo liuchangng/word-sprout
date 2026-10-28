@@ -467,6 +467,12 @@ I’m /aɪm/ 我是 p. 5
 Unit 2 Different families
 mum /mʌm/ 妈妈 p. 12
 dad /dæd/ n. 爸爸 p. 12
+*grandma /ˈɡrænmɑː/ 奶奶；
+*姥姥
+p. 16
+*grandfather /ˈɡrænfɑːðə(r)/
+爷爷；姥爷
+p. 16
 Useful expressions
 Good morning! 早上好！
 `;
@@ -503,7 +509,15 @@ describe("parseAppendix", () => {
     expect(units.map((u) => u.no)).toEqual([1, 2]);
     expect(units[0].title).toBe("Making friends");
     expect(units[0].entries).toHaveLength(3);
-    expect(units[1].entries.map((e) => e.text)).toEqual(["mum", "dad"]);
+    expect(units[1].entries.map((e) => e.text)).toEqual(["mum", "dad", "grandma", "grandfather"]);
+  });
+
+  it("拼接跨行词条，保留全部中文义项", () => {
+    const units = parseAppendix(SAMPLE);
+    const words = Object.fromEntries(units[1].entries.map((e) => [e.text, e]));
+    expect(words.grandma.zh).toBe("奶奶； 姥姥");
+    expect(words.grandfather.zh).toBe("爷爷； 姥爷");
+    expect(words.grandfather.ipa).toBe("ˈɡrænfɑːðə(r)");
   });
 });
 
@@ -541,6 +555,7 @@ const POS_RE = /\b(n|v|vt|vi|adj|adv|pron|prep|conj|num|art|int|aux|modal)\./gi;
 const PAGE_RE = /\s*p\.\s*\d+\s*$/i;
 const SKIP_RE = /^(Unit\b|Appendix\b|附录|注[:：]|Words in each unit|单\s*元\s*词\s*汇\s*表)/i;
 const STOP_RE = /(Useful expressions|常用表达|Vocabulary|词\s*汇\s*表)/i;
+const START_RE = /^(?:\*)?[A-Za-z]/;
 
 /** 规范化词条 id：小写、压缩空格、统一撇号。 */
 export function normalizeId(text) {
@@ -564,7 +579,7 @@ export function parseEntry(line) {
   const ipaMatch = left.match(/\/([^/]+)\//);
   const ipa = ipaMatch ? ipaMatch[1].trim() : "";
   const text = left.replace(/\/[^/]*\//g, " ").replace(/\s+/g, " ").trim();
-  zh = zh.replace(POS_RE, " ").replace(/\s+/g, " ").trim();
+  zh = zh.replace(/\*/g, "").replace(POS_RE, " ").replace(/\s+/g, " ").trim();
   if (!text || !/[A-Za-z]/.test(text) || !zh) return null;
   return { core, text, ipa, zh, pos };
 }
@@ -573,23 +588,38 @@ export function parseEntry(line) {
 export function parseAppendix(text) {
   const units = [];
   let cur = null;
+  let buf = [];
   let stopped = false;
+
+  const flush = () => {
+    if (cur && buf.length > 0) {
+      const entry = parseEntry(buf.join(" "));
+      if (entry) cur.entries.push(entry);
+    }
+    buf = [];
+  };
+
   for (const raw of String(text).split(/\r?\n/)) {
     const line = raw.trim();
     if (!line) continue;
     if (/^\d{1,3}$/.test(line)) continue;
+    if (/^p\.\s*\d+$/i.test(line)) continue;
     if (/仅供个人学习使用/.test(line)) continue;
-    if (STOP_RE.test(line)) { stopped = true; continue; }
+    if (STOP_RE.test(line)) { stopped = true; flush(); continue; }
     if (stopped) continue;
     const m = line.match(/^Unit\s+(\d+)\s*[:：]?\s*(.*)$/i);
     if (m) {
+      flush();
       cur = { no: Number(m[1]), title: m[2].trim(), entries: [] };
       units.push(cur);
       continue;
     }
-    const entry = parseEntry(line);
-    if (entry && cur) cur.entries.push(entry);
+    if (!cur) continue;
+    // 词条可能跨行：新词条以拉丁字母开头，纯中文续行并入上一条。
+    if (START_RE.test(line) && buf.length > 0) flush();
+    buf.push(line);
   }
+  flush();
   return units.filter((u) => u.entries.length > 0);
 }
 
