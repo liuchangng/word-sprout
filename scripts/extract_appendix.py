@@ -3,12 +3,14 @@ import glob
 import json
 import os
 import re
+import sys
 
 import pymupdf
 
 OUT = os.path.join(os.path.dirname(__file__), ".cache", "raw.json")
 GRADE = {"三": 3, "四": 4, "五": 5, "六": 6}
 STOP = ("Vocabulary", "词 汇 表", "Vocabulary and", "总词汇表")
+ALL_BOOKS = [f"{g}{t}" for g in sorted(GRADE.values()) for t in ("A", "B")]
 
 
 def book_id(name: str) -> str | None:
@@ -29,6 +31,9 @@ def extract(path: str) -> dict | None:
     hits = [i for i, t in enumerate(texts) if "Words in each unit" in t]
     start = hits[-1] if hits else None
     if start is None:
+        return None
+    # 后置校验：附录首页必须含 Unit 1 与至少一个 p. 页码，否则按该册失败处理
+    if not re.search(r"Unit\s*1\b", texts[start]) or not re.search(r"p\.\s*\d+", texts[start]):
         return None
     end = len(texts)
     for i in range(start + 1, len(texts)):
@@ -52,6 +57,10 @@ def main() -> None:
         books[bid] = data
         chars = sum(len(p["text"]) for p in data["pages"])
         print(f"[抽取] {bid} 页数 {len(data['pages'])} 字符 {chars}")
+    missing = [b for b in ALL_BOOKS if b not in books]
+    if missing:
+        print(f"[失败] 缺少 {len(missing)} 本: {', '.join(missing)}，保留原缓存不写入")
+        sys.exit(1)
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(books, f, ensure_ascii=False, indent=1)
