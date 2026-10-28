@@ -20,7 +20,15 @@ export function parseHash(hash: string): Route {
     return { page: "garden", book: b && BOOKS.includes(b) ? (b as BookId) : undefined };
   }
   if (seg[0] === "learn") return { page: "learn" };
-  if (seg[0] === "word" && seg[1]) return { page: "word", id: decodeURIComponent(seg[1]) };
+  if (seg[0] === "word" && seg[1]) {
+    try {
+      return { page: "word", id: decodeURIComponent(seg[1]) };
+    } catch {
+      // 手输或粘贴的 "%"、"%E4" 会抛 URIError；parseHash 在模块加载时也会跑，
+      // 不兜住整个 SPA 直接白屏
+      return { page: "today" };
+    }
+  }
   if (seg[0] === "me") return { page: "me" };
   if (seg[0] === "onboarding") return { page: "onboarding" };
   return { page: "today" };
@@ -55,11 +63,11 @@ export const useRoute = () => useSyncExternalStore(subscribe, () => current, () 
 
 export function go(route: Route, replace = false) {
   const h = href(route);
+  // 点当前页导航时目标与地址栏相同，再 pushState 只会多出一条无意义历史记录
+  if (h === location.hash) return;
   if (replace) history.replaceState(null, "", h);
   else history.pushState(null, "", h);
   current = parseHash(h);
   subs.forEach((f) => f());
   if (typeof window !== "undefined") window.scrollTo({ top: 0 });
 }
-
-export const currentRoute = () => current;

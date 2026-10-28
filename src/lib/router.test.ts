@@ -1,4 +1,4 @@
-import { describe, expect, it } from "vitest";
+import { afterEach, describe, expect, it, vi } from "vitest";
 import { href, parseHash } from "./router";
 
 describe("parseHash", () => {
@@ -19,6 +19,11 @@ describe("parseHash", () => {
   it("未知路径回首页", () => {
     expect(parseHash("#/nope")).toEqual({ page: "today" });
   });
+
+  it("残缺百分号编码回首页而不是抛错", () => {
+    expect(parseHash("#/word/%")).toEqual({ page: "today" });
+    expect(parseHash("#/word/%E4")).toEqual({ page: "today" });
+  });
 });
 
 describe("href", () => {
@@ -28,3 +33,26 @@ describe("href", () => {
     }
   });
 });
+
+describe("go", () => {
+  afterEach(() => {
+    vi.unstubAllGlobals();
+    vi.resetModules();
+  });
+
+  it("目标与当前 hash 相同时不重复入栈", async () => {
+    const pushState = vi.fn();
+    vi.stubGlobal("location", { hash: "#/garden" });
+    vi.stubGlobal("window", { addEventListener: vi.fn(), scrollTo: vi.fn() });
+    vi.stubGlobal("history", { pushState, replaceState: vi.fn() });
+    vi.resetModules();
+
+    const { go } = await import("./router");
+    go({ page: "garden" });
+    expect(pushState).not.toHaveBeenCalled();
+
+    go({ page: "me" });
+    expect(pushState).toHaveBeenCalledWith(null, "", "#/me");
+  });
+});
+
