@@ -1,0 +1,54 @@
+:root {
+  --paper: #fdf8ee;
+  --card: #fffcf6;
+  --leaf: #4e9b5f;
+  --leaf-soft: #e4f1e4;
+  --sky: #7fb8dc;
+  --sun: #f5c542;
+  --soil: #a9744f;
+  --ink: #3d3a34;
+  --ink-soft: #7a736a;
+  --line: #efe5d4;
+  --radius: 24px;
+  --shadow: 0 6px 18px rgba(120, 100, 70, 0.1);
+  --font: "Nunito", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body, #root { height: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font);
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  min-height: 44px;
+}
+
+button:focus-visible {
+  outline: 3px solid var(--sky);
+  outline-offset: 2px;
+}
+
+.app-shell {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 20px 18px 96px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
