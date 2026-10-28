@@ -7,7 +7,7 @@
   {
    "id": "3A-U1",
    "no": 1,
-   "title": "Unit 1",
+   "title": "Making friends",
    "titleZh": "交朋友",
    "wordIds": [
     "w:name",
@@ -30,7 +30,7 @@
   {
    "id": "3A-U2",
    "no": 2,
-   "title": "Unit 2",
+   "title": "Different families",
    "titleZh": "不同的家庭",
    "wordIds": [
     "w:mum",
@@ -57,8 +57,8 @@
   {
    "id": "3A-U3",
    "no": 3,
-   "title": "Unit 3",
-   "titleZh": "有趣的动物",
+   "title": "Our animal friends",
+   "titleZh": "我们的动物朋友",
    "wordIds": [
     "w:like",
     "w:dog",
@@ -87,8 +87,8 @@
   {
    "id": "3A-U4",
    "no": 4,
-   "title": "Unit 4",
-   "titleZh": "我们身边的植物",
+   "title": "Plants around us",
+   "titleZh": "我们周围的植物",
    "wordIds": [
     "w:apple",
     "w:banana",
@@ -114,8 +114,8 @@
   {
    "id": "3A-U5",
    "no": 5,
-   "title": "Unit 5",
-   "titleZh": "缤纷的颜色",
+   "title": "The colourful world",
+   "titleZh": "多彩的世界",
    "wordIds": [
     "w:colour",
     "w:orange",
@@ -139,7 +139,7 @@
   {
    "id": "3A-U6",
    "no": 6,
-   "title": "Unit 6",
+   "title": "Useful numbers",
    "titleZh": "有用的数字",
    "wordIds": [
     "w:old",

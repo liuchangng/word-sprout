@@ -14,7 +14,7 @@ dad /dæd/ n. 爸爸 p. 12
 *姥姥
 p. 16
 *grandfather /ˈɡrænfɑːðə(r)/
-爷爷；姥爷
+爷爷； 姥爷
 p. 16
 Useful expressions
 Good morning! 早上好！
@@ -85,6 +85,67 @@ p. 33
     const units = parseAppendix(text);
     expect(units[0].entries[0].text).toBe("computer");
     expect(units[0].entries[0].core).toBe(true);
+  });
+});
+
+describe("parseAppendix 真实缺陷回归", () => {
+  it("把 **then 作为新词条，不并入上一条", () => {
+    const text = `Unit 6
+*glove /ɡlʌv/ 手套
+p. 69
+**then /ðen/ 然后；那时
+p. 69
+`;
+    const units = parseAppendix(text);
+    expect(units[0].entries.map((e) => e.text)).toEqual(["glove", "then"]);
+    expect(units[0].entries[0].zh).toBe("手套");
+    expect(units[0].entries[1].core).toBe(true);
+  });
+
+  it("把词头末尾的单字母移回释义", () => {
+    const entry = parseEntry("*T-shirt /ˈtiːʃɜːt/ T恤衫");
+    expect(entry.text).toBe("T-shirt");
+    expect(entry.zh).toBe("T恤衫");
+  });
+
+  it("拼接被换行拆开的词头", () => {
+    const text = `Unit 1
+Hong Kong /ˌhɒŋˈkɒŋ/-Zhuhai-
+Macao /məˈkaʊ/ Bridge /brɪdʒ/
+港珠澳大桥
+p. 5
+`;
+    const units = parseAppendix(text);
+    expect(units[0].entries[0].text).toBe("Hong Kong-Zhuhai-Macao Bridge");
+    expect(units[0].entries[0].zh).toBe("港珠澳大桥");
+  });
+
+  it("丢弃行内第二词条前的释义残片", () => {
+    const text = `Unit 2
+agree /əˈɡriː/ 同意；赞成
+p. 16
+完成；做好finish /ˈfɪnɪʃ/ 完成；做好
+p. 16
+`;
+    const units = parseAppendix(text);
+    const words = Object.fromEntries(units[0].entries.map((e) => [e.text, e]));
+    expect(words.agree.zh).toBe("同意；赞成");
+    expect(words.finish.zh).toBe("完成；做好");
+  });
+
+  it("跳过 Numbers 小标题但保留数词", () => {
+    const text = `Unit 6
+*from farm to table /frəm fɑːm tə ˈteɪbl/ 从农场到餐桌
+Numbers
+数 词
+one /wʌn/ 一
+two /tuː/ 二
+p. 70
+`;
+    const units = parseAppendix(text);
+    const texts = units[0].entries.map((e) => e.text);
+    expect(texts).not.toContain("Numbers");
+    expect(texts).toEqual(expect.arrayContaining(["one", "two"]));
   });
 });
 

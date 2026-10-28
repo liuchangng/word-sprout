@@ -7,8 +7,8 @@
   {
    "id": "6B-U1",
    "no": 1,
-   "title": "Unit 1",
-   "titleZh": "",
+   "title": "How tall are you?",
+   "titleZh": "你有多高？",
    "wordIds": [
     "w:younger",
     "w:older",
@@ -36,8 +36,8 @@
   {
    "id": "6B-U2",
    "no": 2,
-   "title": "Unit 2",
-   "titleZh": "",
+   "title": "Last weekend",
+   "titleZh": "上个周末",
    "wordIds": [
     "w:cleaned",
     "w:stayed",
@@ -68,8 +68,8 @@
   {
    "id": "6B-U3",
    "no": 3,
-   "title": "Unit 3",
-   "titleZh": "",
+   "title": "Where did you go?",
+   "titleZh": "你去哪儿了？",
    "wordIds": [
     "w:went",
     "w:camp",
@@ -99,8 +99,8 @@
   {
    "id": "6B-U4",
    "no": 4,
-   "title": "Unit 4",
-   "titleZh": "",
+   "title": "Then and now",
+   "titleZh": "过去与现在",
    "wordIds": [
     "w:dining hall",
     "w:grass",

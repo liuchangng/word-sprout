@@ -7,13 +7,13 @@
   {
    "id": "6A-U1",
    "no": 1,
-   "title": "Unit 1",
-   "titleZh": "",
+   "title": "Amazing places",
+   "titleZh": "奇妙的地方",
    "wordIds": [
     "w:was",
     "w:climb",
     "w:kilometre",
-    "w:house",
+    "w:gingerbread house",
     "w:send",
     "w:go",
     "w:thousand",
@@ -30,7 +30,7 @@
     "w:restaurant",
     "w:airport",
     "w:new zealand",
-    "w:macao bridge",
+    "w:hong kong-zhuhai-macao bridge",
     "w:paris",
     "w:eiffel tower",
     "w:terracotta warriors",
@@ -41,8 +41,8 @@
   {
    "id": "6A-U2",
    "no": 2,
-   "title": "Unit 2",
-   "titleZh": "",
+   "title": "Getting together",
+   "titleZh": "相聚",
    "wordIds": [
     "w:paste",
     "w:dress",
@@ -74,8 +74,8 @@
   {
    "id": "6A-U3",
    "no": 3,
-   "title": "Unit 3",
-   "titleZh": "",
+   "title": "Healthy life",
+   "titleZh": "健康生活",
    "wordIds": [
     "w:cold",
     "w:ill",
@@ -102,8 +102,8 @@
   {
    "id": "6A-U4",
    "no": 4,
-   "title": "Unit 4",
-   "titleZh": "",
+   "title": "Managing money well",
+   "titleZh": "好好理财",
    "wordIds": [
     "w:money",
     "w:pocket money",
@@ -127,8 +127,8 @@
   {
    "id": "6A-U5",
    "no": 5,
-   "title": "Unit 5",
-   "titleZh": "",
+   "title": "Exploring space",
+   "titleZh": "探索太空",
    "wordIds": [
     "w:planet",
     "w:earth",
@@ -164,8 +164,8 @@
   {
    "id": "6A-U6",
    "no": 6,
-   "title": "Unit 6",
-   "titleZh": "",
+   "title": "Energy, nature and us",
+   "titleZh": "能源、自然与我们",
    "wordIds": [
     "w:power",
     "w:electricity",

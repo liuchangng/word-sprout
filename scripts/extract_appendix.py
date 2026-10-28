@@ -24,6 +24,23 @@ def book_id(name: str) -> str | None:
     return None
 
 
+def contents_titles(texts: list[str]) -> dict[str, str]:
+    """从目录页抽取单元英文标题；目录页 = 前 15 页中首个含 4 条以上 Unit 行的页面。"""
+    for i in range(min(15, len(texts))):
+        lines = [l.strip() for l in texts[i].split("\n") if l.strip()]
+        hits = [l for l in lines if re.match(r"^Unit\s+\d+\s+\S", l)]
+        if len(hits) < 4:
+            continue
+        titles = {}
+        for line in hits:
+            m = re.match(r"^Unit\s+(\d+)\s+(.+)$", line)
+            if m:
+                # 2024 版目录用 U+2002 分隔单元号与标题。
+                titles[m.group(1)] = re.sub(r"\s+", " ", m.group(2).replace("\u2002", " ")).strip()
+        return titles
+    return {}
+
+
 def extract(path: str) -> dict | None:
     doc = pymupdf.open(path)
     texts = [doc[i].get_text() for i in range(len(doc))]
@@ -41,7 +58,7 @@ def extract(path: str) -> dict | None:
             end = i
             break
     pages = [{"n": i + 1, "text": texts[i]} for i in range(start, min(end, start + 40))]
-    return {"file": os.path.basename(path), "pages": pages}
+    return {"file": os.path.basename(path), "pages": pages, "titles": contents_titles(texts)}
 
 
 def main() -> None:

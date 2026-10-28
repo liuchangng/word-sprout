@@ -8,13 +8,54 @@ const CACHE = path.join(ROOT, "scripts", ".cache");
 const OUT = path.join(ROOT, "src", "data");
 const BOOKS = ["3A", "3B", "4A", "4B", "5A", "5B", "6A", "6B"];
 const EDITION = { "3A": 2024, "3B": 2024, "4A": 2024, "4B": 2024, "5A": 2024, "5B": 2013, "6A": 2024, "6B": 2013 };
+// 单元中文标题按英文标题映射，5B/6B 目录顺序与单元号不一致，因此不能按行号取。
 const TITLE_ZH = {
-  "3A": "三年级上册", "3B": "三年级下册", "4A": "四年级上册", "4B": "四年级下册",
-  "5A": "五年级上册", "5B": "五年级下册", "6A": "六年级上册", "6B": "六年级下册",
-};
-const UNIT_TITLE_ZH = {
-  "3A-U1": "交朋友", "3A-U2": "不同的家庭", "3A-U3": "有趣的动物", "3A-U4": "我们身边的植物",
-  "3A-U5": "缤纷的颜色", "3A-U6": "有用的数字",
+  "Making friends": "交朋友",
+  "Different families": "不同的家庭",
+  "Our animal friends": "我们的动物朋友",
+  "Plants around us": "我们周围的植物",
+  "The colourful world": "多彩的世界",
+  "Useful numbers": "有用的数字",
+  "Meeting new people": "认识新朋友",
+  "My words and actions": "我的言行",
+  "Tools and senses for learning": "学习的工具与感官",
+  "Healthy food": "健康食物",
+  "Old things": "旧物",
+  "Numbers in life": "生活中的数字",
+  "Helping at home": "在家帮忙",
+  "My friends": "我的朋友",
+  "Places we live in": "我们住的地方",
+  "Helping in the community": "在社区帮忙",
+  "The weather and us": "天气与我们",
+  "Changing for the seasons": "四季的变化",
+  "Class rules": "班级规则",
+  "Family rules": "家庭规则",
+  "Time for school": "上学时间",
+  "Going shopping": "去购物",
+  "Farms and us": "农场与我们",
+  "From farm to table": "从农场到餐桌",
+  "Different friends": "不同的朋友",
+  "My feelings": "我的感受",
+  "Work and play": "工作与玩耍",
+  "Healthy habits": "健康习惯",
+  "Food we eat": "我们吃的食物",
+  "Nature and us": "自然与我们",
+  "My day": "我的一天",
+  "My favourite season": "我最喜欢的季节",
+  "My school calendar": "我的学校日历",
+  "When is the art show?": "美术展在什么时候？",
+  "Whose dog is it?": "这是谁的狗？",
+  "Work quietly!": "安静地做事！",
+  "Amazing places": "奇妙的地方",
+  "Getting together": "相聚",
+  "Healthy life": "健康生活",
+  "Managing money well": "好好理财",
+  "Exploring space": "探索太空",
+  "Energy, nature and us": "能源、自然与我们",
+  "How tall are you?": "你有多高？",
+  "Last weekend": "上个周末",
+  "Where did you go?": "你去哪儿了？",
+  "Then and now": "过去与现在",
 };
 
 const readJson = (p, fallback) => (fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, "utf8")) : fallback);
@@ -35,14 +76,16 @@ const offline = process.argv.includes("--offline");
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-/** 联网补音标与例句，结果写入缓存，失败静默跳过。 */
+/** 联网补音标，成功才写缓存；超时或失败不落盘，避免永久标记为缺失。 */
 async function enrich(word) {
   const key = normalizeId(word.text);
   if (cache[key]) return cache[key];
   if (offline) return null;
   const out = {};
   try {
-    const res = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word.text)}`);
+    const res = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word.text)}`, {
+      signal: AbortSignal.timeout(8000),
+    });
     if (res.ok) {
       const data = await res.json();
       const entry = Array.isArray(data) ? data[0] : null;
@@ -53,17 +96,10 @@ async function enrich(word) {
     /* 网络不可用时保留空音标 */
   }
   await sleep(250);
+  if (!out.ipa) return null;
   cache[key] = out;
   writeJson(path.join(CACHE, "enrich.json"), cache);
   return out;
-}
-
-function collectUnitTitles(parsed) {
-  const map = {};
-  for (const [id, units] of Object.entries(parsed)) {
-    for (const u of units) map[`${id}-U${u.no}`] = u.title;
-  }
-  return map;
 }
 
 async function main() {
@@ -81,7 +117,6 @@ async function main() {
   }
 
   const words = mergeWords(books);
-  const unitTitles = collectUnitTitles(parsed);
 
   for (const w of words) {
     // 从 OpenMoji 包复制命中的图标，未命中时保留首字母回退。
@@ -98,8 +133,7 @@ async function main() {
     if (override) w.ipa = override;
     else if (!w.ipa || /[\uE000-\uF8FF]/.test(w.ipa)) {
       const extra = await enrich(w);
-      if (extra?.ipa) w.ipa = extra.ipa;
-      else w.ipa = "";
+      w.ipa = extra?.ipa || "";
     }
   }
 
@@ -112,15 +146,19 @@ async function main() {
     if (new Set(w.units.map((u) => u.split("-")[0])).size > 1) crossBook++;
   }
 
-  const byId = new Map(words.map((w) => [w.id, w]));
   for (const id of BOOKS) {
     const units = parsed[id].map((u) => {
       const uid = `${id}-U${u.no}`;
+      // 目录标题缺失或中文映射缺失时直接失败，不写占位符。
+      const title = raw[id]?.titles?.[u.no];
+      if (!title) throw new Error(`[失败] ${uid} 缺少目录英文标题`);
+      const titleZh = TITLE_ZH[title];
+      if (!titleZh) throw new Error(`[失败] ${uid} 标题 "${title}" 缺少中文映射`);
       return {
         id: uid,
         no: u.no,
-        title: u.title || `Unit ${u.no}`,
-        titleZh: UNIT_TITLE_ZH[uid] || u.title || "",
+        title,
+        titleZh,
         wordIds: u.entries.map((e) => normalizeId(e.text)).filter((v, i, a) => a.indexOf(v) === i),
       };
     });

@@ -7,8 +7,8 @@
   {
    "id": "4B-U1",
    "no": 1,
-   "title": "Unit 1",
-   "titleZh": "",
+   "title": "Class rules",
+   "titleZh": "班级规则",
    "wordIds": [
     "w:sorry",
     "w:hurry up",
@@ -38,8 +38,8 @@
   {
    "id": "4B-U2",
    "no": 2,
-   "title": "Unit 2",
-   "titleZh": "",
+   "title": "Family rules",
+   "titleZh": "家庭规则",
    "wordIds": [
     "w:watch",
     "w:tv",
@@ -68,8 +68,8 @@
   {
    "id": "4B-U3",
    "no": 3,
-   "title": "Unit 3",
-   "titleZh": "",
+   "title": "Time for school",
+   "titleZh": "上学时间",
    "wordIds": [
     "w:over",
     "w:kid",
@@ -90,8 +90,8 @@
   {
    "id": "4B-U4",
    "no": 4,
-   "title": "Unit 4",
-   "titleZh": "",
+   "title": "Going shopping",
+   "titleZh": "去购物",
    "wordIds": [
     "w:trousers",
     "w:pair",
@@ -119,8 +119,8 @@
   {
    "id": "4B-U5",
    "no": 5,
-   "title": "Unit 5",
-   "titleZh": "",
+   "title": "Farms and us",
+   "titleZh": "农场与我们",
    "wordIds": [
     "w:cow",
     "w:horse",
@@ -140,8 +140,8 @@
   {
    "id": "4B-U6",
    "no": 6,
-   "title": "Unit 6",
-   "titleZh": "",
+   "title": "From farm to table",
+   "titleZh": "从农场到餐桌",
    "wordIds": [
     "w:feed",
     "w:pass",
@@ -161,7 +161,6 @@
     "w:herself",
     "w:week",
     "w:salad",
-    "w:numbers",
     "w:one",
     "w:fifteen",
     "w:two",

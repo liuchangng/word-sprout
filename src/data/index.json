@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T08:38:17.601Z",
+ "generatedAt": "2026-10-28T09:04:39.421Z",
  "bookIds": [
   "3A",
   "3B",
@@ -35,7 +35,7 @@
    "id": "w:a lot of",
    "text": "a lot of",
    "ipa": "lɒt",
-   "zh": "大量； 许多",
+   "zh": "大量；许多",
    "core": true,
    "units": [
     "4A-U4"
@@ -45,7 +45,7 @@
    "id": "w:a.m.",
    "text": "a.m.",
    "ipa": "",
-   "zh": "午前； 上午",
+   "zh": "午前；上午",
    "core": false,
    "units": [
     "5B-U1"
@@ -55,7 +55,7 @@
    "id": "w:about",
    "text": "about",
    "ipa": "əˈbaʊt",
-   "zh": "关于； 大约",
+   "zh": "关于；大约",
    "core": true,
    "units": [
     "3B-U1"
@@ -85,7 +85,7 @@
    "id": "w:active",
    "text": "active",
    "ipa": "",
-   "zh": "积极的； 活跃的",
+   "zh": "积极的；活跃的",
    "core": false,
    "units": [
     "6B-U4"
@@ -95,7 +95,7 @@
    "id": "w:add",
    "text": "add",
    "ipa": "æd",
-   "zh": "补充说； 增加",
+   "zh": "补充说；增加",
    "core": false,
    "units": [
     "6A-U3"
@@ -105,7 +105,7 @@
    "id": "w:afraid",
    "text": "afraid",
    "ipa": "əˈfreɪd",
-   "zh": "担心； 害怕",
+   "zh": "担心；害怕",
    "core": false,
    "units": [
     "5A-U2"
@@ -146,7 +146,7 @@
    "id": "w:agree",
    "text": "agree",
    "ipa": "əˈɡriː",
-   "zh": "同意； 赞成 完成； 做好",
+   "zh": "同意；赞成",
    "core": false,
    "units": [
     "5A-U2"
@@ -196,7 +196,7 @@
    "id": "w:all",
    "text": "all",
    "ipa": "ɔːl",
-   "zh": "所有； 全部",
+   "zh": "所有；全部",
    "core": true,
    "units": [
     "3B-U2",
@@ -270,7 +270,7 @@
    "id": "w:answer",
    "text": "answer",
    "ipa": "ˈɑːnsə",
-   "zh": "答复； 回答",
+   "zh": "答复；回答",
    "core": true,
    "units": [
     "5A-U3"
@@ -280,7 +280,7 @@
    "id": "w:any",
    "text": "any",
    "ipa": "ˈeni",
-   "zh": "任何的； 任一的",
+   "zh": "任何的；任一的",
    "core": true,
    "units": [
     "4B-U4"
@@ -331,7 +331,7 @@
    "id": "w:art",
    "text": "art",
    "ipa": "ɑːt",
-   "zh": "美术； 艺术",
+   "zh": "美术；艺术",
    "core": true,
    "units": [
     "4B-U3"
@@ -351,7 +351,7 @@
    "id": "w:ask",
    "text": "ask",
    "ipa": "ɑːsk",
-   "zh": "问； 询问",
+   "zh": "问；询问",
    "core": true,
    "units": [
     "5A-U2"
@@ -401,7 +401,7 @@
    "id": "w:aunt",
    "text": "aunt",
    "ipa": "ɑːnt",
-   "zh": "伯母； 婶母； 舅母； 姑母； 姨母",
+   "zh": "伯母；婶母； 舅母；姑母；姨母",
    "core": true,
    "units": [
     "3A-U2"
@@ -452,7 +452,7 @@
    "id": "w:bad",
    "text": "bad",
    "ipa": "bæd",
-   "zh": "令人不快的； 坏的",
+   "zh": "令人不快的；坏的",
    "core": true,
    "units": [
     "4A-U5"
@@ -472,7 +472,7 @@
    "id": "w:bag",
    "text": "bag",
    "ipa": "bæɡ",
-   "zh": "包； 袋",
+   "zh": "包；袋",
    "core": true,
    "units": [
     "3B-U3"
@@ -516,7 +516,7 @@
    "id": "w:basket",
    "text": "basket",
    "ipa": "",
-   "zh": "篮； 筐",
+   "zh": "篮；筐",
    "core": false,
    "units": [
     "6B-U3"
@@ -546,7 +546,7 @@
    "id": "w:beach",
    "text": "beach",
    "ipa": "",
-   "zh": "海滩； 沙滩",
+   "zh": "海滩；沙滩",
    "core": false,
    "units": [
     "6B-U3"
@@ -588,7 +588,7 @@
    "id": "w:become",
    "text": "become",
    "ipa": "",
-   "zh": "开始变得； 变成",
+   "zh": "开始变得；变成",
    "core": false,
    "units": [
     "6B-U1"
@@ -702,7 +702,7 @@
    "id": "w:black",
    "text": "black",
    "ipa": "blæk",
-   "zh": "黑色； 黑色的",
+   "zh": "黑色；黑色的",
    "core": true,
    "units": [
     "3A-U5"
@@ -722,7 +722,7 @@
    "id": "w:blue",
    "text": "blue",
    "ipa": "bluː",
-   "zh": "蓝色； 蓝色的",
+   "zh": "蓝色；蓝色的",
    "core": true,
    "units": [
     "3A-U5"
@@ -732,7 +732,7 @@
    "id": "w:boat",
    "text": "boat",
    "ipa": "bəʊt",
-   "zh": "小船； 舟",
+   "zh": "小船；舟",
    "core": true,
    "units": [
     "3B-U5"
@@ -752,7 +752,7 @@
    "id": "w:book",
    "text": "book",
    "ipa": "bʊk",
-   "zh": "书； 书籍",
+   "zh": "书；书籍",
    "core": true,
    "units": [
     "3B-U3"
@@ -855,7 +855,7 @@
    "id": "w:bring",
    "text": "bring",
    "ipa": "brɪŋ",
-   "zh": "带……到某处； 带来； 取来",
+   "zh": "带……到某处； 带来；取来",
    "core": true,
    "units": [
     "5A-U6"
@@ -875,7 +875,7 @@
    "id": "w:brother",
    "text": "brother",
    "ipa": "ˈbrʌðə(r)",
-   "zh": "哥； 弟",
+   "zh": "哥；弟",
    "core": true,
    "units": [
     "3A-U2"
@@ -886,7 +886,7 @@
    "id": "w:brown",
    "text": "brown",
    "ipa": "braʊn",
-   "zh": "棕色； 棕色的",
+   "zh": "棕色；棕色的",
    "core": true,
    "units": [
     "3A-U5"
@@ -1029,7 +1029,7 @@
    "id": "w:car",
    "text": "car",
    "ipa": "kɑː(r)",
-   "zh": "小汽车； 轿车",
+   "zh": "小汽车；轿车",
    "core": true,
    "units": [
     "3B-U5"
@@ -1040,7 +1040,7 @@
    "id": "w:card",
    "text": "card",
    "ipa": "kɑːd",
-   "zh": "贺卡； 慰问卡； 卡片",
+   "zh": "贺卡；慰问卡； 卡片",
    "core": true,
    "units": [
     "3B-U2"
@@ -1071,7 +1071,7 @@
    "id": "w:cave",
    "text": "cave",
    "ipa": "",
-   "zh": "山洞； 洞穴",
+   "zh": "山洞；洞穴",
    "core": false,
    "units": [
     "5B-U1"
@@ -1122,7 +1122,7 @@
    "id": "w:check",
    "text": "check",
    "ipa": "tʃek",
-   "zh": "查看； 查明",
+   "zh": "查看；查明",
    "core": false,
    "units": [
     "5A-U4"
@@ -1132,7 +1132,7 @@
    "id": "w:cheer",
    "text": "cheer",
    "ipa": "tʃɪə(r)",
-   "zh": "欢呼； 加油",
+   "zh": "欢呼；加油",
    "core": false,
    "units": [
     "6A-U2"
@@ -1162,7 +1162,7 @@
    "id": "w:chicken",
    "text": "chicken",
    "ipa": "ˈtʃɪkɪn",
-   "zh": "鸡； 鸡肉",
+   "zh": "鸡；鸡肉",
    "core": true,
    "units": [
     "4B-U5"
@@ -1172,7 +1172,7 @@
    "id": "w:child",
    "text": "child",
    "ipa": "tʃaɪld",
-   "zh": "（复数children ） 儿童； 小孩",
+   "zh": "（复数children ） 儿童；小孩",
    "core": true,
    "units": [
     "4A-U1"
@@ -1192,7 +1192,7 @@
    "id": "w:chinese",
    "text": "Chinese",
    "ipa": "ˌtʃaɪˈniːz",
-   "zh": "中文； 中国人； 中国的",
+   "zh": "中文； 中国人；中国的",
    "core": true,
    "units": [
     "4A-U2"
@@ -1232,7 +1232,7 @@
    "id": "w:class",
    "text": "class",
    "ipa": "klɑːs",
-   "zh": "课； 班级",
+   "zh": "课；班级",
    "core": true,
    "units": [
     "3B-U3",
@@ -1263,7 +1263,7 @@
    "id": "w:clay",
    "text": "clay",
    "ipa": "kleɪ",
-   "zh": "黏土； 陶土",
+   "zh": "黏土；陶土",
    "core": false,
    "units": [
     "6A-U1"
@@ -1273,7 +1273,7 @@
    "id": "w:clean",
    "text": "clean",
    "ipa": "kliːn",
-   "zh": "打扫； 干净的",
+   "zh": "打扫；干净的",
    "core": true,
    "units": [
     "4A-U1"
@@ -1333,7 +1333,7 @@
    "id": "w:climb",
    "text": "climb",
    "ipa": "klaɪm",
-   "zh": "攀登； 爬",
+   "zh": "攀登；爬",
    "core": false,
    "units": [
     "6A-U1"
@@ -1343,7 +1343,7 @@
    "id": "w:climbing",
    "text": "climbing",
    "ipa": "",
-   "zh": "（climb 的-ing形式）（正在）攀登； 攀爬",
+   "zh": "（climb 的-ing形式）（正在）攀登；攀爬",
    "core": false,
    "units": [
     "5B-U5"
@@ -1363,7 +1363,7 @@
    "id": "w:close",
    "text": "close",
    "ipa": "kləʊz",
-   "zh": "关； 关闭； 闭上",
+   "zh": "关；关闭；闭上",
    "core": true,
    "units": [
     "5A-U6"
@@ -1383,7 +1383,7 @@
    "id": "w:cloth",
    "text": "cloth",
    "ipa": "klɒθ",
-   "zh": "（一块）布； 织物",
+   "zh": "（一块）布；织物",
    "core": false,
    "units": [
     "6A-U5"
@@ -1393,7 +1393,7 @@
    "id": "w:clothes",
    "text": "clothes",
    "ipa": "kləʊðz",
-   "zh": "衣服； 服装",
+   "zh": "衣服；服装",
    "core": true,
    "units": [
     "4B-U4"
@@ -1423,7 +1423,7 @@
    "id": "w:coat",
    "text": "coat",
    "ipa": "kəʊt",
-   "zh": "大衣； 外套",
+   "zh": "大衣；外套",
    "core": true,
    "units": [
     "4A-U6"
@@ -1485,7 +1485,7 @@
    "id": "w:computer",
    "text": "computer",
    "ipa": "kəmˈpjuːtə(r)",
-   "zh": "计算机； 电脑",
+   "zh": "计算机；电脑",
    "core": true,
    "units": [
     "3B-U3"
@@ -1495,7 +1495,7 @@
    "id": "w:contest",
    "text": "contest",
    "ipa": "",
-   "zh": "比赛； 竞赛",
+   "zh": "比赛；竞赛",
    "core": false,
    "units": [
     "5B-U3"
@@ -1505,7 +1505,7 @@
    "id": "w:cook",
    "text": "cook",
    "ipa": "kʊk",
-   "zh": "烹饪； 煮",
+   "zh": "烹饪；煮",
    "core": true,
    "units": [
     "4A-U1",
@@ -1589,7 +1589,7 @@
    "id": "w:cry",
    "text": "cry",
    "ipa": "kraɪ",
-   "zh": "哭； 哭泣",
+   "zh": "哭；哭泣",
    "core": true,
    "units": [
     "6A-U3"
@@ -1629,7 +1629,7 @@
    "id": "w:dad",
    "text": "dad",
    "ipa": "dæd",
-   "zh": "（口语）爸爸； 爹爹",
+   "zh": "（口语）爸爸；爹爹",
    "core": true,
    "units": [
     "3A-U2"
@@ -1650,7 +1650,7 @@
    "id": "w:dancing",
    "text": "dancing",
    "ipa": "",
-   "zh": "跳舞； 舞蹈",
+   "zh": "跳舞；舞蹈",
    "core": false,
    "units": [
     "5B-U1"
@@ -1660,7 +1660,7 @@
    "id": "w:dangerous",
    "text": "dangerous",
    "ipa": "ˈdeɪndʒərəs",
-   "zh": "有危险的； 不安全的",
+   "zh": "有危险的；不安全的",
    "core": true,
    "units": [
     "5A-U6"
@@ -1720,7 +1720,7 @@
    "id": "w:desk",
    "text": "desk",
    "ipa": "desk",
-   "zh": "书桌； 办公桌",
+   "zh": "书桌；办公桌",
    "core": true,
    "units": [
     "4B-U1"
@@ -1760,7 +1760,7 @@
    "id": "w:different",
    "text": "different",
    "ipa": "ˈdɪfrənt",
-   "zh": "不同的； 有区别的； 有差异的",
+   "zh": "不同的； 有区别的；有差异的",
    "core": false,
    "units": [
     "5A-U5",
@@ -1811,7 +1811,7 @@
    "id": "w:discuss",
    "text": "discuss",
    "ipa": "dɪˈskʌs",
-   "zh": "讨论； 商量",
+   "zh": "讨论；商量",
    "core": false,
    "units": [
     "6A-U3"
@@ -1863,7 +1863,7 @@
    "id": "w:doll",
    "text": "doll",
    "ipa": "dɒl",
-   "zh": "玩偶； 玩具娃娃",
+   "zh": "玩偶；玩具娃娃",
    "core": true,
    "units": [
     "3B-U5"
@@ -1947,7 +1947,7 @@
    "id": "w:drive",
    "text": "drive",
    "ipa": "draɪv",
-   "zh": "驾驶； 开车",
+   "zh": "驾驶；开车",
    "core": false,
    "units": [
     "6A-U6"
@@ -1998,7 +1998,7 @@
    "id": "w:each",
    "text": "each",
    "ipa": "",
-   "zh": "每一； 各个",
+   "zh": "每一；各个",
    "core": false,
    "units": [
     "5B-U5"
@@ -2038,7 +2038,7 @@
    "id": "w:easy",
    "text": "easy",
    "ipa": "ˈiːzi",
-   "zh": "容易的； 轻易的",
+   "zh": "容易的；轻易的",
    "core": true,
    "units": [
     "5A-U1",
@@ -2186,7 +2186,7 @@
    "id": "w:else",
    "text": "else",
    "ipa": "els",
-   "zh": "其他的； 别的",
+   "zh": "其他的；别的",
    "core": false,
    "units": [
     "5A-U4",
@@ -2217,7 +2217,7 @@
    "id": "w:english",
    "text": "English",
    "ipa": "ˈɪŋɡlɪʃ",
-   "zh": "英语的； 英语",
+   "zh": "英语的；英语",
    "core": true,
    "units": [
     "3B-U1"
@@ -2237,7 +2237,7 @@
    "id": "w:enough",
    "text": "enough",
    "ipa": "ɪˈnʌf",
-   "zh": "足够的； 充足的； 充分的",
+   "zh": "足够的； 充足的；充分的",
    "core": false,
    "units": [
     "5A-U4"
@@ -2257,7 +2257,7 @@
    "id": "w:evening",
    "text": "evening",
    "ipa": "ˈiːvnɪŋ",
-   "zh": "晚上； 傍晚",
+   "zh": "晚上；傍晚",
    "core": true,
    "units": [
     "5A-U3"
@@ -2308,7 +2308,7 @@
    "id": "w:exercise",
    "text": "exercise",
    "ipa": "ˈeksəsaɪz",
-   "zh": "锻炼； 训练； 操练",
+   "zh": "锻炼； 训练；操练",
    "core": true,
    "units": [
     "5A-U4",
@@ -2349,7 +2349,7 @@
    "id": "w:face",
    "text": "face",
    "ipa": "feɪs",
-   "zh": "脸； 面孔",
+   "zh": "脸；面孔",
    "core": true,
    "units": [
     "3B-U2"
@@ -2380,7 +2380,7 @@
    "id": "w:family",
    "text": "family",
    "ipa": "ˈfæməli",
-   "zh": "家； 家庭",
+   "zh": "家；家庭",
    "core": true,
    "units": [
     "3A-U2"
@@ -2452,7 +2452,7 @@
    "id": "w:fat",
    "text": "fat",
    "ipa": "fæt",
-   "zh": "肥的； 肥胖的",
+   "zh": "肥的；肥胖的",
    "core": true,
    "units": [
     "3B-U2"
@@ -2462,7 +2462,7 @@
    "id": "w:father",
    "text": "father",
    "ipa": "ˈfɑːðə(r)",
-   "zh": "父亲； 爸爸",
+   "zh": "父亲；爸爸",
    "core": true,
    "units": [
     "3A-U2"
@@ -2503,7 +2503,7 @@
    "id": "w:feel",
    "text": "feel",
    "ipa": "fiːl",
-   "zh": "觉得； 感到",
+   "zh": "觉得；感到",
    "core": true,
    "units": [
     "4B-U2"
@@ -2543,7 +2543,7 @@
    "id": "w:fever",
    "text": "fever",
    "ipa": "ˈfiːvə(r)",
-   "zh": "发烧； 发热",
+   "zh": "发烧；发热",
    "core": false,
    "units": [
     "6A-U3"
@@ -2553,7 +2553,7 @@
    "id": "w:few",
    "text": "few",
    "ipa": "",
-   "zh": "不多； 很少",
+   "zh": "不多；很少",
    "core": false,
    "units": [
     "5B-U3"
@@ -2604,7 +2604,7 @@
    "id": "w:find",
    "text": "find",
    "ipa": "faɪnd",
-   "zh": "找到； 找回",
+   "zh": "找到；找回",
    "core": true,
    "units": [
     "3B-U3"
@@ -2624,7 +2624,7 @@
    "id": "w:finish",
    "text": "finish",
    "ipa": "ˈfɪnɪʃ",
-   "zh": "完成； 做好",
+   "zh": "完成；做好",
    "core": false,
    "units": [
     "5A-U2"
@@ -2634,7 +2634,7 @@
    "id": "w:fire",
    "text": "fire",
    "ipa": "ˈfaɪə(r)",
-   "zh": "火； 火灾",
+   "zh": "火；火灾",
    "core": true,
    "units": [
     "5A-U6"
@@ -2654,7 +2654,7 @@
    "id": "w:first",
    "text": "first",
    "ipa": "fɜːst",
-   "zh": "首先； 首次； 第一",
+   "zh": "首先；首次；第一",
    "core": true,
    "units": [
     "4B-U2"
@@ -2674,7 +2674,7 @@
    "id": "w:fish",
    "text": "fish",
    "ipa": "fɪʃ",
-   "zh": "鱼； 鱼肉",
+   "zh": "鱼；鱼肉",
    "core": true,
    "units": [
     "3A-U3",
@@ -2707,7 +2707,7 @@
    "id": "w:flood",
    "text": "flood",
    "ipa": "flʌd",
-   "zh": "洪水； 水灾",
+   "zh": "洪水；水灾",
    "core": true,
    "units": [
     "5A-U6"
@@ -2717,7 +2717,7 @@
    "id": "w:floor",
    "text": "floor",
    "ipa": "flɔː(r)",
-   "zh": "地板； 地面",
+   "zh": "地板；地面",
    "core": true,
    "units": [
     "4A-U1"
@@ -2727,7 +2727,7 @@
    "id": "w:flower",
    "text": "flower",
    "ipa": "ˈflaʊə(r)",
-   "zh": "花； 花朵",
+   "zh": "花；花朵",
    "core": true,
    "units": [
     "3A-U4"
@@ -2738,7 +2738,7 @@
    "id": "w:flu",
    "text": "flu",
    "ipa": "fluː",
-   "zh": "流行性感冒； 流感",
+   "zh": "流行性感冒；流感",
    "core": false,
    "units": [
     "5A-U4"
@@ -2778,7 +2778,7 @@
    "id": "w:food",
    "text": "food",
    "ipa": "fuːd",
-   "zh": "菜肴； 食物",
+   "zh": "菜肴；食物",
    "core": true,
    "units": [
     "4B-U6"
@@ -2808,7 +2808,7 @@
    "id": "w:forest",
    "text": "forest",
    "ipa": "ˈfɒrɪst",
-   "zh": "森林； 林区",
+   "zh": "森林；林区",
    "core": true,
    "units": [
     "5A-U6"
@@ -2942,7 +2942,7 @@
    "id": "w:fun",
    "text": "fun",
    "ipa": "fʌn",
-   "zh": "享乐； 乐趣",
+   "zh": "享乐；乐趣",
    "core": true,
    "units": [
     "4A-U5"
@@ -2962,7 +2962,7 @@
    "id": "w:gala",
    "text": "gala",
    "ipa": "ˈɡɑːlə",
-   "zh": "演出； 庆典",
+   "zh": "演出；庆典",
    "core": false,
    "units": [
     "6A-U2"
@@ -3021,6 +3021,16 @@
    ]
   },
   {
+   "id": "w:gingerbread house",
+   "text": "gingerbread house",
+   "ipa": "ˈdʒɪndʒəbred",
+   "zh": "姜饼屋",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
    "id": "w:giraffe",
    "text": "giraffe",
    "ipa": "dʒəˈrɑːf",
@@ -3064,7 +3074,7 @@
    "id": "w:glove",
    "text": "glove",
    "ipa": "ɡlʌv",
-   "zh": "手套 then 然后； 那时",
+   "zh": "手套",
    "core": true,
    "units": [
     "4A-U6"
@@ -3074,7 +3084,7 @@
    "id": "w:go",
    "text": "go",
    "ipa": "ɡəʊ",
-   "zh": "去； 走",
+   "zh": "去；走",
    "core": true,
    "units": [
     "3A-U3",
@@ -3135,7 +3145,7 @@
    "id": "w:go shopping",
    "text": "go shopping",
    "ipa": "",
-   "zh": "去买东西； 购物",
+   "zh": "去买东西；购物",
    "core": false,
    "units": [
     "5B-U1"
@@ -3206,7 +3216,7 @@
    "id": "w:grandfather",
    "text": "grandfather",
    "ipa": "ˈɡrænfɑːðə(r)",
-   "zh": "（外）祖父； 爷爷； 姥爷； 外公",
+   "zh": "（外）祖父；爷爷；姥爷；外公",
    "core": true,
    "units": [
     "3A-U2"
@@ -3226,7 +3236,7 @@
    "id": "w:grandmother",
    "text": "grandmother",
    "ipa": "ˈɡrænmʌðə(r)",
-   "zh": "（外）祖母； 奶奶； 姥姥； 外婆",
+   "zh": "（外）祖母；奶奶；姥姥；外婆",
    "core": true,
    "units": [
     "3A-U2"
@@ -3246,7 +3256,7 @@
    "id": "w:grandparent",
    "text": "grandparent",
    "ipa": "ˈɡrænpeərənt",
-   "zh": "祖父； 祖母； 外祖父； 外祖母",
+   "zh": "祖父；祖母；外祖父；外祖母",
    "core": false,
    "units": [
     "5A-U3"
@@ -3267,7 +3277,7 @@
    "id": "w:grass",
    "text": "grass",
    "ipa": "ɡrɑːs",
-   "zh": "草； 草地",
+   "zh": "草；草地",
    "core": true,
    "units": [
     "3A-U4",
@@ -3279,7 +3289,7 @@
    "id": "w:green",
    "text": "green",
    "ipa": "ɡriːn",
-   "zh": "绿色； 绿色的",
+   "zh": "绿色；绿色的",
    "core": true,
    "units": [
     "3A-U5"
@@ -3319,7 +3329,7 @@
    "id": "w:had",
    "text": "had",
    "ipa": "",
-   "zh": "（have 的过去式） 患病； 得病",
+   "zh": "（have 的过去式） 患病；得病",
    "core": false,
    "units": [
     "6B-U2"
@@ -3349,7 +3359,7 @@
    "id": "w:haircut",
    "text": "haircut",
    "ipa": "ˈheəkʌt",
-   "zh": "理发； 发型",
+   "zh": "理发；发型",
    "core": false,
    "units": [
     "6A-U4"
@@ -3379,7 +3389,7 @@
    "id": "w:hamburger",
    "text": "hamburger",
    "ipa": "ˈhæmbɜːɡə(r)",
-   "zh": "汉堡包； 汉堡牛肉饼",
+   "zh": "汉堡包；汉堡牛肉饼",
    "core": false,
    "units": [
     "5A-U5"
@@ -3409,7 +3419,7 @@
    "id": "w:hard",
    "text": "hard",
    "ipa": "hɑːd",
-   "zh": "努力地； 费力地",
+   "zh": "努力地；费力地",
    "core": true,
    "units": [
     "4B-U2"
@@ -3419,7 +3429,7 @@
    "id": "w:hard-working",
    "text": "hard-working",
    "ipa": "ˌhɑːd ˈwɜːkɪŋ",
-   "zh": "工作努力的； 辛勤的",
+   "zh": "工作努力的；辛勤的",
    "core": false,
    "units": [
     "5A-U1"
@@ -3499,7 +3509,7 @@
    "id": "w:head",
    "text": "head",
    "ipa": "hed",
-   "zh": "头； 头部",
+   "zh": "头；头部",
    "core": true,
    "units": [
     "6A-U3"
@@ -3519,7 +3529,7 @@
    "id": "w:hear",
    "text": "hear",
    "ipa": "hɪə(r)",
-   "zh": "听见； 听到",
+   "zh": "听见；听到",
    "core": true,
    "units": [
     "3B-U3"
@@ -3529,7 +3539,7 @@
    "id": "w:heat",
    "text": "heat",
    "ipa": "hiːt",
-   "zh": "加热； （使）变暖； 热量",
+   "zh": "加热；（使）变暖； 热量",
    "core": false,
    "units": [
     "6A-U6"
@@ -3569,7 +3579,7 @@
    "id": "w:helpful",
    "text": "helpful",
    "ipa": "ˈhelpfl",
-   "zh": "有帮助的； 有用的",
+   "zh": "有帮助的；有用的",
    "core": true,
    "units": [
     "4B-U2"
@@ -3579,7 +3589,7 @@
    "id": "w:her",
    "text": "her",
    "ipa": "hɜː(r)",
-   "zh": "她； 她的",
+   "zh": "她；她的",
    "core": true,
    "units": [
     "3B-U2"
@@ -3630,7 +3640,7 @@
    "id": "w:home",
    "text": "home",
    "ipa": "həʊm",
-   "zh": "家； 住所",
+   "zh": "家；住所",
    "core": true,
    "units": [
     "3B-U5"
@@ -3644,6 +3654,16 @@
    "core": true,
    "units": [
     "4B-U2"
+   ]
+  },
+  {
+   "id": "w:hong kong-zhuhai-macao bridge",
+   "text": "Hong Kong-Zhuhai-Macao Bridge",
+   "ipa": "ˌhɒŋˈkɒŋ",
+   "zh": "港珠澳大桥",
+   "core": false,
+   "units": [
+    "6A-U1"
    ]
   },
   {
@@ -3683,7 +3703,7 @@
    "id": "w:hotel",
    "text": "hotel",
    "ipa": "həʊˈtel",
-   "zh": "旅馆； 旅社",
+   "zh": "旅馆；旅社",
    "core": true,
    "units": [
     "5A-U6",
@@ -3707,8 +3727,7 @@
    "zh": "房子",
    "core": true,
    "units": [
-    "5A-U4",
-    "6A-U1"
+    "5A-U4"
    ],
    "emoji": "house"
   },
@@ -3736,7 +3755,7 @@
    "id": "w:hurry up",
    "text": "hurry up",
    "ipa": "ˈhʌri",
-   "zh": "快点； 赶快",
+   "zh": "快点；赶快",
    "core": true,
    "units": [
     "4B-U1"
@@ -3776,7 +3795,7 @@
    "id": "w:idea",
    "text": "idea",
    "ipa": "aɪˈdɪə",
-   "zh": "想法； 主意",
+   "zh": "想法；主意",
    "core": true,
    "units": [
     "4A-U5"
@@ -3786,7 +3805,7 @@
    "id": "w:if",
    "text": "if",
    "ipa": "ɪf",
-   "zh": "如果； 假若； 倘若",
+   "zh": "如果；假若；倘若",
    "core": false,
    "units": [
     "5A-U4"
@@ -3796,7 +3815,7 @@
    "id": "w:ill",
    "text": "ill",
    "ipa": "ɪl",
-   "zh": "不舒服； 生病的",
+   "zh": "不舒服；生病的",
    "core": true,
    "units": [
     "6A-U3"
@@ -3816,7 +3835,7 @@
    "id": "w:in",
    "text": "in",
    "ipa": "ɪn",
-   "zh": "在……内； 在……中",
+   "zh": "在……内；在……中",
    "core": true,
    "units": [
     "3B-U5"
@@ -3866,7 +3885,7 @@
    "id": "w:into",
    "text": "into",
    "ipa": "ˈɪntə",
-   "zh": "朝； 进入",
+   "zh": "朝；进入",
    "core": false,
    "units": [
     "6A-U5"
@@ -3886,7 +3905,7 @@
    "id": "w:its",
    "text": "its",
    "ipa": "",
-   "zh": "指事物、动物或幼儿） 它的； 他的； 她的",
+   "zh": "指事物、动物或幼儿） 它的；他的；她的",
    "core": false,
    "units": [
     "5B-U6"
@@ -3936,7 +3955,7 @@
    "id": "w:job",
    "text": "job",
    "ipa": "dʒɒb",
-   "zh": "工作； 职业",
+   "zh": "工作；职业",
    "core": true,
    "units": [
     "4A-U1"
@@ -3976,7 +3995,7 @@
    "id": "w:jump",
    "text": "jump",
    "ipa": "dʒʌmp",
-   "zh": "跳； 跃",
+   "zh": "跳；跃",
    "core": true,
    "units": [
     "5A-U1"
@@ -4007,7 +4026,7 @@
    "id": "w:just",
    "text": "just",
    "ipa": "dʒʌst",
-   "zh": "只是； 仅仅； 正要",
+   "zh": "只是；仅仅；正要",
    "core": true,
    "units": [
     "4B-U3"
@@ -4017,7 +4036,7 @@
    "id": "w:keep",
    "text": "keep",
    "ipa": "kiːp",
-   "zh": "保有； 留着",
+   "zh": "保有；留着",
    "core": true,
    "units": [
     "3B-U5",
@@ -4058,7 +4077,7 @@
    "id": "w:kilogram",
    "text": "kilogram",
    "ipa": "",
-   "zh": "千克； 公斤",
+   "zh": "千克；公斤",
    "core": false,
    "units": [
     "6B-U1"
@@ -4068,7 +4087,7 @@
    "id": "w:kilometre",
    "text": "kilometre",
    "ipa": "kɪˈlɒmɪtə(r)",
-   "zh": "（=km） 千米； 公里",
+   "zh": "（=km） 千米；公里",
    "core": false,
    "units": [
     "6A-U1"
@@ -4128,7 +4147,7 @@
    "id": "w:know",
    "text": "know",
    "ipa": "nəʊ",
-   "zh": "知道； 了解",
+   "zh": "知道；了解",
    "core": true,
    "units": [
     "5A-U6"
@@ -4158,7 +4177,7 @@
    "id": "w:lake",
    "text": "lake",
    "ipa": "leɪk",
-   "zh": "湖； 湖泊",
+   "zh": "湖；湖泊",
    "core": true,
    "units": [
     "5A-U5"
@@ -4188,7 +4207,7 @@
    "id": "w:last",
    "text": "last",
    "ipa": "",
-   "zh": "上一个的； 刚过去的",
+   "zh": "上一个的；刚过去的",
    "core": false,
    "units": [
     "5B-U1",
@@ -4199,7 +4218,7 @@
    "id": "w:late",
    "text": "late",
    "ipa": "leɪt",
-   "zh": "迟到； 迟发生",
+   "zh": "迟到；迟发生",
    "core": true,
    "units": [
     "4B-U1",
@@ -4210,7 +4229,7 @@
    "id": "w:later",
    "text": "later",
    "ipa": "ˈleɪtə(r)",
-   "zh": "随后； 后来",
+   "zh": "随后；后来",
    "core": false,
    "units": [
     "6A-U2"
@@ -4251,7 +4270,7 @@
    "id": "w:learn",
    "text": "learn",
    "ipa": "lɜːn",
-   "zh": "学； 学习",
+   "zh": "学；学习",
    "core": true,
    "units": [
     "3B-U3"
@@ -4281,7 +4300,7 @@
    "id": "w:lesson",
    "text": "lesson",
    "ipa": "ˈlesn",
-   "zh": "课； 一节课",
+   "zh": "课；一节课",
    "core": true,
    "units": [
     "5A-U3"
@@ -4322,7 +4341,7 @@
    "id": "w:light",
    "text": "light",
    "ipa": "laɪt",
-   "zh": "灯； 光",
+   "zh": "灯；光",
    "core": true,
    "units": [
     "4B-U1",
@@ -4344,7 +4363,7 @@
    "id": "w:lion",
    "text": "lion",
    "ipa": "ˈlaɪən",
-   "zh": "狮； 狮子",
+   "zh": "狮；狮子",
    "core": true,
    "units": [
     "3A-U3"
@@ -4355,7 +4374,7 @@
    "id": "w:list",
    "text": "list",
    "ipa": "lɪst",
-   "zh": "清单； 目录",
+   "zh": "清单；目录",
    "core": true,
    "units": [
     "4B-U4"
@@ -4365,7 +4384,7 @@
    "id": "w:listen",
    "text": "listen",
    "ipa": "ˈlɪsn",
-   "zh": "听； 倾听",
+   "zh": "听；倾听",
    "core": true,
    "units": [
     "3A-U1"
@@ -4385,7 +4404,7 @@
    "id": "w:little",
    "text": "little",
    "ipa": "ˈlɪtl",
-   "zh": "少许； 一点",
+   "zh": "少许；一点",
    "core": true,
    "units": [
     "5A-U5"
@@ -4476,7 +4495,7 @@
    "id": "w:love",
    "text": "love",
    "ipa": "lʌv",
-   "zh": "喜爱； 爱",
+   "zh": "喜爱；爱",
    "core": true,
    "units": [
     "3B-U2"
@@ -4486,7 +4505,7 @@
    "id": "w:lovely",
    "text": "lovely",
    "ipa": "ˈlʌvli",
-   "zh": "美丽的； 优美的",
+   "zh": "美丽的；优美的",
    "core": true,
    "units": [
     "5A-U1",
@@ -4524,16 +4543,6 @@
    ]
   },
   {
-   "id": "w:macao bridge",
-   "text": "Macao Bridge",
-   "ipa": "məˈkaʊ",
-   "zh": "港珠澳大桥",
-   "core": false,
-   "units": [
-    "6A-U1"
-   ]
-  },
-  {
    "id": "w:magazine",
    "text": "magazine",
    "ipa": "%",
@@ -4547,7 +4556,7 @@
    "id": "w:make",
    "text": "make",
    "ipa": "meɪk",
-   "zh": "使出现； 做",
+   "zh": "使出现；做",
    "core": true,
    "units": [
     "3A-U5",
@@ -4578,7 +4587,7 @@
    "id": "w:man",
    "text": "man",
    "ipa": "mæn",
-   "zh": "成年男子； 男人",
+   "zh": "成年男子；男人",
    "core": true,
    "units": [
     "3B-U1"
@@ -4638,7 +4647,7 @@
    "id": "w:market",
    "text": "market",
    "ipa": "ˈmɑːkɪt",
-   "zh": "集市； 市场",
+   "zh": "集市；市场",
    "core": false,
    "units": [
     "6A-U6"
@@ -4668,7 +4677,7 @@
    "id": "w:matter",
    "text": "matter",
    "ipa": "ˈmætə(r)",
-   "zh": "事情； 问题",
+   "zh": "事情；问题",
    "core": false,
    "units": [
     "5A-U2"
@@ -4709,7 +4718,7 @@
    "id": "w:meet",
    "text": "meet",
    "ipa": "",
-   "zh": "集会； 开会",
+   "zh": "集会；开会",
    "core": false,
    "units": [
     "5B-U3"
@@ -4772,7 +4781,7 @@
    "id": "w:miss",
    "text": "Miss",
    "ipa": "mɪs",
-   "zh": "（学生对女教师的 称呼）老师； 女士",
+   "zh": "（学生对女教师的 称呼）老师；女士",
    "core": true,
    "units": [
     "3A-U3"
@@ -4813,7 +4822,7 @@
    "id": "w:month",
    "text": "month",
    "ipa": "mʌnθ",
-   "zh": "月； 月份",
+   "zh": "月；月份",
    "core": true,
    "units": [
     "6A-U5"
@@ -4823,7 +4832,7 @@
    "id": "w:moon",
    "text": "moon",
    "ipa": "muːn",
-   "zh": "(also the Moon) 月球； 月亮； 卫星",
+   "zh": "(also the Moon) 月球；月亮；卫星",
    "core": true,
    "units": [
     "6A-U5"
@@ -4834,7 +4843,7 @@
    "id": "w:mother",
    "text": "mother",
    "ipa": "ˈmʌðə(r)",
-   "zh": "母亲； 妈妈",
+   "zh": "母亲；妈妈",
    "core": true,
    "units": [
     "3A-U2"
@@ -4875,7 +4884,7 @@
    "id": "w:move",
    "text": "move",
    "ipa": "muːv",
-   "zh": "搬家； 移动",
+   "zh": "搬家；移动",
    "core": true,
    "units": [
     "5A-U2"
@@ -4915,7 +4924,7 @@
    "id": "w:much",
    "text": "much",
    "ipa": "mʌtʃ",
-   "zh": "许多； 大量",
+   "zh": "许多；大量",
    "core": true,
    "units": [
     "3B-U2"
@@ -5046,7 +5055,7 @@
    "id": "w:nice",
    "text": "nice",
    "ipa": "naɪs",
-   "zh": "令人愉快的； 友好的",
+   "zh": "令人愉快的；友好的",
    "core": true,
    "units": [
     "3A-U1"
@@ -5056,7 +5065,7 @@
    "id": "w:night",
    "text": "night",
    "ipa": "naɪt",
-   "zh": "夜； 夜晚",
+   "zh": "夜；夜晚",
    "core": true,
    "units": [
     "5A-U3"
@@ -5098,7 +5107,7 @@
    "id": "w:noise",
    "text": "noise",
    "ipa": "",
-   "zh": "声音； 响声； 噪音",
+   "zh": "声音；响声；噪音",
    "core": false,
    "units": [
     "5B-U4"
@@ -5118,7 +5127,7 @@
    "id": "w:nose",
    "text": "nose",
    "ipa": "nəʊz",
-   "zh": "鼻； 鼻子",
+   "zh": "鼻；鼻子",
    "core": true,
    "units": [
     "3B-U3"
@@ -5165,16 +5174,6 @@
    ]
   },
   {
-   "id": "w:numbers",
-   "text": "Numbers",
-   "ipa": "",
-   "zh": "数 词",
-   "core": false,
-   "units": [
-    "4B-U6"
-   ]
-  },
-  {
    "id": "w:nurse",
    "text": "nurse",
    "ipa": "nɜːs",
@@ -5198,7 +5197,7 @@
    "id": "w:ocean",
    "text": "ocean",
    "ipa": "ˈəʊʃn",
-   "zh": "大海； 海洋",
+   "zh": "大海；海洋",
    "core": false,
    "units": [
     "6A-U5"
@@ -5238,7 +5237,7 @@
    "id": "w:old",
    "text": "old",
    "ipa": "əʊld",
-   "zh": "（多少）岁； 年纪； 旧的",
+   "zh": "（多少）岁；年纪； 旧的",
    "core": true,
    "units": [
     "3A-U6",
@@ -5290,7 +5289,7 @@
    "id": "w:or",
    "text": "or",
    "ipa": "ɔː(r)",
-   "zh": "或； 或者； 还是",
+   "zh": "或；或者；还是",
    "core": true,
    "units": [
     "3B-U2"
@@ -5300,7 +5299,7 @@
    "id": "w:orange",
    "text": "orange",
    "ipa": "ˈɒrɪndʒ",
-   "zh": "橙子； 柑橘",
+   "zh": "橙子；柑橘",
    "core": true,
    "units": [
     "3A-U4",
@@ -5363,7 +5362,7 @@
    "id": "w:p.m.",
    "text": "p.m.",
    "ipa": "",
-   "zh": "午后； 下午",
+   "zh": "午后；下午",
    "core": false,
    "units": [
     "5B-U1"
@@ -5414,7 +5413,7 @@
    "id": "w:parent",
    "text": "parent",
    "ipa": "ˈpeərənt",
-   "zh": "父亲； 母亲",
+   "zh": "父亲；母亲",
    "core": true,
    "units": [
     "5A-U2"
@@ -5455,7 +5454,7 @@
    "id": "w:pass",
    "text": "pass",
    "ipa": "pɑːs",
-   "zh": "给； 递",
+   "zh": "给；递",
    "core": true,
    "units": [
     "4B-U6"
@@ -5517,7 +5516,7 @@
    "id": "w:people",
    "text": "people",
    "ipa": "ˈpiːpl",
-   "zh": "人； 人们",
+   "zh": "人；人们",
    "core": true,
    "units": [
     "4A-U1"
@@ -5537,7 +5536,7 @@
    "id": "w:phone",
    "text": "phone",
    "ipa": "fəʊn",
-   "zh": "电话； 电话机",
+   "zh": "电话；电话机",
    "core": true,
    "units": [
     "5A-U4"
@@ -5567,7 +5566,7 @@
    "id": "w:pick",
    "text": "pick",
    "ipa": "pɪk",
-   "zh": "采； 摘",
+   "zh": "采；摘",
    "core": true,
    "units": [
     "4B-U6",
@@ -5639,7 +5638,7 @@
    "id": "w:pink",
    "text": "pink",
    "ipa": "pɪŋk",
-   "zh": "粉色； 粉色的",
+   "zh": "粉色；粉色的",
    "core": true,
    "units": [
     "3A-U5",
@@ -5650,7 +5649,7 @@
    "id": "w:place",
    "text": "place",
    "ipa": "pleɪs",
-   "zh": "地方； 场所",
+   "zh": "地方；场所",
    "core": true,
    "units": [
     "4A-U3"
@@ -5670,7 +5669,7 @@
    "id": "w:plant",
    "text": "plant",
    "ipa": "plɑːnt",
-   "zh": "种植； 植物",
+   "zh": "种植；植物",
    "core": true,
    "units": [
     "3A-U4",
@@ -5723,7 +5722,7 @@
    "id": "w:playground",
    "text": "playground",
    "ipa": "ˈpleɪɡraʊnd",
-   "zh": "游乐场； 操场",
+   "zh": "游乐场；操场",
    "core": true,
    "units": [
     "4A-U3"
@@ -5753,7 +5752,7 @@
    "id": "w:police officer",
    "text": "police officer",
    "ipa": "pəˈliːs",
-   "zh": "警察； 警员",
+   "zh": "警察；警员",
    "core": true,
    "units": [
     "4A-U4"
@@ -5773,7 +5772,7 @@
    "id": "w:power",
    "text": "power",
    "ipa": "ˈpaʊə(r)",
-   "zh": "能； 能量",
+   "zh": "能；能量",
    "core": false,
    "units": [
     "6A-U6"
@@ -5783,7 +5782,7 @@
    "id": "w:project",
    "text": "project",
    "ipa": "ˈprɒdʒekt",
-   "zh": "项目； 方案",
+   "zh": "项目；方案",
    "core": false,
    "units": [
     "5A-U2"
@@ -5793,7 +5792,7 @@
    "id": "w:pull",
    "text": "pull",
    "ipa": "pʊl",
-   "zh": "拔出； 抽出",
+   "zh": "拔出；抽出",
    "core": false,
    "units": [
     "5A-U5"
@@ -5813,7 +5812,7 @@
    "id": "w:purple",
    "text": "purple",
    "ipa": "ˈpɜːpl",
-   "zh": "紫色； 紫色的",
+   "zh": "紫色；紫色的",
    "core": true,
    "units": [
     "3A-U5"
@@ -5823,7 +5822,7 @@
    "id": "w:put",
    "text": "put",
    "ipa": "pʊt",
-   "zh": "放； 安置",
+   "zh": "放；安置",
    "core": true,
    "units": [
     "3B-U5"
@@ -5843,7 +5842,7 @@
    "id": "w:quick",
    "text": "quick",
    "ipa": "kwɪk",
-   "zh": "迅速的； 快的",
+   "zh": "迅速的；快的",
    "core": false,
    "units": [
     "6A-U6"
@@ -5874,7 +5873,7 @@
    "id": "w:race",
    "text": "race",
    "ipa": "reɪs",
-   "zh": "赛跑； 速度竞赛",
+   "zh": "赛跑；速度竞赛",
    "core": false,
    "units": [
     "6A-U2",
@@ -5885,7 +5884,7 @@
    "id": "w:rain",
    "text": "rain",
    "ipa": "reɪn",
-   "zh": "下雨； 雨",
+   "zh": "下雨；雨",
    "core": true,
    "units": [
     "4A-U5"
@@ -5949,7 +5948,7 @@
    "id": "w:red",
    "text": "red",
    "ipa": "red",
-   "zh": "红色； 红色的",
+   "zh": "红色；红色的",
    "core": true,
    "units": [
     "3A-U5"
@@ -5989,7 +5988,7 @@
    "id": "w:rest",
    "text": "rest",
    "ipa": "rest",
-   "zh": "休息； 放松",
+   "zh": "休息；放松",
    "core": false,
    "units": [
     "5A-U4"
@@ -5999,7 +5998,7 @@
    "id": "w:restaurant",
    "text": "restaurant",
    "ipa": "ˈrestrɒnt",
-   "zh": "餐馆； 餐厅",
+   "zh": "餐馆；餐厅",
    "core": false,
    "units": [
     "6A-U1"
@@ -6030,7 +6029,7 @@
    "id": "w:riddle",
    "text": "riddle",
    "ipa": "",
-   "zh": "谜； 谜语",
+   "zh": "谜；谜语",
    "core": false,
    "units": [
     "5B-U3"
@@ -6050,7 +6049,7 @@
    "id": "w:river",
    "text": "river",
    "ipa": "ˈrɪvə(r)",
-   "zh": "河； 江",
+   "zh": "河；江",
    "core": true,
    "units": [
     "5A-U6"
@@ -6070,7 +6069,7 @@
    "id": "w:rode",
    "text": "rode",
    "ipa": "",
-   "zh": "（ride 的过去式） 骑（马； 自行车）",
+   "zh": "（ride 的过去式） 骑（马；自行车）",
    "core": false,
    "units": [
     "6B-U3"
@@ -6090,7 +6089,7 @@
    "id": "w:root",
    "text": "root",
    "ipa": "ruːt",
-   "zh": "根； 根茎",
+   "zh": "根；根茎",
    "core": false,
    "units": [
     "5A-U5"
@@ -6100,7 +6099,7 @@
    "id": "w:rope",
    "text": "rope",
    "ipa": "rəʊp",
-   "zh": "绳； 粗绳",
+   "zh": "绳；粗绳",
    "core": false,
    "units": [
     "5A-U1"
@@ -6110,7 +6109,7 @@
    "id": "w:round",
    "text": "round",
    "ipa": "raʊnd",
-   "zh": "圆形的； 环形的； 球形的",
+   "zh": "圆形的；环形的； 球形的",
    "core": false,
    "units": [
     "5A-U5"
@@ -6140,7 +6139,7 @@
    "id": "w:rule",
    "text": "rule",
    "ipa": "ruːl",
-   "zh": "规则； 规章",
+   "zh": "规则；规章",
    "core": true,
    "units": [
     "4B-U1"
@@ -6161,7 +6160,7 @@
    "id": "w:run",
    "text": "run",
    "ipa": "rʌn",
-   "zh": "跑； 奔跑",
+   "zh": "跑；奔跑",
    "core": true,
    "units": [
     "4B-U2",
@@ -6194,7 +6193,7 @@
    "id": "w:sad",
    "text": "sad",
    "ipa": "sæd",
-   "zh": "悲哀的； 难过的",
+   "zh": "悲哀的；难过的",
    "core": true,
    "units": [
     "5A-U2"
@@ -6225,7 +6224,7 @@
    "id": "w:sale",
    "text": "sale",
    "ipa": "seɪl",
-   "zh": "特价销售； 出售",
+   "zh": "特价销售；出售",
    "core": false,
    "units": [
     "6A-U4"
@@ -6275,7 +6274,7 @@
    "id": "w:say",
    "text": "say",
    "ipa": "seɪ",
-   "zh": "说； 讲",
+   "zh": "说；讲",
    "core": true,
    "units": [
     "3A-U1",
@@ -6317,7 +6316,7 @@
    "id": "w:sea",
    "text": "sea",
    "ipa": "siː",
-   "zh": "海； 海洋",
+   "zh": "海；海洋",
    "core": true,
    "units": [
     "3A-U5"
@@ -6359,7 +6358,7 @@
    "id": "w:seed",
    "text": "seed",
    "ipa": "siːd",
-   "zh": "种子； 籽",
+   "zh": "种子；籽",
    "core": false,
    "units": [
     "5A-U5"
@@ -6369,7 +6368,7 @@
    "id": "w:sell",
    "text": "sell",
    "ipa": "sel",
-   "zh": "出售； 售卖",
+   "zh": "出售；售卖",
    "core": true,
    "units": [
     "6A-U4"
@@ -6379,7 +6378,7 @@
    "id": "w:send",
    "text": "send",
    "ipa": "send",
-   "zh": "邮寄； 发送",
+   "zh": "邮寄；发送",
    "core": false,
    "units": [
     "6A-U1"
@@ -6451,7 +6450,7 @@
    "id": "w:shadow",
    "text": "shadow",
    "ipa": "",
-   "zh": "阴影； 影子",
+   "zh": "阴影；影子",
    "core": false,
    "units": [
     "6B-U1"
@@ -6481,7 +6480,7 @@
    "id": "w:sheep",
    "text": "sheep",
    "ipa": "ʃiːp",
-   "zh": "羊； 绵羊",
+   "zh": "羊；绵羊",
    "core": true,
    "units": [
     "4B-U5"
@@ -6532,7 +6531,7 @@
    "id": "w:short",
    "text": "short",
    "ipa": "ʃɔːt",
-   "zh": "短的； 个子矮的",
+   "zh": "短的；个子矮的",
    "core": true,
    "units": [
     "3B-U2"
@@ -6542,7 +6541,7 @@
    "id": "w:shorter",
    "text": "shorter",
    "ipa": "",
-   "zh": "（short 的比较 级）更矮的； 更短的",
+   "zh": "（short 的比较 级）更矮的；更短的",
    "core": false,
    "units": [
     "6B-U1"
@@ -6595,7 +6594,7 @@
    "id": "w:side",
    "text": "side",
    "ipa": "saɪd",
-   "zh": "一面； 一边",
+   "zh": "一面；一边",
    "core": false,
    "units": [
     "6A-U6"
@@ -6605,7 +6604,7 @@
    "id": "w:sing",
    "text": "sing",
    "ipa": "sɪŋ",
-   "zh": "唱（歌）； 演唱",
+   "zh": "唱（歌）；演唱",
    "core": true,
    "units": [
     "3B-U2",
@@ -6617,7 +6616,7 @@
    "id": "w:sister",
    "text": "sister",
    "ipa": "ˈsɪstə(r)",
-   "zh": "姐； 妹",
+   "zh": "姐；妹",
    "core": true,
    "units": [
     "3A-U2"
@@ -6660,7 +6659,7 @@
    "id": "w:size",
    "text": "size",
    "ipa": "saɪz",
-   "zh": "尺码； 号",
+   "zh": "尺码；号",
    "core": true,
    "units": [
     "4B-U4"
@@ -6680,7 +6679,7 @@
    "id": "w:sky",
    "text": "sky",
    "ipa": "skaɪ",
-   "zh": "天； 天空",
+   "zh": "天；天空",
    "core": false,
    "units": [
     "6A-U5"
@@ -6721,7 +6720,7 @@
    "id": "w:slow",
    "text": "slow",
    "ipa": "sləʊ",
-   "zh": "缓慢的； 慢的",
+   "zh": "缓慢的；慢的",
    "core": true,
    "units": [
     "3B-U2"
@@ -6771,7 +6770,7 @@
    "id": "w:smile",
    "text": "smile",
    "ipa": "smaɪl",
-   "zh": "微笑； 笑",
+   "zh": "微笑；笑",
    "core": true,
    "units": [
     "3A-U1"
@@ -6781,7 +6780,7 @@
    "id": "w:snow",
    "text": "snow",
    "ipa": "snəʊ",
-   "zh": "下雪； 雪",
+   "zh": "下雪；雪",
    "core": true,
    "units": [
     "4A-U6",
@@ -6874,7 +6873,7 @@
    "id": "w:song",
    "text": "song",
    "ipa": "sɒŋ",
-   "zh": "歌； 歌曲",
+   "zh": "歌；歌曲",
    "core": true,
    "units": [
     "3B-U2"
@@ -6884,7 +6883,7 @@
    "id": "w:soon",
    "text": "soon",
    "ipa": "suːn",
-   "zh": "很快； 马上",
+   "zh": "很快；马上",
    "core": false,
    "units": [
     "6A-U3"
@@ -6924,7 +6923,7 @@
    "id": "w:space",
    "text": "space",
    "ipa": "speɪs",
-   "zh": "太空； 空间",
+   "zh": "太空；空间",
    "core": true,
    "units": [
     "6A-U5"
@@ -6974,7 +6973,7 @@
    "id": "w:speak",
    "text": "speak",
    "ipa": "spiːk",
-   "zh": "说话； 发言",
+   "zh": "说话；发言",
    "core": true,
    "units": [
     "4A-U5"
@@ -6984,7 +6983,7 @@
    "id": "w:special",
    "text": "special",
    "ipa": "",
-   "zh": "特殊的； 特别的",
+   "zh": "特殊的；特别的",
    "core": false,
    "units": [
     "5B-U4"
@@ -6994,7 +6993,7 @@
    "id": "w:spoon",
    "text": "spoon",
    "ipa": "spuːn",
-   "zh": "勺； 匙； 调羹",
+   "zh": "勺；匙；调羹",
    "core": true,
    "units": [
     "4B-U6"
@@ -7059,7 +7058,7 @@
    "id": "w:stay",
    "text": "stay",
    "ipa": "steɪ",
-   "zh": "待； 保持； 继续是",
+   "zh": "待；保持；继续是",
    "core": false,
    "units": [
     "5A-U4",
@@ -7080,7 +7079,7 @@
    "id": "w:stayed",
    "text": "stayed",
    "ipa": "",
-   "zh": "（stay 的过去式） 停留； 待",
+   "zh": "（stay 的过去式） 停留；待",
    "core": false,
    "units": [
     "6B-U2"
@@ -7100,7 +7099,7 @@
    "id": "w:still",
    "text": "still",
    "ipa": "stɪl",
-   "zh": "还是； 仍然",
+   "zh": "还是；仍然",
    "core": true,
    "units": [
     "3B-U5",
@@ -7161,7 +7160,7 @@
    "id": "w:subject",
    "text": "subject",
    "ipa": "ˈsʌbdʒɪkt",
-   "zh": "科目； 学科",
+   "zh": "科目；学科",
    "core": true,
    "units": [
     "5A-U3"
@@ -7182,7 +7181,7 @@
    "id": "w:sun",
    "text": "sun",
    "ipa": "sʌn",
-   "zh": "阳光； 太阳",
+   "zh": "阳光；太阳",
    "core": true,
    "units": [
     "3A-U4"
@@ -7203,7 +7202,7 @@
    "id": "w:sunglasses",
    "text": "sunglasses",
    "ipa": "ˈsʌnɡlɑːsɪz",
-   "zh": "太阳镜； 墨镜",
+   "zh": "太阳镜；墨镜",
    "core": true,
    "units": [
     "4B-U4"
@@ -7311,10 +7310,10 @@
    ]
   },
   {
-   "id": "w:t-shirt t",
-   "text": "T-shirt T",
+   "id": "w:t-shirt",
+   "text": "T-shirt",
    "ipa": "ˈtiːʃɜːt",
-   "zh": "恤衫",
+   "zh": "T恤衫",
    "core": true,
    "units": [
     "4A-U6"
@@ -7334,7 +7333,7 @@
    "id": "w:tail",
    "text": "tail",
    "ipa": "teɪl",
-   "zh": "尾； 尾巴",
+   "zh": "尾；尾巴",
    "core": true,
    "units": [
     "3B-U2"
@@ -7366,7 +7365,7 @@
    "id": "w:take care of",
    "text": "take care of",
    "ipa": "",
-   "zh": "爱护； 照顾",
+   "zh": "爱护；照顾",
    "core": false,
    "units": [
     "5A-U4"
@@ -7386,7 +7385,7 @@
    "id": "w:talk",
    "text": "talk",
    "ipa": "tɔːk",
-   "zh": "说话； 讲话； 谈话",
+   "zh": "说话；讲话；谈话",
    "core": true,
    "units": [
     "3B-U2"
@@ -7436,7 +7435,7 @@
    "id": "w:tea",
    "text": "tea",
    "ipa": "tiː",
-   "zh": "茶叶； 茶； 茶水",
+   "zh": "茶叶；茶；茶水",
    "core": true,
    "units": [
     "5A-U5"
@@ -7467,7 +7466,7 @@
    "id": "w:team",
    "text": "team",
    "ipa": "tiːm",
-   "zh": "（游戏或运动的） 队； （一起工作的）组，班",
+   "zh": "（游戏或运动的） 队；（一起工作的）组，班",
    "core": false,
    "units": [
     "5A-U1"
@@ -7487,7 +7486,7 @@
    "id": "w:tell",
    "text": "tell",
    "ipa": "tel",
-   "zh": "讲述； 告诉",
+   "zh": "讲述；告诉",
    "core": true,
    "units": [
     "4A-U4"
@@ -7558,7 +7557,7 @@
    "id": "w:their",
    "text": "their",
    "ipa": "ðeə(r)",
-   "zh": "他们的； 她们的； 它们的",
+   "zh": "他们的；她们的； 它们的",
    "core": true,
    "units": [
     "4A-U5"
@@ -7568,7 +7567,7 @@
    "id": "w:theirs",
    "text": "theirs",
    "ipa": "",
-   "zh": "他们的； 她们的； 它们的",
+   "zh": "他们的；她们的； 它们的",
    "core": false,
    "units": [
     "5B-U5"
@@ -7578,7 +7577,7 @@
    "id": "w:them",
    "text": "them",
    "ipa": "ðəm, ðem",
-   "zh": "它们； 他们； 她们",
+   "zh": "它们；他们； 她们",
    "core": true,
    "units": [
     "3A-U4"
@@ -7588,9 +7587,10 @@
    "id": "w:then",
    "text": "then",
    "ipa": "ðen",
-   "zh": "那么； 因此； 既然 如此",
+   "zh": "然后；那时",
    "core": true,
    "units": [
+    "4A-U6",
     "5A-U4"
    ]
   },
@@ -7598,7 +7598,7 @@
    "id": "w:there",
    "text": "there",
    "ipa": "ðeə(r)",
-   "zh": "（表示存在 或发生）； 在那里",
+   "zh": "（表示存在 或发生）；在那里",
    "core": true,
    "units": [
     "4A-U3"
@@ -7638,7 +7638,7 @@
    "id": "w:think",
    "text": "think",
    "ipa": "θɪŋk",
-   "zh": "想； 思考",
+   "zh": "想；思考",
    "core": true,
    "units": [
     "4B-U2"
@@ -7760,7 +7760,7 @@
    "id": "w:tidy",
    "text": "tidy",
    "ipa": "ˈtaɪdi",
-   "zh": "整洁的； 整齐的； 使整洁； 整理",
+   "zh": "整洁的；整齐的； 使整洁；整理",
    "core": true,
    "units": [
     "4B-U1"
@@ -7833,7 +7833,7 @@
    "id": "w:toilet",
    "text": "toilet",
    "ipa": "ˈtɔɪlət",
-   "zh": "厕所； 卫生间",
+   "zh": "厕所；卫生间",
    "core": true,
    "units": [
     "4A-U3"
@@ -7863,7 +7863,7 @@
    "id": "w:tongue",
    "text": "tongue",
    "ipa": "tʌŋ",
-   "zh": "舌； 舌头",
+   "zh": "舌；舌头",
    "core": true,
    "units": [
     "3B-U3"
@@ -7893,7 +7893,7 @@
    "id": "w:tooth",
    "text": "tooth",
    "ipa": "tuːθ",
-   "zh": "（复数 teeth ） 牙； 齿",
+   "zh": "（复数 teeth ） 牙；齿",
    "core": false,
    "units": [
     "5A-U4"
@@ -7923,7 +7923,7 @@
    "id": "w:touch",
    "text": "touch",
    "ipa": "tʌtʃ",
-   "zh": "触摸； 碰",
+   "zh": "触摸；碰",
    "core": true,
    "units": [
     "3B-U3"
@@ -8088,7 +8088,7 @@
    "id": "w:twice",
    "text": "twice",
    "ipa": "twaɪs",
-   "zh": "两次； 两遍",
+   "zh": "两次；两遍",
    "core": false,
    "units": [
     "5A-U4"
@@ -8109,7 +8109,7 @@
    "id": "w:type",
    "text": "type",
    "ipa": "taɪp",
-   "zh": "类型； 种类",
+   "zh": "类型；种类",
    "core": false,
    "units": [
     "6A-U6"
@@ -8139,7 +8139,7 @@
    "id": "w:uncle",
    "text": "uncle",
    "ipa": "ˈʌŋkl",
-   "zh": "伯父； 叔父； 舅父； 姑父； 姨父",
+   "zh": "伯父；叔父； 舅父；姑父；姨父",
    "core": true,
    "units": [
     "3A-U2"
@@ -8209,7 +8209,7 @@
    "id": "w:useful",
    "text": "useful",
    "ipa": "ˈjuːsfl",
-   "zh": "有用的； 有益的",
+   "zh": "有用的；有益的",
    "core": false,
    "units": [
     "6A-U6"
@@ -8250,7 +8250,7 @@
    "id": "w:very",
    "text": "very",
    "ipa": "ˈveri",
-   "zh": "很； 非常； 十分",
+   "zh": "很；非常；十分",
    "core": true,
    "units": [
     "3B-U1"
@@ -8260,7 +8260,7 @@
    "id": "w:video",
    "text": "video",
    "ipa": "ˈvɪdiəʊ",
-   "zh": "视频； 录像",
+   "zh": "视频；录像",
    "core": false,
    "units": [
     "6A-U3"
@@ -8280,7 +8280,7 @@
    "id": "w:village",
    "text": "village",
    "ipa": "ˈvɪlɪdʒ",
-   "zh": "村庄； 村镇",
+   "zh": "村庄；村镇",
    "core": false,
    "units": [
     "6A-U1"
@@ -8290,7 +8290,7 @@
    "id": "w:visit",
    "text": "visit",
    "ipa": "ˈvɪzɪt",
-   "zh": "看望； 拜访； 参观",
+   "zh": "看望；拜访；参观",
    "core": true,
    "units": [
     "5A-U3"
@@ -8300,7 +8300,7 @@
    "id": "w:wake",
    "text": "wake",
    "ipa": "weɪk",
-   "zh": "（过去式woke ）醒； 醒来",
+   "zh": "（过去式woke ）醒；醒来",
    "core": true,
    "units": [
     "6A-U2"
@@ -8310,7 +8310,7 @@
    "id": "w:walk",
    "text": "walk",
    "ipa": "wɔːk",
-   "zh": "散步； 行走",
+   "zh": "散步；行走",
    "core": true,
    "units": [
     "4A-U3",
@@ -8322,7 +8322,7 @@
    "id": "w:wall",
    "text": "wall",
    "ipa": "wɔːl",
-   "zh": "墙； 壁",
+   "zh": "墙；壁",
    "core": true,
    "units": [
     "4B-U1"
@@ -8382,7 +8382,7 @@
    "id": "w:waste",
    "text": "waste",
    "ipa": "weɪst",
-   "zh": "浪费； 废品",
+   "zh": "浪费；废品",
    "core": true,
    "units": [
     "4B-U6"
@@ -8433,7 +8433,7 @@
    "id": "w:way",
    "text": "way",
    "ipa": "weɪ",
-   "zh": "方法； 手段； 途径； 方式",
+   "zh": "方法；手段；途径； 方式",
    "core": true,
    "units": [
     "5A-U5"
@@ -8443,7 +8443,7 @@
    "id": "w:wear",
    "text": "wear",
    "ipa": "weə(r)",
-   "zh": "穿； 戴",
+   "zh": "穿；戴",
    "core": true,
    "units": [
     "4A-U6",
@@ -8474,7 +8474,7 @@
    "id": "w:week",
    "text": "week",
    "ipa": "wiːk",
-   "zh": "周； 星期",
+   "zh": "周；星期",
    "core": true,
    "units": [
     "4B-U6"
@@ -8524,7 +8524,7 @@
    "id": "w:wet",
    "text": "wet",
    "ipa": "wet",
-   "zh": "湿的； 未干的",
+   "zh": "湿的；未干的",
    "core": true,
    "units": [
     "4B-U2"
@@ -8545,7 +8545,7 @@
    "id": "w:where",
    "text": "where",
    "ipa": "weə(r)",
-   "zh": "在哪里； 到哪里",
+   "zh": "在哪里；到哪里",
    "core": true,
    "units": [
     "3B-U1"
@@ -8555,7 +8555,7 @@
    "id": "w:which",
    "text": "which",
    "ipa": "wɪtʃ",
-   "zh": "哪一个； 哪一些",
+   "zh": "哪一个；哪一些",
    "core": true,
    "units": [
     "4A-U6",
@@ -8566,7 +8566,7 @@
    "id": "w:white",
    "text": "white",
    "ipa": "waɪt",
-   "zh": "白色； 白色的",
+   "zh": "白色；白色的",
    "core": true,
    "units": [
     "3A-U5"
@@ -8576,7 +8576,7 @@
    "id": "w:who",
    "text": "who",
    "ipa": "huː",
-   "zh": "谁； 什么人",
+   "zh": "谁；什么人",
    "core": true,
    "units": [
     "3B-U1"
@@ -8618,7 +8618,7 @@
    "id": "w:wind",
    "text": "wind",
    "ipa": "wɪnd",
-   "zh": "风； 气流",
+   "zh": "风；气流",
    "core": false,
    "units": [
     "5A-U6"
@@ -8649,7 +8649,7 @@
    "id": "w:winner",
    "text": "winner",
    "ipa": "ˈwɪnə(r)",
-   "zh": "获胜的人 （或队）； 成功者",
+   "zh": "获胜的人 （或队）；成功者",
    "core": false,
    "units": [
     "6A-U2"
@@ -8690,7 +8690,7 @@
    "id": "w:wonderful",
    "text": "wonderful",
    "ipa": "ˈwʌndəfl",
-   "zh": "令人赞叹 的； 精彩的； 绝妙的",
+   "zh": "令人赞叹 的；精彩的；绝妙的",
    "core": true,
    "units": [
     "5A-U1"
@@ -8700,7 +8700,7 @@
    "id": "w:word",
    "text": "word",
    "ipa": "wɜːd",
-   "zh": "言语； 单词； 字",
+   "zh": "言语；单词；字",
    "core": true,
    "units": [
     "4B-U2"
@@ -8710,7 +8710,7 @@
    "id": "w:work",
    "text": "work",
    "ipa": "wɜːk",
-   "zh": "（花费时间和精力） 做（某事）； 工作",
+   "zh": "（花费时间和精力） 做（某事）；工作",
    "core": true,
    "units": [
     "4B-U2",
@@ -8731,7 +8731,7 @@
    "id": "w:world",
    "text": "world",
    "ipa": "wɜːld",
-   "zh": "世界； 地球； 天下",
+   "zh": "世界；地球； 天下",
    "core": true,
    "units": [
     "5A-U5"
@@ -8751,7 +8751,7 @@
    "id": "w:worry",
    "text": "worry",
    "ipa": "ˈwʌri",
-   "zh": "担心； 担忧； 发愁",
+   "zh": "担心；担忧； 发愁",
    "core": true,
    "units": [
     "5A-U6"
@@ -8761,7 +8761,7 @@
    "id": "w:writer",
    "text": "writer",
    "ipa": "ˈraɪtə(r)",
-   "zh": "作家； 作者",
+   "zh": "作家；作者",
    "core": false,
    "units": [
     "6A-U2"
@@ -8781,7 +8781,7 @@
    "id": "w:year",
    "text": "year",
    "ipa": "jɪə(r)",
-   "zh": "年纪； 年",
+   "zh": "年纪；年",
    "core": true,
    "units": [
     "3A-U6",
@@ -8792,7 +8792,7 @@
    "id": "w:yellow",
    "text": "yellow",
    "ipa": "ˈjeləʊ",
-   "zh": "黄色； 黄色的",
+   "zh": "黄色；黄色的",
    "core": true,
    "units": [
     "3A-U5"
@@ -8813,7 +8813,7 @@
    "id": "w:young",
    "text": "young",
    "ipa": "jʌŋ",
-   "zh": "幼小的； 年轻的",
+   "zh": "幼小的；年轻的",
    "core": true,
    "units": [
     "5A-U1"

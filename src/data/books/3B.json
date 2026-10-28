@@ -7,8 +7,8 @@
   {
    "id": "3B-U1",
    "no": 1,
-   "title": "Unit 1",
-   "titleZh": "",
+   "title": "Meeting new people",
+   "titleZh": "认识新朋友",
    "wordIds": [
     "w:where",
     "w:from",
@@ -39,8 +39,8 @@
   {
    "id": "3B-U2",
    "no": 2,
-   "title": "Unit 2",
-   "titleZh": "",
+   "title": "My words and actions",
+   "titleZh": "我的言行",
    "wordIds": [
     "w:has",
     "w:long",
@@ -71,8 +71,8 @@
   {
    "id": "3B-U3",
    "no": 3,
-   "title": "Unit 3",
-   "titleZh": "",
+   "title": "Tools and senses for learning",
+   "titleZh": "学习的工具与感官",
    "wordIds": [
     "w:eraser",
     "w:find",
@@ -99,8 +99,8 @@
   {
    "id": "3B-U4",
    "no": 4,
-   "title": "Unit 4",
-   "titleZh": "",
+   "title": "Healthy food",
+   "titleZh": "健康食物",
    "wordIds": [
     "w:breakfast",
     "w:time",
@@ -124,8 +124,8 @@
   {
    "id": "3B-U5",
    "no": 5,
-   "title": "Unit 5",
-   "titleZh": "",
+   "title": "Old things",
+   "titleZh": "旧物",
    "wordIds": [
     "w:boat",
     "w:cool",
@@ -149,8 +149,8 @@
   {
    "id": "3B-U6",
    "no": 6,
-   "title": "Unit 6",
-   "titleZh": "",
+   "title": "Numbers in life",
+   "titleZh": "生活中的数字",
    "wordIds": [
     "w:fifteen",
     "w:twelve",

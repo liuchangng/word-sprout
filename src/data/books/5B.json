@@ -7,8 +7,8 @@
   {
    "id": "5B-U1",
    "no": 1,
-   "title": "Unit 1",
-   "titleZh": "",
+   "title": "My day",
+   "titleZh": "我的一天",
    "wordIds": [
     "w:eat breakfast",
     "w:have … class",
@@ -51,8 +51,8 @@
   {
    "id": "5B-U2",
    "no": 2,
-   "title": "Unit 2",
-   "titleZh": "",
+   "title": "My favourite season",
+   "titleZh": "我最喜欢的季节",
    "wordIds": [
     "w:spring",
     "w:summer",
@@ -83,8 +83,8 @@
   {
    "id": "5B-U3",
    "no": 3,
-   "title": "Unit 3",
-   "titleZh": "",
+   "title": "My school calendar",
+   "titleZh": "我的学校日历",
    "wordIds": [
     "w:january",
     "w:february",
@@ -126,8 +126,8 @@
   {
    "id": "5B-U4",
    "no": 4,
-   "title": "Unit 4",
-   "titleZh": "",
+   "title": "When is the art show?",
+   "titleZh": "美术展在什么时候？",
    "wordIds": [
     "w:first (1st)",
     "w:second (2nd)",
@@ -155,8 +155,8 @@
   {
    "id": "5B-U5",
    "no": 5,
-   "title": "Unit 5",
-   "titleZh": "",
+   "title": "Whose dog is it?",
+   "titleZh": "这是谁的狗？",
    "wordIds": [
     "w:mine",
     "w:yours",
@@ -179,8 +179,8 @@
   {
    "id": "5B-U6",
    "no": 6,
-   "title": "Unit 6",
-   "titleZh": "",
+   "title": "Work quietly!",
+   "titleZh": "安静地做事！",
    "wordIds": [
     "w:doing morning exercises",
     "w:having … class",

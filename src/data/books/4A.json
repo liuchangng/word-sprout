@@ -7,8 +7,8 @@
   {
    "id": "4A-U1",
    "no": 1,
-   "title": "Unit 1",
-   "titleZh": "",
+   "title": "Helping at home",
+   "titleZh": "在家帮忙",
    "wordIds": [
     "w:pe",
     "w:job",
@@ -34,8 +34,8 @@
   {
    "id": "4A-U2",
    "no": 2,
-   "title": "Unit 2",
-   "titleZh": "",
+   "title": "My friends",
+   "titleZh": "我的朋友",
    "wordIds": [
     "w:his",
     "w:strong",
@@ -55,8 +55,8 @@
   {
    "id": "4A-U3",
    "no": 3,
-   "title": "Unit 3",
-   "titleZh": "",
+   "title": "Places we live in",
+   "titleZh": "我们住的地方",
    "wordIds": [
     "w:afternoon",
     "w:there",
@@ -81,8 +81,8 @@
   {
    "id": "4A-U4",
    "no": 4,
-   "title": "Unit 4",
-   "titleZh": "",
+   "title": "Helping in the community",
+   "titleZh": "在社区帮忙",
    "wordIds": [
     "w:firefighter",
     "w:why",
@@ -104,8 +104,8 @@
   {
    "id": "4A-U5",
    "no": 5,
-   "title": "Unit 5",
-   "titleZh": "",
+   "title": "The weather and us",
+   "titleZh": "天气与我们",
    "wordIds": [
     "w:speak",
     "w:weather",
@@ -136,8 +136,8 @@
   {
    "id": "4A-U6",
    "no": 6,
-   "title": "Unit 6",
-   "titleZh": "",
+   "title": "Changing for the seasons",
+   "titleZh": "四季的变化",
    "wordIds": [
     "w:whose",
     "w:sweater",
@@ -155,10 +155,11 @@
     "w:spring",
     "w:summer",
     "w:autumn",
-    "w:t-shirt t",
+    "w:t-shirt",
     "w:fall",
     "w:leaf",
-    "w:glove"
+    "w:glove",
+    "w:then"
    ]
   }
  ]
