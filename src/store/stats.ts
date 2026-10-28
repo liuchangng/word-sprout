@@ -50,3 +50,13 @@ export function reconcileStreak(stats: Stats, now = new Date()): Stats {
 }
 
 export const learnedToday = (stats: Stats, now = new Date()) => stats.days[dayKey(now)]?.learned ?? 0;
+
+export const reviewedToday = (stats: Stats, now = new Date()) => stats.days[dayKey(now)]?.reviewed ?? 0;
+
+/**
+ * 当天已结算的词数：新词与复习都算一次。
+ * 新词结算时 learned 和 reviewed 同时 +1，所以取两者最大值即真实结算数，
+ * 避免用 learned 漏掉"只复习不学新词"的日子。
+ */
+export const settledToday = (stats: Stats, now = new Date()) =>
+  Math.max(learnedToday(stats, now), reviewedToday(stats, now));

@@ -1,7 +1,7 @@
 import { catalog, nextWordIds } from "../data/catalog";
 import type { Book, Word } from "../data/types";
 import { Rating, review, type Grade } from "./srs";
-import { bumpDay, dayKey, learnedToday } from "./stats";
+import { bumpDay, dayKey, settledToday } from "./stats";
 import { actions, type SaveFile } from "./store";
 
 export type StepKind = "listen" | "meaning" | "spell" | "reveal";
@@ -34,6 +34,13 @@ export interface Plan {
 
 const wordOf = (id: string): Word | undefined => catalog.byId.get(id);
 
+/** 词 id 的稳定哈希，用于打散正确选项的位置，同一 now 下结果可复现。 */
+function hashId(id: string): number {
+  let h = 0;
+  for (let i = 0; i < id.length; i++) h = (h * 31 + id.charCodeAt(i)) | 0;
+  return Math.abs(h);
+}
+
 function optionSet(word: Word, pool: Word[], seed: number): string[] {
   const picks: string[] = [];
   const seen = new Set([word.zh]);
@@ -44,7 +51,8 @@ function optionSet(word: Word, pool: Word[], seed: number): string[] {
     picks.push(w.zh);
   }
   const all = [word.zh, ...picks];
-  const rotate = Math.abs(seed) % all.length;
+  // 纯 seed 轮转会让正确项按固定步长走位，混入词 id 哈希打散
+  const rotate = (Math.abs(seed) + hashId(word.id)) % all.length;
   return [...all.slice(rotate), ...all.slice(0, rotate)];
 }
 
@@ -57,7 +65,7 @@ export function buildPlan(save: SaveFile, books: Book[], now = Date.now()): Plan
     .map(([id]) => id)
     .slice(0, cap);
   const learned = new Set(Object.keys(save.cards));
-  const left = Math.max(0, save.settings.dailyGoal - learnedToday(save.stats, new Date(now)) - due.length);
+  const left = Math.max(0, save.settings.dailyGoal - settledToday(save.stats, new Date(now)) - due.length);
   const fresh = nextWordIds(left, learned, save.settings.activeBook, books);
   return { due, fresh, total: due.length + fresh.length };
 }
@@ -66,6 +74,8 @@ export function buildSession(save: SaveFile, books: Book[], now = Date.now()): A
   const plan = buildPlan(save, books, now);
   const book = books.find((b) => b.id === save.settings.activeBook) ?? books[0];
   const pool = (book?.units ?? []).flatMap((u) => u.wordIds).map(wordOf).filter((w): w is Word => !!w);
+  // 干扰项要求 4 个不同中文义项；本册义项重复太多时退回全词库
+  const optionPool = new Set(pool.map((w) => w.zh)).size >= 4 ? pool : catalog.words;
   const steps: Step[] = [];
   let seed = now % 9973;
 
@@ -74,7 +84,7 @@ export function buildSession(save: SaveFile, books: Book[], now = Date.now()): A
     if (!word) continue;
     seed += 7;
     steps.push({ wordId: id, kind: "listen" });
-    steps.push({ wordId: id, kind: "meaning", options: optionSet(word, pool.length >= 4 ? pool : catalog.words, seed) });
+    steps.push({ wordId: id, kind: "meaning", options: optionSet(word, optionPool, seed) });
     steps.push({ wordId: id, kind: "spell" });
     steps.push({ wordId: id, kind: "reveal" });
   }
@@ -98,7 +108,7 @@ export function gradeForErrors(errors: number, selfHard: boolean): Grade {
 }
 
 export function todayProgress(save: SaveFile, now = new Date()) {
-  return { done: learnedToday(save.stats, now), goal: save.settings.dailyGoal };
+  return { done: settledToday(save.stats, now), goal: save.settings.dailyGoal };
 }
 
 /* ---------- store 动作 ---------- */
@@ -122,6 +132,9 @@ export function next(now = Date.now()) {
   actions.update((s) => {
     const sess = s.session;
     if (!sess) return s;
+    // 认读步必须走 finishWord 结算，next 跳过会丢掉这个词的评分与统计
+    const step = sess.steps[sess.index];
+    if (step?.kind === "reveal") return s;
     const index = sess.index + 1;
     return {
       ...s,
