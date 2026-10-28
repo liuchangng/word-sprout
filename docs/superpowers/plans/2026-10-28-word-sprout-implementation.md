@@ -1581,6 +1581,7 @@ git commit -m "feat: derive plant stages from fsrs cards"
 **Files:**
 - Create: `word-sprout/src/store/store.ts`
 - Create: `word-sprout/src/store/store.test.ts`
+- Create: `word-sprout/src/store/session.ts`（仅类型，Task 9 补实现）
 
 **Interfaces:**
 - Consumes: `CardState`、`Stats`、`ActiveSession`（类型）
@@ -1923,7 +1924,7 @@ git commit -m "feat: add versioned local save with backup validation"
 ### Task 9: 每日计划与会话引擎
 
 **Files:**
-- Create: `word-sprout/src/store/session.ts`
+- Modify: `word-sprout/src/store/session.ts`（Task 8 已建类型）
 - Create: `word-sprout/src/store/session.test.ts`
 
 **Interfaces:**
