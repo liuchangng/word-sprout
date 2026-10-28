@@ -52,3 +52,55 @@ button:focus-visible {
     transition-duration: 0.01ms !important;
   }
 }
+
+.app { max-width: 720px; margin: 0 auto; padding: 20px 18px 96px; }
+.app-full { max-width: 720px; padding-bottom: 24px; }
+.app-shell { padding: 8px 2px; }
+
+.nav {
+  position: fixed; left: 0; right: 0; bottom: 0;
+  display: flex; justify-content: center; gap: 8px;
+  padding: 8px 12px calc(8px + env(safe-area-inset-bottom));
+  background: rgba(253, 248, 238, 0.94);
+  border-top: 1px solid var(--line);
+  backdrop-filter: blur(8px);
+}
+.nav-item {
+  display: flex; flex-direction: column; align-items: center; gap: 2px;
+  min-width: 72px; padding: 6px 10px; border-radius: 16px;
+  color: var(--ink-soft); font-size: 12px;
+}
+.nav-item.is-active { color: var(--leaf); background: var(--leaf-soft); }
+
+.ring { position: relative; display: grid; place-items: center; }
+.ring-text { position: absolute; display: flex; flex-direction: column; align-items: center; }
+.ring-text strong { font-size: 28px; }
+.ring-text span { font-size: 12px; color: var(--ink-soft); }
+
+.bed { display: grid; grid-template-columns: repeat(6, 1fr); gap: 4px; }
+.bed-cell { display: grid; place-items: center; min-height: 44px; }
+
+.speak {
+  display: inline-grid; place-items: center;
+  width: 44px; height: 44px; border-radius: 50%;
+  color: var(--leaf); background: var(--leaf-soft);
+}
+.speak.is-on { transform: scale(0.94); }
+
+.sheet-mask {
+  position: fixed; inset: 0; background: rgba(61, 58, 52, 0.28);
+  display: grid; align-items: end; z-index: 40;
+}
+.sheet {
+  background: var(--card); border-radius: 28px 28px 0 0;
+  padding: 18px 18px calc(24px + env(safe-area-inset-bottom));
+  max-height: 86vh; overflow: auto;
+}
+.sheet-head { display: flex; justify-content: space-between; align-items: center; }
+.sheet-head h2 { font-size: 18px; margin: 0; }
+
+.toast {
+  position: fixed; left: 50%; bottom: 88px; transform: translateX(-50%);
+  background: var(--ink); color: var(--paper);
+  padding: 10px 16px; border-radius: 999px; font-size: 14px; z-index: 60;
+}
