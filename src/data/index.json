@@ -1,0 +1,8865 @@
+{
+ "generatedAt": "2026-10-28T08:38:17.601Z",
+ "bookIds": [
+  "3A",
+  "3B",
+  "4A",
+  "4B",
+  "5A",
+  "5B",
+  "6A",
+  "6B"
+ ],
+ "words": [
+  {
+   "id": "w:a box of",
+   "text": "a box of",
+   "ipa": "",
+   "zh": "一盒，一箱（东西）",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ]
+  },
+  {
+   "id": "w:a few",
+   "text": "a few",
+   "ipa": "",
+   "zh": "一些",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:a lot of",
+   "text": "a lot of",
+   "ipa": "lɒt",
+   "zh": "大量； 许多",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:a.m.",
+   "text": "a.m.",
+   "ipa": "",
+   "zh": "午前； 上午",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:about",
+   "text": "about",
+   "ipa": "əˈbaʊt",
+   "zh": "关于； 大约",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:act",
+   "text": "act",
+   "ipa": "",
+   "zh": "扮演",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:act out",
+   "text": "act out",
+   "ipa": "",
+   "zh": "把……表演出来",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:active",
+   "text": "active",
+   "ipa": "",
+   "zh": "积极的； 活跃的",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:add",
+   "text": "add",
+   "ipa": "æd",
+   "zh": "补充说； 增加",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:afraid",
+   "text": "afraid",
+   "ipa": "əˈfreɪd",
+   "zh": "担心； 害怕",
+   "core": false,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:after",
+   "text": "after",
+   "ipa": "ˈɑːftə(r)",
+   "zh": "在……后面",
+   "core": true,
+   "units": [
+    "3B-U1",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:afternoon",
+   "text": "afternoon",
+   "ipa": "ˌɑːftəˈnuːn",
+   "zh": "下午",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:ago",
+   "text": "ago",
+   "ipa": "",
+   "zh": "以前",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:agree",
+   "text": "agree",
+   "ipa": "əˈɡriː",
+   "zh": "同意； 赞成 完成； 做好",
+   "core": false,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:air",
+   "text": "air",
+   "ipa": "eə(r)",
+   "zh": "空气",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ]
+  },
+  {
+   "id": "w:air conditioner",
+   "text": "air conditioner",
+   "ipa": "ˈeə kənˌdɪʃənə(r)",
+   "zh": "空调机",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:airport",
+   "text": "airport",
+   "ipa": "ˈeəpɔːt",
+   "zh": "机场",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:alien",
+   "text": "alien",
+   "ipa": "ˈeɪliən",
+   "zh": "外星生物",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:all",
+   "text": "all",
+   "ipa": "ɔːl",
+   "zh": "所有； 全部",
+   "core": true,
+   "units": [
+    "3B-U2",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:also",
+   "text": "also",
+   "ipa": "ˈɔːlsəʊ",
+   "zh": "也",
+   "core": true,
+   "units": [
+    "3B-U1",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:always",
+   "text": "always",
+   "ipa": "ˈɔːlweɪz",
+   "zh": "总是",
+   "core": true,
+   "units": [
+    "4A-U2",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:american",
+   "text": "American",
+   "ipa": "",
+   "zh": "美国的",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:angry",
+   "text": "angry",
+   "ipa": "ˈæŋɡri",
+   "zh": "愤怒的； 生气的",
+   "core": true,
+   "units": [
+    "5A-U2"
+   ],
+   "emoji": "angry"
+  },
+  {
+   "id": "w:animal",
+   "text": "animal",
+   "ipa": "ˈænɪml",
+   "zh": "动物",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ]
+  },
+  {
+   "id": "w:another",
+   "text": "another",
+   "ipa": "əˈnʌðə(r)",
+   "zh": "另一； 不同的（人或事物）",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:answer",
+   "text": "answer",
+   "ipa": "ˈɑːnsə",
+   "zh": "答复； 回答",
+   "core": true,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:any",
+   "text": "any",
+   "ipa": "ˈeni",
+   "zh": "任何的； 任一的",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:anything",
+   "text": "anything",
+   "ipa": "",
+   "zh": "任何事物",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:apple",
+   "text": "apple",
+   "ipa": "ˈæpl",
+   "zh": "苹果",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ],
+   "emoji": "apple"
+  },
+  {
+   "id": "w:april",
+   "text": "April",
+   "ipa": "",
+   "zh": "四月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:arm",
+   "text": "arm",
+   "ipa": "ɑːm",
+   "zh": "胳膊",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:art",
+   "text": "art",
+   "ipa": "ɑːt",
+   "zh": "美术； 艺术",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:as",
+   "text": "as",
+   "ipa": "əz",
+   "zh": "作为",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:ask",
+   "text": "ask",
+   "ipa": "ɑːsk",
+   "zh": "问； 询问",
+   "core": true,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:astronaut",
+   "text": "astronaut",
+   "ipa": "ˈæstrənɔːt",
+   "zh": "航天员； 宇航员",
+   "core": true,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:at",
+   "text": "at",
+   "ipa": "æt",
+   "zh": "在（某处）",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:ate",
+   "text": "ate",
+   "ipa": "",
+   "zh": "（eat 的过去式）吃",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:august",
+   "text": "August",
+   "ipa": "",
+   "zh": "八月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:aunt",
+   "text": "aunt",
+   "ipa": "ɑːnt",
+   "zh": "伯母； 婶母； 舅母； 姑母； 姨母",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:australia",
+   "text": "Australia",
+   "ipa": "ɒˈstreɪliə",
+   "zh": "澳大利亚",
+   "core": false,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:autumn",
+   "text": "autumn",
+   "ipa": "ˈɔːtəm",
+   "zh": "秋天",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:baby",
+   "text": "baby",
+   "ipa": "ˈbeɪbi",
+   "zh": "婴儿",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:back",
+   "text": "back",
+   "ipa": "bæk",
+   "zh": "回到原处",
+   "core": true,
+   "units": [
+    "3B-U6"
+   ]
+  },
+  {
+   "id": "w:bad",
+   "text": "bad",
+   "ipa": "bæd",
+   "zh": "令人不快的； 坏的",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:badminton",
+   "text": "badminton",
+   "ipa": "",
+   "zh": "羽毛球运动",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:bag",
+   "text": "bag",
+   "ipa": "bæɡ",
+   "zh": "包； 袋",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ],
+   "emoji": "bag"
+  },
+  {
+   "id": "w:ball",
+   "text": "ball",
+   "ipa": "bɔːl",
+   "zh": "球",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ],
+   "emoji": "ball"
+  },
+  {
+   "id": "w:bamboo",
+   "text": "bamboo",
+   "ipa": "ˌbæmˈbuː",
+   "zh": "竹子",
+   "core": false,
+   "units": [
+    "5B-U6",
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:banana",
+   "text": "banana",
+   "ipa": "bəˈnɑːnə",
+   "zh": "香蕉",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ],
+   "emoji": "banana"
+  },
+  {
+   "id": "w:basket",
+   "text": "basket",
+   "ipa": "",
+   "zh": "篮； 筐",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:basketball",
+   "text": "basketball",
+   "ipa": "ˈbɑːskɪtbɔːl",
+   "zh": "篮球运动",
+   "core": true,
+   "units": [
+    "4A-U2"
+   ]
+  },
+  {
+   "id": "w:bathroom",
+   "text": "bathroom",
+   "ipa": "ˈbɑːθruːm",
+   "zh": "浴室； 洗手间",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:beach",
+   "text": "beach",
+   "ipa": "",
+   "zh": "海滩； 沙滩",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:bear",
+   "text": "bear",
+   "ipa": "beə(r)",
+   "zh": "熊",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ],
+   "emoji": "bear"
+  },
+  {
+   "id": "w:beautiful",
+   "text": "beautiful",
+   "ipa": "ˈbjuːtɪfl",
+   "zh": "美丽的",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:because",
+   "text": "because",
+   "ipa": "bɪˈkɒz",
+   "zh": "因为",
+   "core": true,
+   "units": [
+    "5A-U3",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:become",
+   "text": "become",
+   "ipa": "",
+   "zh": "开始变得； 变成",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:bedroom",
+   "text": "bedroom",
+   "ipa": "ˈbedruːm",
+   "zh": "卧室",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:bee",
+   "text": "bee",
+   "ipa": "biː",
+   "zh": "蜜蜂",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ]
+  },
+  {
+   "id": "w:beef",
+   "text": "beef",
+   "ipa": "biːf",
+   "zh": "牛肉",
+   "core": false,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:before",
+   "text": "before",
+   "ipa": "bɪˈfɔː(r)",
+   "zh": "在……之前",
+   "core": true,
+   "units": [
+    "5A-U6",
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:begin",
+   "text": "begin",
+   "ipa": "bɪˈɡɪn",
+   "zh": "（过去式began ）开始",
+   "core": true,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:best",
+   "text": "best",
+   "ipa": "best",
+   "zh": "最好的",
+   "core": true,
+   "units": [
+    "4A-U2",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:better",
+   "text": "better",
+   "ipa": "ˈbetə(r)",
+   "zh": "舒畅些的； （病势）好转的",
+   "core": false,
+   "units": [
+    "6A-U3",
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:big",
+   "text": "big",
+   "ipa": "bɪɡ",
+   "zh": "大的",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:bigger",
+   "text": "bigger",
+   "ipa": "",
+   "zh": "（big 的比较级） 更大的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:bird",
+   "text": "bird",
+   "ipa": "bɜːd",
+   "zh": "鸟",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ],
+   "emoji": "bird"
+  },
+  {
+   "id": "w:black",
+   "text": "black",
+   "ipa": "blæk",
+   "zh": "黑色； 黑色的",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:blackboard",
+   "text": "blackboard",
+   "ipa": "ˈblækbɔːd",
+   "zh": "黑板",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:blue",
+   "text": "blue",
+   "ipa": "bluː",
+   "zh": "蓝色； 蓝色的",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:boat",
+   "text": "boat",
+   "ipa": "bəʊt",
+   "zh": "小船； 舟",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:body",
+   "text": "body",
+   "ipa": "ˈbɒdi",
+   "zh": "身体",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:book",
+   "text": "book",
+   "ipa": "bʊk",
+   "zh": "书； 书籍",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ],
+   "emoji": "book"
+  },
+  {
+   "id": "w:book fair",
+   "text": "book fair",
+   "ipa": "feə(r)",
+   "zh": "书市",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:both",
+   "text": "both",
+   "ipa": "bəʊθ",
+   "zh": "两者",
+   "core": false,
+   "units": [
+    "5A-U2",
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:bottle",
+   "text": "bottle",
+   "ipa": "ˈbɒtl",
+   "zh": "瓶子",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:bought",
+   "text": "bought",
+   "ipa": "",
+   "zh": "（buy 的过去式）买",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:bowl",
+   "text": "bowl",
+   "ipa": "bəʊl",
+   "zh": "碗",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:box",
+   "text": "box",
+   "ipa": "bɒks",
+   "zh": "盒子",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:boy",
+   "text": "boy",
+   "ipa": "bɔɪ",
+   "zh": "男孩",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:bread",
+   "text": "bread",
+   "ipa": "bred",
+   "zh": "面包",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ],
+   "emoji": "bread"
+  },
+  {
+   "id": "w:breakfast",
+   "text": "breakfast",
+   "ipa": "ˈbrekfəst",
+   "zh": "早餐； 早饭",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:bring",
+   "text": "bring",
+   "ipa": "brɪŋ",
+   "zh": "带……到某处； 带来； 取来",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:broken",
+   "text": "broken",
+   "ipa": "",
+   "zh": "破损的",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:brother",
+   "text": "brother",
+   "ipa": "ˈbrʌðə(r)",
+   "zh": "哥； 弟",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ],
+   "emoji": "brother"
+  },
+  {
+   "id": "w:brown",
+   "text": "brown",
+   "ipa": "braʊn",
+   "zh": "棕色； 棕色的",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:brush",
+   "text": "brush",
+   "ipa": "brʌʃ",
+   "zh": "（用刷子）刷净， 刷亮，刷平顺",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:bus stop",
+   "text": "bus stop",
+   "ipa": "bʌs",
+   "zh": "公共汽车站",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:busy",
+   "text": "busy",
+   "ipa": "ˈbɪzi",
+   "zh": "忙碌的",
+   "core": true,
+   "units": [
+    "4A-U1",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:buy",
+   "text": "buy",
+   "ipa": "baɪ",
+   "zh": "购买",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:by",
+   "text": "by",
+   "ipa": "",
+   "zh": "在……之前",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:cake",
+   "text": "cake",
+   "ipa": "keɪk",
+   "zh": "蛋糕",
+   "core": true,
+   "units": [
+    "3A-U6"
+   ],
+   "emoji": "cake"
+  },
+  {
+   "id": "w:call",
+   "text": "call",
+   "ipa": "kɔːl",
+   "zh": "（给……）打电话",
+   "core": true,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:camp",
+   "text": "camp",
+   "ipa": "",
+   "zh": "野营",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:can",
+   "text": "can",
+   "ipa": "kən, kæn",
+   "zh": "可以",
+   "core": true,
+   "units": [
+    "3A-U1",
+    "4B-U5"
+   ]
+  },
+  {
+   "id": "w:canada",
+   "text": "Canada",
+   "ipa": "ˈkænədə",
+   "zh": "加拿大",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:canadian",
+   "text": "Canadian",
+   "ipa": "",
+   "zh": "加拿大的",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:candy",
+   "text": "candy",
+   "ipa": "ˈkændi",
+   "zh": "糖果",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:cap",
+   "text": "cap",
+   "ipa": "kæp",
+   "zh": "帽子",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:car",
+   "text": "car",
+   "ipa": "kɑː(r)",
+   "zh": "小汽车； 轿车",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ],
+   "emoji": "car"
+  },
+  {
+   "id": "w:card",
+   "text": "card",
+   "ipa": "kɑːd",
+   "zh": "贺卡； 慰问卡； 卡片",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:carrot",
+   "text": "carrot",
+   "ipa": "ˈkærət",
+   "zh": "胡萝卜",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ]
+  },
+  {
+   "id": "w:cat",
+   "text": "cat",
+   "ipa": "kæt",
+   "zh": "猫",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ],
+   "emoji": "cat"
+  },
+  {
+   "id": "w:cave",
+   "text": "cave",
+   "ipa": "",
+   "zh": "山洞； 洞穴",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:centre",
+   "text": "centre",
+   "ipa": "ˈsentə(r)",
+   "zh": "中心",
+   "core": false,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:chair",
+   "text": "chair",
+   "ipa": "tʃeə(r)",
+   "zh": "椅子",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ],
+   "emoji": "chair"
+  },
+  {
+   "id": "w:change",
+   "text": "change",
+   "ipa": "tʃeɪndʒ",
+   "zh": "（使）不同； 改变",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:cheap",
+   "text": "cheap",
+   "ipa": "tʃiːp",
+   "zh": "便宜的",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:check",
+   "text": "check",
+   "ipa": "tʃek",
+   "zh": "查看； 查明",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:cheer",
+   "text": "cheer",
+   "ipa": "tʃɪə(r)",
+   "zh": "欢呼； 加油",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:cheetah",
+   "text": "cheetah",
+   "ipa": "",
+   "zh": "猎豹",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:chess",
+   "text": "chess",
+   "ipa": "tʃes",
+   "zh": "国际象棋",
+   "core": true,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:chicken",
+   "text": "chicken",
+   "ipa": "ˈtʃɪkɪn",
+   "zh": "鸡； 鸡肉",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ]
+  },
+  {
+   "id": "w:child",
+   "text": "child",
+   "ipa": "tʃaɪld",
+   "zh": "（复数children ） 儿童； 小孩",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:china",
+   "text": "China",
+   "ipa": "ˈtʃaɪnə",
+   "zh": "中国",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:chinese",
+   "text": "Chinese",
+   "ipa": "ˌtʃaɪˈniːz",
+   "zh": "中文； 中国人； 中国的",
+   "core": true,
+   "units": [
+    "4A-U2"
+   ]
+  },
+  {
+   "id": "w:chopstick",
+   "text": "chopstick",
+   "ipa": "ˈtʃɒpstɪk",
+   "zh": "（常用 复数）筷子",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:chore",
+   "text": "chore",
+   "ipa": "tʃɔː(r)",
+   "zh": "家庭杂务",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:christmas",
+   "text": "Christmas",
+   "ipa": "",
+   "zh": "圣诞节",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:class",
+   "text": "class",
+   "ipa": "klɑːs",
+   "zh": "课； 班级",
+   "core": true,
+   "units": [
+    "3B-U3",
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:classmate",
+   "text": "classmate",
+   "ipa": "ˈklɑːsmeɪt",
+   "zh": "同班 同学",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:classroom",
+   "text": "classroom",
+   "ipa": "ˈklɑːsruːm",
+   "zh": "教室",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:clay",
+   "text": "clay",
+   "ipa": "kleɪ",
+   "zh": "黏土； 陶土",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:clean",
+   "text": "clean",
+   "ipa": "kliːn",
+   "zh": "打扫； 干净的",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:clean my room",
+   "text": "clean my room",
+   "ipa": "",
+   "zh": "打扫我的房间",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:cleaned",
+   "text": "cleaned",
+   "ipa": "",
+   "zh": "（clean 的过去式） 打扫",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:cleaner",
+   "text": "cleaner",
+   "ipa": "ˈkliːnə(r)",
+   "zh": "清洁工",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:clear the table",
+   "text": "clear the table",
+   "ipa": "",
+   "zh": "收拾餐桌",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:clever",
+   "text": "clever",
+   "ipa": "ˈklevə(r)",
+   "zh": "聪明的； 聪颖的",
+   "core": true,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:climb",
+   "text": "climb",
+   "ipa": "klaɪm",
+   "zh": "攀登； 爬",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:climbing",
+   "text": "climbing",
+   "ipa": "",
+   "zh": "（climb 的-ing形式）（正在）攀登； 攀爬",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:clock",
+   "text": "clock",
+   "ipa": "klɒk",
+   "zh": "时钟",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:close",
+   "text": "close",
+   "ipa": "kləʊz",
+   "zh": "关； 关闭； 闭上",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:closed",
+   "text": "closed",
+   "ipa": "kləʊzd",
+   "zh": "关闭的",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:cloth",
+   "text": "cloth",
+   "ipa": "klɒθ",
+   "zh": "（一块）布； 织物",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:clothes",
+   "text": "clothes",
+   "ipa": "kləʊðz",
+   "zh": "衣服； 服装",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:cloud",
+   "text": "cloud",
+   "ipa": "klaʊd",
+   "zh": "云",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:cloudy",
+   "text": "cloudy",
+   "ipa": "ˈklaʊdi",
+   "zh": "多云的",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:coat",
+   "text": "coat",
+   "ipa": "kəʊt",
+   "zh": "大衣； 外套",
+   "core": true,
+   "units": [
+    "4A-U6"
+   ]
+  },
+  {
+   "id": "w:coconut",
+   "text": "coconut",
+   "ipa": "ˈkəʊkənʌt",
+   "zh": "椰子",
+   "core": false,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:cold",
+   "text": "cold",
+   "ipa": "kəʊld",
+   "zh": "冷的",
+   "core": true,
+   "units": [
+    "4A-U5",
+    "6A-U3"
+   ],
+   "emoji": "cold"
+  },
+  {
+   "id": "w:colour",
+   "text": "colour",
+   "ipa": "ˈkʌlə(r)",
+   "zh": "颜色",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:colourful",
+   "text": "colourful",
+   "ipa": "ˈkʌləfl",
+   "zh": "五彩缤纷的",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:community",
+   "text": "community",
+   "ipa": "kəˈmjuːnəti",
+   "zh": "社区",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:computer",
+   "text": "computer",
+   "ipa": "kəmˈpjuːtə(r)",
+   "zh": "计算机； 电脑",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:contest",
+   "text": "contest",
+   "ipa": "",
+   "zh": "比赛； 竞赛",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:cook",
+   "text": "cook",
+   "ipa": "kʊk",
+   "zh": "烹饪； 煮",
+   "core": true,
+   "units": [
+    "4A-U1",
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:cool",
+   "text": "cool",
+   "ipa": "kuːl",
+   "zh": "（因时髦、漂亮且 与众不同而）酷的，绝妙的",
+   "core": true,
+   "units": [
+    "3B-U5",
+    "4A-U5",
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:cough",
+   "text": "cough",
+   "ipa": "kɒf",
+   "zh": "咳嗽",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:could",
+   "text": "could",
+   "ipa": "",
+   "zh": "（can 的过去式） 能",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:count down",
+   "text": "count down",
+   "ipa": "kaʊnt",
+   "zh": "倒计时",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:countryside",
+   "text": "countryside",
+   "ipa": "",
+   "zh": "乡村",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:cousin",
+   "text": "cousin",
+   "ipa": "ˈkʌzn",
+   "zh": "堂（表）兄弟； 堂（表）姐妹",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:cow",
+   "text": "cow",
+   "ipa": "kaʊ",
+   "zh": "奶牛",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ],
+   "emoji": "cow"
+  },
+  {
+   "id": "w:cry",
+   "text": "cry",
+   "ipa": "kraɪ",
+   "zh": "哭； 哭泣",
+   "core": true,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:cut",
+   "text": "cut",
+   "ipa": "kʌt",
+   "zh": "切块",
+   "core": true,
+   "units": [
+    "3A-U6"
+   ]
+  },
+  {
+   "id": "w:cute",
+   "text": "cute",
+   "ipa": "kjuːt",
+   "zh": "可爱的",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ]
+  },
+  {
+   "id": "w:cycling",
+   "text": "cycling",
+   "ipa": "",
+   "zh": "骑自行车运动 （或活动）",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:dad",
+   "text": "dad",
+   "ipa": "dæd",
+   "zh": "（口语）爸爸； 爹爹",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:dance",
+   "text": "dance",
+   "ipa": "dɑːns",
+   "zh": "跳舞",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ],
+   "emoji": "dance"
+  },
+  {
+   "id": "w:dancing",
+   "text": "dancing",
+   "ipa": "",
+   "zh": "跳舞； 舞蹈",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:dangerous",
+   "text": "dangerous",
+   "ipa": "ˈdeɪndʒərəs",
+   "zh": "有危险的； 不安全的",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:daytime",
+   "text": "daytime",
+   "ipa": "ˈdeɪtaɪm",
+   "zh": "白天",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:dear",
+   "text": "dear",
+   "ipa": "dɪə(r)",
+   "zh": "亲爱的",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:december",
+   "text": "December",
+   "ipa": "",
+   "zh": "十二月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:delicious",
+   "text": "delicious",
+   "ipa": "dɪˈlɪʃəs",
+   "zh": "美味的； 可口的",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:delivery worker",
+   "text": "delivery worker",
+   "ipa": "dɪˈlɪvəri",
+   "zh": "快递员",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:desk",
+   "text": "desk",
+   "ipa": "desk",
+   "zh": "书桌； 办公桌",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:diary",
+   "text": "diary",
+   "ipa": "",
+   "zh": "日记",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:diet",
+   "text": "diet",
+   "ipa": "ˈdaɪət",
+   "zh": "日常饮食",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:difference",
+   "text": "difference",
+   "ipa": "ˈdɪfrəns",
+   "zh": "差别； 不同（之处）",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:different",
+   "text": "different",
+   "ipa": "ˈdɪfrənt",
+   "zh": "不同的； 有区别的； 有差异的",
+   "core": false,
+   "units": [
+    "5A-U5",
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:dining hall",
+   "text": "dining hall",
+   "ipa": "%",
+   "zh": "饭厅",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:dinner",
+   "text": "dinner",
+   "ipa": "ˈdɪnə(r)",
+   "zh": "（中午或晚上 吃的）正餐",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:dinosaur",
+   "text": "dinosaur",
+   "ipa": "",
+   "zh": "恐龙",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:dirty",
+   "text": "dirty",
+   "ipa": "ˈdɜːti",
+   "zh": "脏的",
+   "core": true,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:discuss",
+   "text": "discuss",
+   "ipa": "dɪˈskʌs",
+   "zh": "讨论； 商量",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:do morning exercises",
+   "text": "do morning exercises",
+   "ipa": "",
+   "zh": "做早操",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:doctor",
+   "text": "doctor",
+   "ipa": "ˈdɒktə(r)",
+   "zh": "医生",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ],
+   "emoji": "doctor"
+  },
+  {
+   "id": "w:dog",
+   "text": "dog",
+   "ipa": "dɒɡ",
+   "zh": "狗",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ],
+   "emoji": "dog"
+  },
+  {
+   "id": "w:doing morning exercises",
+   "text": "doing morning exercises",
+   "ipa": "",
+   "zh": "正在）做早操",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:doll",
+   "text": "doll",
+   "ipa": "dɒl",
+   "zh": "玩偶； 玩具娃娃",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:door",
+   "text": "door",
+   "ipa": "dɔː(r)",
+   "zh": "门",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ],
+   "emoji": "door"
+  },
+  {
+   "id": "w:drank",
+   "text": "drank",
+   "ipa": "",
+   "zh": "（drink 的过去式） 喝",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:draw",
+   "text": "draw",
+   "ipa": "drɔː",
+   "zh": "画",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ],
+   "emoji": "draw"
+  },
+  {
+   "id": "w:dream",
+   "text": "dream",
+   "ipa": "",
+   "zh": "梦",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:dress",
+   "text": "dress",
+   "ipa": "dres",
+   "zh": "连衣裙",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:drink",
+   "text": "drink",
+   "ipa": "drɪŋk",
+   "zh": "饮料",
+   "core": true,
+   "units": [
+    "6A-U4"
+   ],
+   "emoji": "drink"
+  },
+  {
+   "id": "w:drinking",
+   "text": "drinking",
+   "ipa": "",
+   "zh": "（drink的-ing 形式）（正在）喝（水）",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:drive",
+   "text": "drive",
+   "ipa": "draɪv",
+   "zh": "驾驶； 开车",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:driver",
+   "text": "driver",
+   "ipa": "ˈdraɪvə(r)",
+   "zh": "司机",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:dry",
+   "text": "dry",
+   "ipa": "draɪ",
+   "zh": "干的",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:duck",
+   "text": "duck",
+   "ipa": "dʌk",
+   "zh": "鸭",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ],
+   "emoji": "duck"
+  },
+  {
+   "id": "w:dumpling",
+   "text": "dumpling",
+   "ipa": "ˈdʌmplɪŋ",
+   "zh": "饺子； 汤圆",
+   "core": false,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:each",
+   "text": "each",
+   "ipa": "",
+   "zh": "每一； 各个",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:each other",
+   "text": "each other",
+   "ipa": "",
+   "zh": "相互",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:ear",
+   "text": "ear",
+   "ipa": "ɪə(r)",
+   "zh": "耳朵",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:earth",
+   "text": "earth",
+   "ipa": "ɜːθ",
+   "zh": "(also Earth) 地球",
+   "core": true,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:easy",
+   "text": "easy",
+   "ipa": "ˈiːzi",
+   "zh": "容易的； 轻易的",
+   "core": true,
+   "units": [
+    "5A-U1",
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:eat",
+   "text": "eat",
+   "ipa": "iːt",
+   "zh": "吃",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "6A-U1"
+   ],
+   "emoji": "eat"
+  },
+  {
+   "id": "w:eat breakfast",
+   "text": "eat breakfast",
+   "ipa": "",
+   "zh": "吃早饭",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:eat dinner",
+   "text": "eat dinner",
+   "ipa": "",
+   "zh": "吃晚饭",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:eating",
+   "text": "eating",
+   "ipa": "",
+   "zh": "（eat的-ing形式） （正在）吃",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:eating lunch",
+   "text": "eating lunch",
+   "ipa": "",
+   "zh": "正在）吃午饭",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:egg",
+   "text": "egg",
+   "ipa": "eɡ",
+   "zh": "（作食物用的）蛋； 鸡蛋",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ],
+   "emoji": "egg"
+  },
+  {
+   "id": "w:eiffel tower",
+   "text": "Eiffel Tower",
+   "ipa": "ˈaɪfəl",
+   "zh": "埃菲尔铁塔",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:eight",
+   "text": "eight",
+   "ipa": "eɪt",
+   "zh": "八",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:eighteen",
+   "text": "eighteen",
+   "ipa": "ˌeɪˈtiːn",
+   "zh": "十八",
+   "core": true,
+   "units": [
+    "3B-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:eighty",
+   "text": "eighty",
+   "ipa": "ˈeɪti",
+   "zh": "八十",
+   "core": false,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:electricity",
+   "text": "electricity",
+   "ipa": "ɪˌlekˈtrɪsəti",
+   "zh": "电",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:elephant",
+   "text": "elephant",
+   "ipa": "ˈelɪfənt",
+   "zh": "大象",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ],
+   "emoji": "elephant"
+  },
+  {
+   "id": "w:eleven",
+   "text": "eleven",
+   "ipa": "ɪˈlevn",
+   "zh": "十一",
+   "core": true,
+   "units": [
+    "3B-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:else",
+   "text": "else",
+   "ipa": "els",
+   "zh": "其他的； 别的",
+   "core": false,
+   "units": [
+    "5A-U4",
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:email",
+   "text": "email",
+   "ipa": "ˈiːmeɪl",
+   "zh": "电子邮件",
+   "core": true,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:energy",
+   "text": "energy",
+   "ipa": "ˈenədʒi",
+   "zh": "能源",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:english",
+   "text": "English",
+   "ipa": "ˈɪŋɡlɪʃ",
+   "zh": "英语的； 英语",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:enjoy",
+   "text": "enjoy",
+   "ipa": "",
+   "zh": "享受……乐趣； 喜爱",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:enough",
+   "text": "enough",
+   "ipa": "ɪˈnʌf",
+   "zh": "足够的； 充足的； 充分的",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:eraser",
+   "text": "eraser",
+   "ipa": "ɪˈreɪzə(r)",
+   "zh": "橡皮",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:evening",
+   "text": "evening",
+   "ipa": "ˈiːvnɪŋ",
+   "zh": "晚上； 傍晚",
+   "core": true,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:ever",
+   "text": "ever",
+   "ipa": "ˈevə(r)",
+   "zh": "（进行比较时 用于加强语气）以往任何时候",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:everyone",
+   "text": "everyone",
+   "ipa": "ˈevriwʌn",
+   "zh": "每人",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:excited",
+   "text": "excited",
+   "ipa": "ɪkˈsaɪtɪd",
+   "zh": "激动的； 兴奋的",
+   "core": true,
+   "units": [
+    "5A-U2",
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:exciting",
+   "text": "exciting",
+   "ipa": "ɪkˈsaɪtɪŋ",
+   "zh": "令人激动的",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:exercise",
+   "text": "exercise",
+   "ipa": "ˈeksəsaɪz",
+   "zh": "锻炼； 训练； 操练",
+   "core": true,
+   "units": [
+    "5A-U4",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:exhibition",
+   "text": "exhibition",
+   "ipa": "",
+   "zh": "展览",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:expensive",
+   "text": "expensive",
+   "ipa": "ɪkˈspensɪv",
+   "zh": "昂贵的； 价格高的",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:eye",
+   "text": "eye",
+   "ipa": "aɪ",
+   "zh": "眼睛",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:face",
+   "text": "face",
+   "ipa": "feɪs",
+   "zh": "脸； 面孔",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:factory worker",
+   "text": "factory worker",
+   "ipa": "ˈfæktri",
+   "zh": "工厂工人",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:fall",
+   "text": "fall",
+   "ipa": "fɔːl",
+   "zh": "落下",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:family",
+   "text": "family",
+   "ipa": "ˈfæməli",
+   "zh": "家； 家庭",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ],
+   "emoji": "family"
+  },
+  {
+   "id": "w:famous",
+   "text": "famous",
+   "ipa": "ˈfeɪməs",
+   "zh": "著名的； 出名的",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:fan",
+   "text": "fan",
+   "ipa": "fæn",
+   "zh": "风扇",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:farm",
+   "text": "farm",
+   "ipa": "fɑːm",
+   "zh": "农场",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ]
+  },
+  {
+   "id": "w:farmer",
+   "text": "farmer",
+   "ipa": "ˈfɑːmə(r)",
+   "zh": "农场主； 农民",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ],
+   "emoji": "farmer"
+  },
+  {
+   "id": "w:fast",
+   "text": "fast",
+   "ipa": "fɑːst",
+   "zh": "快的",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ]
+  },
+  {
+   "id": "w:faster",
+   "text": "faster",
+   "ipa": "",
+   "zh": "（fast 的比较级） 更快的",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:fat",
+   "text": "fat",
+   "ipa": "fæt",
+   "zh": "肥的； 肥胖的",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:father",
+   "text": "father",
+   "ipa": "ˈfɑːðə(r)",
+   "zh": "父亲； 爸爸",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ],
+   "emoji": "father"
+  },
+  {
+   "id": "w:favourite",
+   "text": "favourite",
+   "ipa": "ˈfeɪvərɪt",
+   "zh": "最喜欢的",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:february",
+   "text": "February",
+   "ipa": "",
+   "zh": "二月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:feed",
+   "text": "feed",
+   "ipa": "fiːd",
+   "zh": "给（人或动物）食物； 饲养",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:feel",
+   "text": "feel",
+   "ipa": "fiːl",
+   "zh": "觉得； 感到",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:fell",
+   "text": "fell",
+   "ipa": "",
+   "zh": "（fall的过去式）摔倒",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:felt",
+   "text": "felt",
+   "ipa": "",
+   "zh": "（feel 的过去式）感觉",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:festival",
+   "text": "festival",
+   "ipa": "f",
+   "zh": "节日",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:fever",
+   "text": "fever",
+   "ipa": "ˈfiːvə(r)",
+   "zh": "发烧； 发热",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:few",
+   "text": "few",
+   "ipa": "",
+   "zh": "不多； 很少",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:fifteen",
+   "text": "fifteen",
+   "ipa": "ˌfɪfˈtiːn",
+   "zh": "十五",
+   "core": true,
+   "units": [
+    "3B-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:fifth (5th)",
+   "text": "fifth (5th)",
+   "ipa": "ff",
+   "zh": "第五（的）",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:fifty",
+   "text": "fifty",
+   "ipa": "ˈfɪfti",
+   "zh": "五十",
+   "core": false,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:film",
+   "text": "film",
+   "ipa": "fɪlm",
+   "zh": "电影",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:find",
+   "text": "find",
+   "ipa": "faɪnd",
+   "zh": "找到； 找回",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:fine",
+   "text": "fine",
+   "ipa": "faɪn",
+   "zh": "晴朗的",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:finish",
+   "text": "finish",
+   "ipa": "ˈfɪnɪʃ",
+   "zh": "完成； 做好",
+   "core": false,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:fire",
+   "text": "fire",
+   "ipa": "ˈfaɪə(r)",
+   "zh": "火； 火灾",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:firefighter",
+   "text": "firefighter",
+   "ipa": "ˈfaɪəfaɪtə(r)",
+   "zh": "消防队员",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:first",
+   "text": "first",
+   "ipa": "fɜːst",
+   "zh": "首先； 首次； 第一",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:first (1st)",
+   "text": "first (1st)",
+   "ipa": "",
+   "zh": "第一（的）",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:fish",
+   "text": "fish",
+   "ipa": "fɪʃ",
+   "zh": "鱼； 鱼肉",
+   "core": true,
+   "units": [
+    "3A-U3",
+    "6B-U3"
+   ],
+   "emoji": "fish"
+  },
+  {
+   "id": "w:five",
+   "text": "five",
+   "ipa": "faɪv",
+   "zh": "五",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:fixed",
+   "text": "fixed",
+   "ipa": "",
+   "zh": "（fix 的过去式） 修理",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:flood",
+   "text": "flood",
+   "ipa": "flʌd",
+   "zh": "洪水； 水灾",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:floor",
+   "text": "floor",
+   "ipa": "flɔː(r)",
+   "zh": "地板； 地面",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:flower",
+   "text": "flower",
+   "ipa": "ˈflaʊə(r)",
+   "zh": "花； 花朵",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ],
+   "emoji": "flower"
+  },
+  {
+   "id": "w:flu",
+   "text": "flu",
+   "ipa": "fluː",
+   "zh": "流行性感冒； 流感",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:fly",
+   "text": "fly",
+   "ipa": "flaɪ",
+   "zh": "操纵（飞行器等）； 飞",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:fog",
+   "text": "fog",
+   "ipa": "fɒɡ",
+   "zh": "雾",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:follow",
+   "text": "follow",
+   "ipa": "ˈfɒləʊ",
+   "zh": "遵循，听从 （忠告、指示等）",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:food",
+   "text": "food",
+   "ipa": "fuːd",
+   "zh": "菜肴； 食物",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:football",
+   "text": "football",
+   "ipa": "ˈfʊtbɔːl",
+   "zh": "足球运动",
+   "core": true,
+   "units": [
+    "4A-U2"
+   ]
+  },
+  {
+   "id": "w:for example",
+   "text": "for example",
+   "ipa": "ɪɡˈzɑːmpl",
+   "zh": "例如",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:forest",
+   "text": "forest",
+   "ipa": "ˈfɒrɪst",
+   "zh": "森林； 林区",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:fork",
+   "text": "fork",
+   "ipa": "fɔːk",
+   "zh": "餐叉",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:forty",
+   "text": "forty",
+   "ipa": "ˈfɔːti",
+   "zh": "四十",
+   "core": false,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:four",
+   "text": "four",
+   "ipa": "fɔː(r)",
+   "zh": "四",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:fourteen",
+   "text": "fourteen",
+   "ipa": "ˌfɔːˈtiːn",
+   "zh": "十四",
+   "core": true,
+   "units": [
+    "3B-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:fourth (4th)",
+   "text": "fourth (4th)",
+   "ipa": "",
+   "zh": "第四（的）",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:fox",
+   "text": "fox",
+   "ipa": "fɒks",
+   "zh": "狐狸",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ]
+  },
+  {
+   "id": "w:free",
+   "text": "free",
+   "ipa": "friː",
+   "zh": "免费的",
+   "core": true,
+   "units": [
+    "4B-U4",
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:friday",
+   "text": "Friday",
+   "ipa": "ˈfraɪdeɪ",
+   "zh": "星期五",
+   "core": false,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:friend",
+   "text": "friend",
+   "ipa": "frend",
+   "zh": "朋友",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ],
+   "emoji": "friend"
+  },
+  {
+   "id": "w:from",
+   "text": "from",
+   "ipa": "frɒm",
+   "zh": "（表示来源） 来自，从……来",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:front",
+   "text": "front",
+   "ipa": "frʌnt",
+   "zh": "前部",
+   "core": true,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:fruit",
+   "text": "fruit",
+   "ipa": "fruːt",
+   "zh": "水果",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:fun",
+   "text": "fun",
+   "ipa": "fʌn",
+   "zh": "享乐； 乐趣",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:fur",
+   "text": "fur",
+   "ipa": "",
+   "zh": "某些动物的）浓密的 软毛",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:gala",
+   "text": "gala",
+   "ipa": "ˈɡɑːlə",
+   "zh": "演出； 庆典",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:game",
+   "text": "game",
+   "ipa": "ɡeɪm",
+   "zh": "游戏",
+   "core": true,
+   "units": [
+    "4A-U2",
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:garden",
+   "text": "garden",
+   "ipa": "ˈɡɑːdn",
+   "zh": "花园",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ]
+  },
+  {
+   "id": "w:get together",
+   "text": "get together",
+   "ipa": "",
+   "zh": "聚会",
+   "core": true,
+   "units": [
+    "4A-U6"
+   ]
+  },
+  {
+   "id": "w:get up",
+   "text": "get up",
+   "ipa": "",
+   "zh": "起床",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:gift",
+   "text": "gift",
+   "ipa": "ɡɪft",
+   "zh": "礼物",
+   "core": true,
+   "units": [
+    "3B-U2",
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:giraffe",
+   "text": "giraffe",
+   "ipa": "dʒəˈrɑːf",
+   "zh": "长颈鹿",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ]
+  },
+  {
+   "id": "w:girl",
+   "text": "girl",
+   "ipa": "ɡɜːl",
+   "zh": "女孩",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:give",
+   "text": "give",
+   "ipa": "ɡɪv",
+   "zh": "给",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ]
+  },
+  {
+   "id": "w:glass",
+   "text": "glass",
+   "ipa": "ɡlɑːs",
+   "zh": "一杯（的量）； 玻璃",
+   "core": true,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:glove",
+   "text": "glove",
+   "ipa": "ɡlʌv",
+   "zh": "手套 then 然后； 那时",
+   "core": true,
+   "units": [
+    "4A-U6"
+   ]
+  },
+  {
+   "id": "w:go",
+   "text": "go",
+   "ipa": "ɡəʊ",
+   "zh": "去； 走",
+   "core": true,
+   "units": [
+    "3A-U3",
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:go cycling",
+   "text": "go cycling",
+   "ipa": "",
+   "zh": "去骑自行车",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:go for a walk",
+   "text": "go for a walk",
+   "ipa": "",
+   "zh": "散步",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:go hiking",
+   "text": "go hiking",
+   "ipa": "ˈhaɪkɪŋ",
+   "zh": "徒步旅行",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:go home",
+   "text": "go home",
+   "ipa": "",
+   "zh": "回家",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:go on a picnic",
+   "text": "go on a picnic",
+   "ipa": "",
+   "zh": "去野餐",
+   "core": false,
+   "units": [
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:go shopping",
+   "text": "go shopping",
+   "ipa": "",
+   "zh": "去买东西； 购物",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:go swimming",
+   "text": "go swimming",
+   "ipa": "",
+   "zh": "去游泳",
+   "core": false,
+   "units": [
+    "5B-U1",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:go to bed",
+   "text": "go to bed",
+   "ipa": "",
+   "zh": "上床睡觉",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:go to school",
+   "text": "go to school",
+   "ipa": "",
+   "zh": "上学",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:good",
+   "text": "good",
+   "ipa": "ɡʊd",
+   "zh": "好的",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:good job",
+   "text": "good job",
+   "ipa": "",
+   "zh": "做得好",
+   "core": false,
+   "units": [
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:goods",
+   "text": "goods",
+   "ipa": "ɡʊdz",
+   "zh": "商品",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:grandfather",
+   "text": "grandfather",
+   "ipa": "ˈɡrænfɑːðə(r)",
+   "zh": "（外）祖父； 爷爷； 姥爷； 外公",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:grandma",
+   "text": "grandma",
+   "ipa": "ˈɡrænmɑː",
+   "zh": "奶奶； 姥姥",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:grandmother",
+   "text": "grandmother",
+   "ipa": "ˈɡrænmʌðə(r)",
+   "zh": "（外）祖母； 奶奶； 姥姥； 外婆",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:grandpa",
+   "text": "grandpa",
+   "ipa": "ˈɡrænpɑː",
+   "zh": "爷爷； 姥爷",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:grandparent",
+   "text": "grandparent",
+   "ipa": "ˈɡrænpeərənt",
+   "zh": "祖父； 祖母； 外祖父； 外祖母",
+   "core": false,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:grape",
+   "text": "grape",
+   "ipa": "ɡreɪp",
+   "zh": "葡萄",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ],
+   "emoji": "grape"
+  },
+  {
+   "id": "w:grass",
+   "text": "grass",
+   "ipa": "ɡrɑːs",
+   "zh": "草； 草地",
+   "core": true,
+   "units": [
+    "3A-U4",
+    "6B-U4"
+   ],
+   "emoji": "grass"
+  },
+  {
+   "id": "w:green",
+   "text": "green",
+   "ipa": "ɡriːn",
+   "zh": "绿色； 绿色的",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:green bean",
+   "text": "green bean",
+   "ipa": "biːn",
+   "zh": "青刀豆； 四季豆",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ]
+  },
+  {
+   "id": "w:gym",
+   "text": "gym",
+   "ipa": "",
+   "zh": "体育馆",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:habit",
+   "text": "habit",
+   "ipa": "ˈhæbɪt",
+   "zh": "习惯",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:had",
+   "text": "had",
+   "ipa": "",
+   "zh": "（have 的过去式） 患病； 得病",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:had a cold",
+   "text": "had a cold",
+   "ipa": "",
+   "zh": "感冒",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:hair",
+   "text": "hair",
+   "ipa": "heə(r)",
+   "zh": "头发",
+   "core": true,
+   "units": [
+    "4A-U2"
+   ]
+  },
+  {
+   "id": "w:haircut",
+   "text": "haircut",
+   "ipa": "ˈheəkʌt",
+   "zh": "理发； 发型",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:half",
+   "text": "half",
+   "ipa": "hɑːf",
+   "zh": "一半",
+   "core": true,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:hall",
+   "text": "hall",
+   "ipa": "",
+   "zh": "大厅",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:hamburger",
+   "text": "hamburger",
+   "ipa": "ˈhæmbɜːɡə(r)",
+   "zh": "汉堡包； 汉堡牛肉饼",
+   "core": false,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:hand",
+   "text": "hand",
+   "ipa": "hænd",
+   "zh": "手",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:hand out",
+   "text": "hand out",
+   "ipa": "aʊt",
+   "zh": "分发",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:hard",
+   "text": "hard",
+   "ipa": "hɑːd",
+   "zh": "努力地； 费力地",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:hard-working",
+   "text": "hard-working",
+   "ipa": "ˌhɑːd ˈwɜːkɪŋ",
+   "zh": "工作努力的； 辛勤的",
+   "core": false,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:has",
+   "text": "has",
+   "ipa": "hæz",
+   "zh": "（have的第三人称单数 形式）具有（某种外表、特性或 特征）",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:hat",
+   "text": "hat",
+   "ipa": "hæt",
+   "zh": "帽子",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:have",
+   "text": "have",
+   "ipa": "hæv",
+   "zh": "有",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:have … class",
+   "text": "have … class",
+   "ipa": "",
+   "zh": "上⋯⋯课",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:have a look",
+   "text": "have a look",
+   "ipa": "",
+   "zh": "看一看",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:having … class",
+   "text": "having … class",
+   "ipa": "",
+   "zh": "正在）上……课",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:he",
+   "text": "he",
+   "ipa": "hiː",
+   "zh": "他",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:head",
+   "text": "head",
+   "ipa": "hed",
+   "zh": "头； 头部",
+   "core": true,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:healthy",
+   "text": "healthy",
+   "ipa": "ˈhelθi",
+   "zh": "健康的",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:hear",
+   "text": "hear",
+   "ipa": "hɪə(r)",
+   "zh": "听见； 听到",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:heat",
+   "text": "heat",
+   "ipa": "hiːt",
+   "zh": "加热； （使）变暖； 热量",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:heavier",
+   "text": "heavier",
+   "ipa": "",
+   "zh": "（heavy 的比较级）更重的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:heavy",
+   "text": "heavy",
+   "ipa": "ˈhevi",
+   "zh": "程度大的； 严重的",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:help",
+   "text": "help",
+   "ipa": "help",
+   "zh": "帮助",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:helpful",
+   "text": "helpful",
+   "ipa": "ˈhelpfl",
+   "zh": "有帮助的； 有用的",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:her",
+   "text": "her",
+   "ipa": "hɜː(r)",
+   "zh": "她； 她的",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:hers",
+   "text": "hers",
+   "ipa": "",
+   "zh": "她的",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:herself",
+   "text": "herself",
+   "ipa": "hɜːˈself",
+   "zh": "（用作女性的 反身代词）她自己，自己",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:him",
+   "text": "him",
+   "ipa": "hɪm",
+   "zh": "他",
+   "core": true,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:his",
+   "text": "his",
+   "ipa": "hɪz",
+   "zh": "他的",
+   "core": true,
+   "units": [
+    "4A-U2",
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:home",
+   "text": "home",
+   "ipa": "həʊm",
+   "zh": "家； 住所",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:homework",
+   "text": "homework",
+   "ipa": "ˈhəʊmwɜːk",
+   "zh": "家庭作业",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:horse",
+   "text": "horse",
+   "ipa": "hɔːs",
+   "zh": "马",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ],
+   "emoji": "horse"
+  },
+  {
+   "id": "w:hospital",
+   "text": "hospital",
+   "ipa": "ˈhɒspɪtl",
+   "zh": "医院",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ],
+   "emoji": "hospital"
+  },
+  {
+   "id": "w:hot",
+   "text": "hot",
+   "ipa": "hɒt",
+   "zh": "热的",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ],
+   "emoji": "hot"
+  },
+  {
+   "id": "w:hotel",
+   "text": "hotel",
+   "ipa": "həʊˈtel",
+   "zh": "旅馆； 旅社",
+   "core": true,
+   "units": [
+    "5A-U6",
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:hour",
+   "text": "hour",
+   "ipa": "ˈaʊə(r)",
+   "zh": "小时",
+   "core": true,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:house",
+   "text": "house",
+   "ipa": "haʊs",
+   "zh": "房子",
+   "core": true,
+   "units": [
+    "5A-U4",
+    "6A-U1"
+   ],
+   "emoji": "house"
+  },
+  {
+   "id": "w:hundred",
+   "text": "hundred",
+   "ipa": "ˈhʌndrəd",
+   "zh": "百",
+   "core": false,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:hungry",
+   "text": "hungry",
+   "ipa": "ˈhʌŋɡri",
+   "zh": "感到饿的",
+   "core": true,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:hurry up",
+   "text": "hurry up",
+   "ipa": "ˈhʌri",
+   "zh": "快点； 赶快",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:hurt",
+   "text": "hurt",
+   "ipa": "",
+   "zh": "（hurt 的过去式） （使）受伤",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:ice cream",
+   "text": "ice cream",
+   "ipa": "ˌaɪs ˈkriːm",
+   "zh": "（一份） 冰激凌",
+   "core": true,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:ice-skate",
+   "text": "ice-skate",
+   "ipa": "",
+   "zh": "滑冰",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:idea",
+   "text": "idea",
+   "ipa": "aɪˈdɪə",
+   "zh": "想法； 主意",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:if",
+   "text": "if",
+   "ipa": "ɪf",
+   "zh": "如果； 假若； 倘若",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:ill",
+   "text": "ill",
+   "ipa": "ɪl",
+   "zh": "不舒服； 生病的",
+   "core": true,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:important",
+   "text": "important",
+   "ipa": "ɪmˈpɔːtnt",
+   "zh": "重要的",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:in",
+   "text": "in",
+   "ipa": "ɪn",
+   "zh": "在……内； 在……中",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:in class",
+   "text": "in class",
+   "ipa": "ɪn",
+   "zh": "在课堂上",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:inspiring",
+   "text": "inspiring",
+   "ipa": "ɪnˈspaɪərɪŋ",
+   "zh": "鼓舞人心的",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:interesting",
+   "text": "interesting",
+   "ipa": "ˈɪntrəstɪŋ",
+   "zh": "有趣的； 有吸引力的",
+   "core": true,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:internet",
+   "text": "Internet",
+   "ipa": "",
+   "zh": "互联网",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:into",
+   "text": "into",
+   "ipa": "ˈɪntə",
+   "zh": "朝； 进入",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:island",
+   "text": "island",
+   "ipa": "",
+   "zh": "岛",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:its",
+   "text": "its",
+   "ipa": "",
+   "zh": "指事物、动物或幼儿） 它的； 他的； 她的",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:jacket",
+   "text": "jacket",
+   "ipa": "ˈdʒækɪt",
+   "zh": "夹克衫； 短上衣",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:january",
+   "text": "January",
+   "ipa": "",
+   "zh": "一月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:jar",
+   "text": "jar",
+   "ipa": "dʒɑː(r)",
+   "zh": "罐子",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:jinggangshan revolution museum",
+   "text": "Jinggangshan Revolution Museum",
+   "ipa": "ˌrevəˈluːʃn",
+   "zh": "井冈山革命博物馆",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:job",
+   "text": "job",
+   "ipa": "dʒɒb",
+   "zh": "工作； 职业",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:judge",
+   "text": "judge",
+   "ipa": "dʒʌdʒ",
+   "zh": "裁判",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:juice",
+   "text": "juice",
+   "ipa": "dʒuːs",
+   "zh": "果汁",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:july",
+   "text": "July",
+   "ipa": "",
+   "zh": "七月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:jump",
+   "text": "jump",
+   "ipa": "dʒʌmp",
+   "zh": "跳； 跃",
+   "core": true,
+   "units": [
+    "5A-U1"
+   ],
+   "emoji": "jump"
+  },
+  {
+   "id": "w:jumping",
+   "text": "jumping",
+   "ipa": "",
+   "zh": "（jump 的-ing形式）（正在）跳",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:june",
+   "text": "June",
+   "ipa": "",
+   "zh": "六月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:just",
+   "text": "just",
+   "ipa": "dʒʌst",
+   "zh": "只是； 仅仅； 正要",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:keep",
+   "text": "keep",
+   "ipa": "kiːp",
+   "zh": "保有； 留着",
+   "core": true,
+   "units": [
+    "3B-U5",
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:keep to the right",
+   "text": "keep to the right",
+   "ipa": "",
+   "zh": "靠右",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:keep your desk clean",
+   "text": "keep your desk clean",
+   "ipa": "",
+   "zh": "保持你 的课桌干净",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:kid",
+   "text": "kid",
+   "ipa": "kɪd",
+   "zh": "小孩",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:kilogram",
+   "text": "kilogram",
+   "ipa": "",
+   "zh": "千克； 公斤",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:kilometre",
+   "text": "kilometre",
+   "ipa": "kɪˈlɒmɪtə(r)",
+   "zh": "（=km） 千米； 公里",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:kind",
+   "text": "kind",
+   "ipa": "kaɪnd",
+   "zh": "友好的",
+   "core": true,
+   "units": [
+    "4A-U2"
+   ]
+  },
+  {
+   "id": "w:kitchen",
+   "text": "kitchen",
+   "ipa": "ˈkɪtʃɪn",
+   "zh": "厨房",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:kite",
+   "text": "kite",
+   "ipa": "kaɪt",
+   "zh": "风筝",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:kitten",
+   "text": "kitten",
+   "ipa": "",
+   "zh": "小猫",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:knife",
+   "text": "knife",
+   "ipa": "naɪf",
+   "zh": "刀",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:know",
+   "text": "know",
+   "ipa": "nəʊ",
+   "zh": "知道； 了解",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:labour",
+   "text": "labour",
+   "ipa": "leb",
+   "zh": "劳动",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:labour day",
+   "text": "Labour Day",
+   "ipa": "",
+   "zh": "劳动节",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:lake",
+   "text": "lake",
+   "ipa": "leɪk",
+   "zh": "湖； 湖泊",
+   "core": true,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:lamp",
+   "text": "lamp",
+   "ipa": "",
+   "zh": "台灯",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:large",
+   "text": "large",
+   "ipa": "lɑːdʒ",
+   "zh": "（服装、食物、 日用品等）大型号的",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:last",
+   "text": "last",
+   "ipa": "",
+   "zh": "上一个的； 刚过去的",
+   "core": false,
+   "units": [
+    "5B-U1",
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:late",
+   "text": "late",
+   "ipa": "leɪt",
+   "zh": "迟到； 迟发生",
+   "core": true,
+   "units": [
+    "4B-U1",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:later",
+   "text": "later",
+   "ipa": "ˈleɪtə(r)",
+   "zh": "随后； 后来",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:laugh",
+   "text": "laugh",
+   "ipa": "lɑːf",
+   "zh": "笑",
+   "core": false,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:laughed",
+   "text": "laughed",
+   "ipa": "t",
+   "zh": "（laugh 的 过去式）笑",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:leaf",
+   "text": "leaf",
+   "ipa": "liːf",
+   "zh": "（复数leaves ） 叶",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:learn",
+   "text": "learn",
+   "ipa": "lɜːn",
+   "zh": "学； 学习",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:leg",
+   "text": "leg",
+   "ipa": "leɡ",
+   "zh": "腿",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:less",
+   "text": "less",
+   "ipa": "les",
+   "zh": "（与不可数名词连用） 较少的，更少的",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:lesson",
+   "text": "lesson",
+   "ipa": "ˈlesn",
+   "zh": "课； 一节课",
+   "core": true,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:letter",
+   "text": "letter",
+   "ipa": "",
+   "zh": "信",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:library",
+   "text": "library",
+   "ipa": "ˈlaɪbrəri",
+   "zh": "图书馆",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ],
+   "emoji": "library"
+  },
+  {
+   "id": "w:licked",
+   "text": "licked",
+   "ipa": "",
+   "zh": "（lick 的过去式） 舔",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:light",
+   "text": "light",
+   "ipa": "laɪt",
+   "zh": "灯； 光",
+   "core": true,
+   "units": [
+    "4B-U1",
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:like",
+   "text": "like",
+   "ipa": "laɪk",
+   "zh": "喜欢",
+   "core": true,
+   "units": [
+    "3A-U3",
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:lion",
+   "text": "lion",
+   "ipa": "ˈlaɪən",
+   "zh": "狮； 狮子",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ],
+   "emoji": "lion"
+  },
+  {
+   "id": "w:list",
+   "text": "list",
+   "ipa": "lɪst",
+   "zh": "清单； 目录",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:listen",
+   "text": "listen",
+   "ipa": "ˈlɪsn",
+   "zh": "听； 倾听",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:listening to music",
+   "text": "listening to music",
+   "ipa": "",
+   "zh": "正在） 听音乐",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:little",
+   "text": "little",
+   "ipa": "ˈlɪtl",
+   "zh": "少许； 一点",
+   "core": true,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:live",
+   "text": "live",
+   "ipa": "",
+   "zh": "居住",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:living room",
+   "text": "living room",
+   "ipa": "ˈlɪvɪŋ",
+   "zh": "客厅； 起居室",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:long",
+   "text": "long",
+   "ipa": "lɒŋ",
+   "zh": "（长度或距离）长的",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:longer",
+   "text": "longer",
+   "ipa": "",
+   "zh": "（long 的比较级） 更长的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:look after",
+   "text": "look after",
+   "ipa": "",
+   "zh": "照顾",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:look up",
+   "text": "look up",
+   "ipa": "",
+   "zh": "在词典中或通过电脑） 查阅",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:lotus",
+   "text": "lotus",
+   "ipa": "ˈləʊtəs",
+   "zh": "莲属植物",
+   "core": false,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:loud",
+   "text": "loud",
+   "ipa": "laʊd",
+   "zh": "说话太大声的； 吵闹的",
+   "core": true,
+   "units": [
+    "4B-U2",
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:love",
+   "text": "love",
+   "ipa": "lʌv",
+   "zh": "喜爱； 爱",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:lovely",
+   "text": "lovely",
+   "ipa": "ˈlʌvli",
+   "zh": "美丽的； 优美的",
+   "core": true,
+   "units": [
+    "5A-U1",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:lower",
+   "text": "lower",
+   "ipa": "",
+   "zh": "（low 的比较级） 更低",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:lucky",
+   "text": "lucky",
+   "ipa": "ˈlʌki",
+   "zh": "幸运的",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:lunch",
+   "text": "lunch",
+   "ipa": "lʌntʃ",
+   "zh": "午餐",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:macao bridge",
+   "text": "Macao Bridge",
+   "ipa": "məˈkaʊ",
+   "zh": "港珠澳大桥",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:magazine",
+   "text": "magazine",
+   "ipa": "%",
+   "zh": "杂志",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:make",
+   "text": "make",
+   "ipa": "meɪk",
+   "zh": "使出现； 做",
+   "core": true,
+   "units": [
+    "3A-U5",
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:make a snowman",
+   "text": "make a snowman",
+   "ipa": "",
+   "zh": "堆雪人",
+   "core": false,
+   "units": [
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:make the bed",
+   "text": "make the bed",
+   "ipa": "bed",
+   "zh": "铺床",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:man",
+   "text": "man",
+   "ipa": "mæn",
+   "zh": "成年男子； 男人",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:manage",
+   "text": "manage",
+   "ipa": "ˈmænɪdʒ",
+   "zh": "管理",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:map",
+   "text": "map",
+   "ipa": "mæp",
+   "zh": "地图",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:marathon",
+   "text": "marathon",
+   "ipa": "ˈmærəθən",
+   "zh": "马拉松赛跑",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:marble",
+   "text": "marble",
+   "ipa": "ˈmɑːbl",
+   "zh": "（玻璃）弹子",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:march",
+   "text": "March",
+   "ipa": "",
+   "zh": "三月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:market",
+   "text": "market",
+   "ipa": "ˈmɑːkɪt",
+   "zh": "集市； 市场",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:mars",
+   "text": "Mars",
+   "ipa": "mɑːz",
+   "zh": "火星",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:maths",
+   "text": "maths",
+   "ipa": "mæθs",
+   "zh": "数学",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:matter",
+   "text": "matter",
+   "ipa": "ˈmætə(r)",
+   "zh": "事情； 问题",
+   "core": false,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:may",
+   "text": "May",
+   "ipa": "meɪ",
+   "zh": "五月",
+   "core": true,
+   "units": [
+    "5B-U3",
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:me",
+   "text": "me",
+   "ipa": "miː",
+   "zh": "我",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:meat",
+   "text": "meat",
+   "ipa": "miːt",
+   "zh": "肉",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:meet",
+   "text": "meet",
+   "ipa": "",
+   "zh": "集会； 开会",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:metre",
+   "text": "metre",
+   "ipa": "",
+   "zh": "米（美式英语：",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:microscope",
+   "text": "microscope",
+   "ipa": "ˈmaɪkrəskəʊp",
+   "zh": "显微镜",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:milk",
+   "text": "milk",
+   "ipa": "mɪlk",
+   "zh": "（牛或羊等的）奶",
+   "core": true,
+   "units": [
+    "3B-U4",
+    "4B-U6"
+   ],
+   "emoji": "milk"
+  },
+  {
+   "id": "w:mine",
+   "text": "mine",
+   "ipa": "maɪn",
+   "zh": "我的",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:minute",
+   "text": "minute",
+   "ipa": "ˈmɪnɪt",
+   "zh": "分钟",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:miss",
+   "text": "Miss",
+   "ipa": "mɪs",
+   "zh": "（学生对女教师的 称呼）老师； 女士",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ]
+  },
+  {
+   "id": "w:monday",
+   "text": "Monday",
+   "ipa": "ˈmʌndeɪ",
+   "zh": "星期一",
+   "core": false,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:money",
+   "text": "money",
+   "ipa": "ˈmʌni",
+   "zh": "钱",
+   "core": true,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:monkey",
+   "text": "monkey",
+   "ipa": "ˈmʌŋki",
+   "zh": "猴子",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ],
+   "emoji": "monkey"
+  },
+  {
+   "id": "w:month",
+   "text": "month",
+   "ipa": "mʌnθ",
+   "zh": "月； 月份",
+   "core": true,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:moon",
+   "text": "moon",
+   "ipa": "muːn",
+   "zh": "(also the Moon) 月球； 月亮； 卫星",
+   "core": true,
+   "units": [
+    "6A-U5"
+   ],
+   "emoji": "moon"
+  },
+  {
+   "id": "w:mother",
+   "text": "mother",
+   "ipa": "ˈmʌðə(r)",
+   "zh": "母亲； 妈妈",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ],
+   "emoji": "mother"
+  },
+  {
+   "id": "w:mountain",
+   "text": "mountain",
+   "ipa": "ˈmaʊntən",
+   "zh": "高山； 山岳",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:mouse",
+   "text": "mouse",
+   "ipa": "maʊs",
+   "zh": "（复数mice ） 老鼠",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ]
+  },
+  {
+   "id": "w:mouth",
+   "text": "mouth",
+   "ipa": "maʊθ",
+   "zh": "嘴",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:move",
+   "text": "move",
+   "ipa": "muːv",
+   "zh": "搬家； 移动",
+   "core": true,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:mr",
+   "text": "Mr",
+   "ipa": "ˈmɪstə(r)",
+   "zh": "（用于男子的 姓氏或姓名前）先生",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:mrs",
+   "text": "Mrs",
+   "ipa": "ˈmɪsɪz",
+   "zh": "（用于女子的姓氏 或姓名前）太太，夫人",
+   "core": true,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:ms",
+   "text": "Ms",
+   "ipa": "mɪz",
+   "zh": "（用于女子的姓氏或 姓名前，不指明婚否）女士",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:much",
+   "text": "much",
+   "ipa": "mʌtʃ",
+   "zh": "许多； 大量",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:mule",
+   "text": "mule",
+   "ipa": "",
+   "zh": "骡子",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:mum",
+   "text": "mum",
+   "ipa": "mʌm",
+   "zh": "（口语）妈妈",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:music",
+   "text": "music",
+   "ipa": "ˈmjuːzɪk",
+   "zh": "音乐",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:name",
+   "text": "name",
+   "ipa": "neɪm",
+   "zh": "名字",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:national",
+   "text": "national",
+   "ipa": "",
+   "zh": "国家的",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:national day",
+   "text": "National Day",
+   "ipa": "",
+   "zh": "国庆日",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:nature",
+   "text": "nature",
+   "ipa": "ˈneɪtʃə(r)",
+   "zh": "自然界； 大自然",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:need",
+   "text": "need",
+   "ipa": "niːd",
+   "zh": "需要",
+   "core": true,
+   "units": [
+    "3A-U4",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:neighbour",
+   "text": "neighbour",
+   "ipa": "ˈneɪbə(r)",
+   "zh": "邻居",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:new",
+   "text": "new",
+   "ipa": "njuː",
+   "zh": "新的",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ]
+  },
+  {
+   "id": "w:new zealand",
+   "text": "New Zealand",
+   "ipa": "ˌnjuː ˈziːlənd",
+   "zh": "新西兰",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:newspaper",
+   "text": "newspaper",
+   "ipa": "ˈnjuːzpeɪpə(r)",
+   "zh": "报纸",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:nice",
+   "text": "nice",
+   "ipa": "naɪs",
+   "zh": "令人愉快的； 友好的",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:night",
+   "text": "night",
+   "ipa": "naɪt",
+   "zh": "夜； 夜晚",
+   "core": true,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:nine",
+   "text": "nine",
+   "ipa": "naɪn",
+   "zh": "九",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:nineteen",
+   "text": "nineteen",
+   "ipa": "ˌnaɪnˈtiːn",
+   "zh": "十九",
+   "core": true,
+   "units": [
+    "3B-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:ninety",
+   "text": "ninety",
+   "ipa": "ˈnaɪnti",
+   "zh": "九十",
+   "core": false,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:noise",
+   "text": "noise",
+   "ipa": "",
+   "zh": "声音； 响声； 噪音",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:noodle",
+   "text": "noodle",
+   "ipa": "ˈnuːdl",
+   "zh": "（常用复数） 面条",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:nose",
+   "text": "nose",
+   "ipa": "nəʊz",
+   "zh": "鼻； 鼻子",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:nothing",
+   "text": "nothing",
+   "ipa": "",
+   "zh": "没有什么",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:notice",
+   "text": "notice",
+   "ipa": "ˈnəʊtɪs",
+   "zh": "通知",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:november",
+   "text": "November",
+   "ipa": "",
+   "zh": "十一月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:now",
+   "text": "now",
+   "ipa": "naʊ",
+   "zh": "现在",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:numbers",
+   "text": "Numbers",
+   "ipa": "",
+   "zh": "数 词",
+   "core": false,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:nurse",
+   "text": "nurse",
+   "ipa": "nɜːs",
+   "zh": "护士",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:o'clock",
+   "text": "o'clock",
+   "ipa": "əˈklɒk",
+   "zh": "（表示整点） ……点钟",
+   "core": true,
+   "units": [
+    "3A-U6"
+   ]
+  },
+  {
+   "id": "w:ocean",
+   "text": "ocean",
+   "ipa": "ˈəʊʃn",
+   "zh": "大海； 海洋",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:october",
+   "text": "October",
+   "ipa": "",
+   "zh": "十月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:off",
+   "text": "off",
+   "ipa": "",
+   "zh": "从（某处）落下",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:office worker",
+   "text": "office worker",
+   "ipa": "ˈɒfɪs",
+   "zh": "公司职员",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:old",
+   "text": "old",
+   "ipa": "əʊld",
+   "zh": "（多少）岁； 年纪； 旧的",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:older",
+   "text": "older",
+   "ipa": "",
+   "zh": "（old 的比较级） 更年长的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:on",
+   "text": "on",
+   "ipa": "ɒn",
+   "zh": "（覆盖、附着） 在……上",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:one",
+   "text": "one",
+   "ipa": "wʌn",
+   "zh": "一",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:open",
+   "text": "open",
+   "ipa": "",
+   "zh": "开着的",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:or",
+   "text": "or",
+   "ipa": "ɔː(r)",
+   "zh": "或； 或者； 还是",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:orange",
+   "text": "orange",
+   "ipa": "ˈɒrɪndʒ",
+   "zh": "橙子； 柑橘",
+   "core": true,
+   "units": [
+    "3A-U4",
+    "3A-U5"
+   ],
+   "emoji": "orange"
+  },
+  {
+   "id": "w:other",
+   "text": "other",
+   "ipa": "",
+   "zh": "其他",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:ours",
+   "text": "ours",
+   "ipa": "",
+   "zh": "我们的",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:outer space",
+   "text": "outer space",
+   "ipa": "ˈaʊtə(r)",
+   "zh": "外太空",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:over",
+   "text": "over",
+   "ipa": "ˈəʊvə(r)",
+   "zh": "在……的远端 （或对面）",
+   "core": true,
+   "units": [
+    "4A-U3",
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:own",
+   "text": "own",
+   "ipa": "əʊn",
+   "zh": "自己的",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:p.m.",
+   "text": "p.m.",
+   "ipa": "",
+   "zh": "午后； 下午",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:paint",
+   "text": "paint",
+   "ipa": "",
+   "zh": "用颜料绘画",
+   "core": false,
+   "units": [
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:pair",
+   "text": "pair",
+   "ipa": "peə(r)",
+   "zh": "（由连在一起的 相似两部分构成的）一条，一副",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:panda",
+   "text": "panda",
+   "ipa": "ˈpændə",
+   "zh": "大熊猫",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ],
+   "emoji": "panda"
+  },
+  {
+   "id": "w:paper",
+   "text": "paper",
+   "ipa": "ˈpeɪpə(r)",
+   "zh": "纸",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:parent",
+   "text": "parent",
+   "ipa": "ˈpeərənt",
+   "zh": "父亲； 母亲",
+   "core": true,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:paris",
+   "text": "Paris",
+   "ipa": "ˈpærɪs",
+   "zh": "巴黎",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:park",
+   "text": "park",
+   "ipa": "pɑːk",
+   "zh": "公园",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ],
+   "emoji": "park"
+  },
+  {
+   "id": "w:part",
+   "text": "part",
+   "ipa": "",
+   "zh": "角色",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:pass",
+   "text": "pass",
+   "ipa": "pɑːs",
+   "zh": "给； 递",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:paste",
+   "text": "paste",
+   "ipa": "peɪst",
+   "zh": "粘贴",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:pay",
+   "text": "pay",
+   "ipa": "peɪ",
+   "zh": "付费",
+   "core": true,
+   "units": [
+    "3B-U6"
+   ]
+  },
+  {
+   "id": "w:pe",
+   "text": "PE",
+   "ipa": "ˌpiː ˈiː",
+   "zh": "体育（课）",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:pen",
+   "text": "pen",
+   "ipa": "pen",
+   "zh": "钢笔",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ],
+   "emoji": "pen"
+  },
+  {
+   "id": "w:pencil",
+   "text": "pencil",
+   "ipa": "ˈpensl",
+   "zh": "铅笔",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ],
+   "emoji": "pencil"
+  },
+  {
+   "id": "w:people",
+   "text": "people",
+   "ipa": "ˈpiːpl",
+   "zh": "人； 人们",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:pet",
+   "text": "pet",
+   "ipa": "pet",
+   "zh": "宠物",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ]
+  },
+  {
+   "id": "w:phone",
+   "text": "phone",
+   "ipa": "fəʊn",
+   "zh": "电话； 电话机",
+   "core": true,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:photo",
+   "text": "photo",
+   "ipa": "ˈfəʊtəʊ",
+   "zh": "照片",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:piano",
+   "text": "piano",
+   "ipa": "piˈænəʊ",
+   "zh": "钢琴",
+   "core": true,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:pick",
+   "text": "pick",
+   "ipa": "pɪk",
+   "zh": "采； 摘",
+   "core": true,
+   "units": [
+    "4B-U6",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:pick apples",
+   "text": "pick apples",
+   "ipa": "",
+   "zh": "摘苹果",
+   "core": false,
+   "units": [
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:picnic",
+   "text": "picnic",
+   "ipa": "",
+   "zh": "野餐",
+   "core": false,
+   "units": [
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:picture",
+   "text": "picture",
+   "ipa": "ˈpɪktʃə(r)",
+   "zh": "图画； 绘画",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:pig",
+   "text": "pig",
+   "ipa": "pɪɡ",
+   "zh": "猪",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ],
+   "emoji": "pig"
+  },
+  {
+   "id": "w:piggy bank",
+   "text": "piggy bank",
+   "ipa": "ˈpɪɡi bæŋk",
+   "zh": "猪形储钱罐",
+   "core": true,
+   "units": [
+    "3B-U6"
+   ]
+  },
+  {
+   "id": "w:ping-pong",
+   "text": "ping-pong",
+   "ipa": "ˈpɪŋˌpɒŋ",
+   "zh": "乒乓球",
+   "core": true,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:pink",
+   "text": "pink",
+   "ipa": "pɪŋk",
+   "zh": "粉色； 粉色的",
+   "core": true,
+   "units": [
+    "3A-U5",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:place",
+   "text": "place",
+   "ipa": "pleɪs",
+   "zh": "地方； 场所",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:planet",
+   "text": "planet",
+   "ipa": "ˈplænɪt",
+   "zh": "行星",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:plant",
+   "text": "plant",
+   "ipa": "plɑːnt",
+   "zh": "种植； 植物",
+   "core": true,
+   "units": [
+    "3A-U4",
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:plate",
+   "text": "plate",
+   "ipa": "pleɪt",
+   "zh": "盘子",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:play",
+   "text": "play",
+   "ipa": "pleɪ",
+   "zh": "玩耍",
+   "core": true,
+   "units": [
+    "4A-U2",
+    "5B-U1"
+   ],
+   "emoji": "play"
+  },
+  {
+   "id": "w:play sports",
+   "text": "play sports",
+   "ipa": "",
+   "zh": "进行体育运动",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:player",
+   "text": "player",
+   "ipa": "ˈpleɪə(r)",
+   "zh": "运动员； 参赛选手",
+   "core": false,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:playground",
+   "text": "playground",
+   "ipa": "ˈpleɪɡraʊnd",
+   "zh": "游乐场； 操场",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:playing",
+   "text": "playing",
+   "ipa": "",
+   "zh": "（play的-ing形式） （正在）玩耍",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:pocket money",
+   "text": "pocket money",
+   "ipa": "ˈpɒkɪt",
+   "zh": "零花钱",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:police officer",
+   "text": "police officer",
+   "ipa": "pəˈliːs",
+   "zh": "警察； 警员",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:potato",
+   "text": "potato",
+   "ipa": "pəˈteɪtəʊ",
+   "zh": "土豆",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ]
+  },
+  {
+   "id": "w:power",
+   "text": "power",
+   "ipa": "ˈpaʊə(r)",
+   "zh": "能； 能量",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:project",
+   "text": "project",
+   "ipa": "ˈprɒdʒekt",
+   "zh": "项目； 方案",
+   "core": false,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:pull",
+   "text": "pull",
+   "ipa": "pʊl",
+   "zh": "拔出； 抽出",
+   "core": false,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:pumpkin",
+   "text": "pumpkin",
+   "ipa": "ˈpʌmpkɪn",
+   "zh": "南瓜",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:purple",
+   "text": "purple",
+   "ipa": "ˈpɜːpl",
+   "zh": "紫色； 紫色的",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:put",
+   "text": "put",
+   "ipa": "pʊt",
+   "zh": "放； 安置",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:question",
+   "text": "question",
+   "ipa": "ˈkwestʃən",
+   "zh": "问题",
+   "core": true,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:quick",
+   "text": "quick",
+   "ipa": "kwɪk",
+   "zh": "迅速的； 快的",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:quiet",
+   "text": "quiet",
+   "ipa": "ˈkwaɪət",
+   "zh": "文静的",
+   "core": true,
+   "units": [
+    "4A-U2"
+   ]
+  },
+  {
+   "id": "w:rabbit",
+   "text": "rabbit",
+   "ipa": "ˈræbɪt",
+   "zh": "兔",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ],
+   "emoji": "rabbit"
+  },
+  {
+   "id": "w:race",
+   "text": "race",
+   "ipa": "reɪs",
+   "zh": "赛跑； 速度竞赛",
+   "core": false,
+   "units": [
+    "6A-U2",
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:rain",
+   "text": "rain",
+   "ipa": "reɪn",
+   "zh": "下雨； 雨",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ],
+   "emoji": "rain"
+  },
+  {
+   "id": "w:raincoat",
+   "text": "raincoat",
+   "ipa": "ˈreɪnkəʊt",
+   "zh": "雨衣",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:rainy",
+   "text": "rainy",
+   "ipa": "ˈreɪni",
+   "zh": "阴雨的",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:read",
+   "text": "read",
+   "ipa": "riːd",
+   "zh": "阅读",
+   "core": true,
+   "units": [
+    "4A-U2",
+    "6A-U2",
+    "6B-U2"
+   ],
+   "emoji": "read"
+  },
+  {
+   "id": "w:reading a book",
+   "text": "reading a book",
+   "ipa": "",
+   "zh": "正在）看书",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:ready",
+   "text": "ready",
+   "ipa": "ˈredi",
+   "zh": "准备好",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:red",
+   "text": "red",
+   "ipa": "red",
+   "zh": "红色； 红色的",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:red panda",
+   "text": "red panda",
+   "ipa": "red",
+   "zh": "小熊猫",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ]
+  },
+  {
+   "id": "w:reduce",
+   "text": "reduce",
+   "ipa": "rɪˈdjuːs",
+   "zh": "减少",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:resource",
+   "text": "resource",
+   "ipa": "rɪˈsɔːs",
+   "zh": "资源",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:rest",
+   "text": "rest",
+   "ipa": "rest",
+   "zh": "休息； 放松",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:restaurant",
+   "text": "restaurant",
+   "ipa": "ˈrestrɒnt",
+   "zh": "餐馆； 餐厅",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:reuse",
+   "text": "reuse",
+   "ipa": "ˌriːˈjuːz",
+   "zh": "再次使用； 重复使用",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:rice",
+   "text": "rice",
+   "ipa": "raɪs",
+   "zh": "大米",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ],
+   "emoji": "rice"
+  },
+  {
+   "id": "w:riddle",
+   "text": "riddle",
+   "ipa": "",
+   "zh": "谜； 谜语",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:right",
+   "text": "right",
+   "ipa": "raɪt",
+   "zh": "（意见或判断） 准确，确切，恰当",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:river",
+   "text": "river",
+   "ipa": "ˈrɪvə(r)",
+   "zh": "河； 江",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:robot",
+   "text": "robot",
+   "ipa": "ˈrəʊbɒt",
+   "zh": "机器人",
+   "core": true,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:rode",
+   "text": "rode",
+   "ipa": "",
+   "zh": "（ride 的过去式） 骑（马； 自行车）",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:room",
+   "text": "room",
+   "ipa": "ruːm",
+   "zh": "房间",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:root",
+   "text": "root",
+   "ipa": "ruːt",
+   "zh": "根； 根茎",
+   "core": false,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:rope",
+   "text": "rope",
+   "ipa": "rəʊp",
+   "zh": "绳； 粗绳",
+   "core": false,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:round",
+   "text": "round",
+   "ipa": "raʊnd",
+   "zh": "圆形的； 环形的； 球形的",
+   "core": false,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:rover",
+   "text": "rover",
+   "ipa": "ˈrəʊvə(r)",
+   "zh": "探测器",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:rsvp",
+   "text": "RSVP",
+   "ipa": "",
+   "zh": "尤用于请柬）请赐复",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:rule",
+   "text": "rule",
+   "ipa": "ruːl",
+   "zh": "规则； 规章",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:ruler",
+   "text": "ruler",
+   "ipa": "ˈruːlə(r)",
+   "zh": "直尺",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ],
+   "emoji": "ruler"
+  },
+  {
+   "id": "w:run",
+   "text": "run",
+   "ipa": "rʌn",
+   "zh": "跑； 奔跑",
+   "core": true,
+   "units": [
+    "4B-U2",
+    "6A-U2",
+    "6A-U6"
+   ],
+   "emoji": "run"
+  },
+  {
+   "id": "w:run out",
+   "text": "run out",
+   "ipa": "",
+   "zh": "用完",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:runny nose",
+   "text": "runny nose",
+   "ipa": "ˈrʌni",
+   "zh": "流鼻涕",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:sad",
+   "text": "sad",
+   "ipa": "sæd",
+   "zh": "悲哀的； 难过的",
+   "core": true,
+   "units": [
+    "5A-U2"
+   ],
+   "emoji": "sad"
+  },
+  {
+   "id": "w:safe",
+   "text": "safe",
+   "ipa": "seɪf",
+   "zh": "安全的",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:salad",
+   "text": "salad",
+   "ipa": "ˈsæləd",
+   "zh": "蔬菜沙拉",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:sale",
+   "text": "sale",
+   "ipa": "seɪl",
+   "zh": "特价销售； 出售",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:satellite",
+   "text": "satellite",
+   "ipa": "ˈsætəlaɪt",
+   "zh": "人造卫星",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:saturday",
+   "text": "Saturday",
+   "ipa": "ˈsætədeɪ",
+   "zh": "星期六",
+   "core": false,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:save up",
+   "text": "save up",
+   "ipa": "",
+   "zh": "攒钱",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:saw",
+   "text": "saw",
+   "ipa": "",
+   "zh": "（see 的过去式）看见",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:say",
+   "text": "say",
+   "ipa": "seɪ",
+   "zh": "说； 讲",
+   "core": true,
+   "units": [
+    "3A-U1",
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:school",
+   "text": "school",
+   "ipa": "skuːl",
+   "zh": "学校",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ],
+   "emoji": "school"
+  },
+  {
+   "id": "w:schoolbag",
+   "text": "schoolbag",
+   "ipa": "ˈskuːlbæɡ",
+   "zh": "书包",
+   "core": true,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:science",
+   "text": "science",
+   "ipa": "ˈsaɪəns",
+   "zh": "科学； 自然科学",
+   "core": true,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:sea",
+   "text": "sea",
+   "ipa": "siː",
+   "zh": "海； 海洋",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:season",
+   "text": "season",
+   "ipa": "ˈsiːzn",
+   "zh": "季节",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:second (2nd)",
+   "text": "second (2nd)",
+   "ipa": "",
+   "zh": "第二（的）",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:see",
+   "text": "see",
+   "ipa": "siː",
+   "zh": "看见",
+   "core": true,
+   "units": [
+    "3B-U3",
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:seed",
+   "text": "seed",
+   "ipa": "siːd",
+   "zh": "种子； 籽",
+   "core": false,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:sell",
+   "text": "sell",
+   "ipa": "sel",
+   "zh": "出售； 售卖",
+   "core": true,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:send",
+   "text": "send",
+   "ipa": "send",
+   "zh": "邮寄； 发送",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:september",
+   "text": "September",
+   "ipa": "",
+   "zh": "九月",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:service",
+   "text": "service",
+   "ipa": "ˈsɜːvɪs",
+   "zh": "服务",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:set the table",
+   "text": "set the table",
+   "ipa": "set",
+   "zh": "摆放餐具",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:seven",
+   "text": "seven",
+   "ipa": "ˈsevn",
+   "zh": "七",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:seventeen",
+   "text": "seventeen",
+   "ipa": "ˌsevnˈtiːn",
+   "zh": "十七",
+   "core": true,
+   "units": [
+    "3B-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:seventy",
+   "text": "seventy",
+   "ipa": "ˈsevnti",
+   "zh": "七十",
+   "core": false,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:shadow",
+   "text": "shadow",
+   "ipa": "",
+   "zh": "阴影； 影子",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:share",
+   "text": "share",
+   "ipa": "ʃeə(r)",
+   "zh": "分享",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:she",
+   "text": "she",
+   "ipa": "ʃiː",
+   "zh": "她",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:sheep",
+   "text": "sheep",
+   "ipa": "ʃiːp",
+   "zh": "羊； 绵羊",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ]
+  },
+  {
+   "id": "w:shelf",
+   "text": "shelf",
+   "ipa": "ʃelf",
+   "zh": "（复数shelves ） 架子",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:shirt",
+   "text": "shirt",
+   "ipa": "ʃɜːt",
+   "zh": "衬衫",
+   "core": true,
+   "units": [
+    "4A-U6"
+   ]
+  },
+  {
+   "id": "w:shoe",
+   "text": "shoe",
+   "ipa": "ʃuː",
+   "zh": "鞋",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:shop",
+   "text": "shop",
+   "ipa": "ʃɒp",
+   "zh": "商店",
+   "core": true,
+   "units": [
+    "4A-U3",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:short",
+   "text": "short",
+   "ipa": "ʃɔːt",
+   "zh": "短的； 个子矮的",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:shorter",
+   "text": "shorter",
+   "ipa": "",
+   "zh": "（short 的比较 级）更矮的； 更短的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:shorts",
+   "text": "shorts",
+   "ipa": "ʃɔːts",
+   "zh": "短裤",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:should",
+   "text": "should",
+   "ipa": "ʃʊd",
+   "zh": "（提出或征询建议）该，可以",
+   "core": true,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:show",
+   "text": "show",
+   "ipa": "ʃəʊ",
+   "zh": "（电视或广播）节目",
+   "core": true,
+   "units": [
+    "5A-U4",
+    "5B-U4",
+    "5B-U6",
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:shower",
+   "text": "shower",
+   "ipa": "ˈʃaʊə(r)",
+   "zh": "淋浴",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:side",
+   "text": "side",
+   "ipa": "saɪd",
+   "zh": "一面； 一边",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:sing",
+   "text": "sing",
+   "ipa": "sɪŋ",
+   "zh": "唱（歌）； 演唱",
+   "core": true,
+   "units": [
+    "3B-U2",
+    "6A-U2"
+   ],
+   "emoji": "sing"
+  },
+  {
+   "id": "w:sister",
+   "text": "sister",
+   "ipa": "ˈsɪstə(r)",
+   "zh": "姐； 妹",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ],
+   "emoji": "sister"
+  },
+  {
+   "id": "w:six",
+   "text": "six",
+   "ipa": "sɪks",
+   "zh": "六",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:sixteen",
+   "text": "sixteen",
+   "ipa": "ˌsɪksˈtiːn",
+   "zh": "十六",
+   "core": true,
+   "units": [
+    "3B-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:sixty",
+   "text": "sixty",
+   "ipa": "ˈsɪksti",
+   "zh": "六十",
+   "core": false,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:size",
+   "text": "size",
+   "ipa": "saɪz",
+   "zh": "尺码； 号",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:skirt",
+   "text": "skirt",
+   "ipa": "skɜːt",
+   "zh": "裙子",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:sky",
+   "text": "sky",
+   "ipa": "skaɪ",
+   "zh": "天； 天空",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:sleep",
+   "text": "sleep",
+   "ipa": "sliːp",
+   "zh": "睡觉",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ],
+   "emoji": "sleep"
+  },
+  {
+   "id": "w:sleeping",
+   "text": "sleeping",
+   "ipa": "",
+   "zh": "（sleep 的-ing形式）（正在）睡觉",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:slept",
+   "text": "slept",
+   "ipa": "",
+   "zh": "（sleep 的过去式） 睡觉",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:slow",
+   "text": "slow",
+   "ipa": "sləʊ",
+   "zh": "缓慢的； 慢的",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:small",
+   "text": "small",
+   "ipa": "smɔːl",
+   "zh": "小的",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:smaller",
+   "text": "smaller",
+   "ipa": "",
+   "zh": "（small 的比较 级）更小的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:smarter",
+   "text": "smarter",
+   "ipa": "",
+   "zh": "（smart 的比较级）更聪明的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:smell",
+   "text": "smell",
+   "ipa": "smel",
+   "zh": "闻（气味）",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:smile",
+   "text": "smile",
+   "ipa": "smaɪl",
+   "zh": "微笑； 笑",
+   "core": true,
+   "units": [
+    "3A-U1"
+   ]
+  },
+  {
+   "id": "w:snow",
+   "text": "snow",
+   "ipa": "snəʊ",
+   "zh": "下雪； 雪",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "5B-U2"
+   ],
+   "emoji": "snow"
+  },
+  {
+   "id": "w:snowman",
+   "text": "snowman",
+   "ipa": "ˈsnəʊmæn",
+   "zh": "雪人",
+   "core": true,
+   "units": [
+    "4A-U5",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:snowy",
+   "text": "snowy",
+   "ipa": "ˈsnəʊi",
+   "zh": "多雪的",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:so",
+   "text": "so",
+   "ipa": "səʊ",
+   "zh": "（表示大小或数量） 这么，那么",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:sock",
+   "text": "sock",
+   "ipa": "sɒk",
+   "zh": "短袜",
+   "core": true,
+   "units": [
+    "4A-U6"
+   ]
+  },
+  {
+   "id": "w:soil",
+   "text": "soil",
+   "ipa": "sɔɪl",
+   "zh": "土壤",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:solar",
+   "text": "solar",
+   "ipa": "ˈsəʊlə(r)",
+   "zh": "太阳的",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:some",
+   "text": "some",
+   "ipa": "səm, sʌm",
+   "zh": "一些",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:sometimes",
+   "text": "sometimes",
+   "ipa": "ˈsʌmtaɪmz",
+   "zh": "有时； 间或",
+   "core": true,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:song",
+   "text": "song",
+   "ipa": "sɒŋ",
+   "zh": "歌； 歌曲",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:soon",
+   "text": "soon",
+   "ipa": "suːn",
+   "zh": "很快； 马上",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:sorry",
+   "text": "sorry",
+   "ipa": "ˈsɒri",
+   "zh": "对不起",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:sound",
+   "text": "sound",
+   "ipa": "",
+   "zh": "听起来好像",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:soup",
+   "text": "soup",
+   "ipa": "suːp",
+   "zh": "汤",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:space",
+   "text": "space",
+   "ipa": "speɪs",
+   "zh": "太空； 空间",
+   "core": true,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:space station",
+   "text": "space station",
+   "ipa": "",
+   "zh": "空间站",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:spaceship",
+   "text": "spaceship",
+   "ipa": "ˈspeɪsʃɪp",
+   "zh": "宇宙飞船",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:spain",
+   "text": "Spain",
+   "ipa": "",
+   "zh": "西班牙",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:spanish",
+   "text": "Spanish",
+   "ipa": "",
+   "zh": "西班牙的",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:speak",
+   "text": "speak",
+   "ipa": "spiːk",
+   "zh": "说话； 发言",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:special",
+   "text": "special",
+   "ipa": "",
+   "zh": "特殊的； 特别的",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:spoon",
+   "text": "spoon",
+   "ipa": "spuːn",
+   "zh": "勺； 匙； 调羹",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:sport",
+   "text": "sport",
+   "ipa": "spɔːt",
+   "zh": "体育运动",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:sports meet",
+   "text": "sports meet",
+   "ipa": "",
+   "zh": "运动会",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:spring",
+   "text": "spring",
+   "ipa": "sprɪŋ",
+   "zh": "春天",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:star",
+   "text": "star",
+   "ipa": "stɑː",
+   "zh": "歌唱（或表演）明星",
+   "core": true,
+   "units": [
+    "5A-U1",
+    "6A-U5",
+    "6B-U4"
+   ],
+   "emoji": "star"
+  },
+  {
+   "id": "w:start",
+   "text": "start",
+   "ipa": "stɑːt",
+   "zh": "开始",
+   "core": false,
+   "units": [
+    "5A-U3",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:stay",
+   "text": "stay",
+   "ipa": "steɪ",
+   "zh": "待； 保持； 继续是",
+   "core": false,
+   "units": [
+    "5A-U4",
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:stay up",
+   "text": "stay up",
+   "ipa": "",
+   "zh": "熬夜",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:stayed",
+   "text": "stayed",
+   "ipa": "",
+   "zh": "（stay 的过去式） 停留； 待",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:stem",
+   "text": "stem",
+   "ipa": "stem",
+   "zh": "（花草的）茎； （花或叶的）梗，柄",
+   "core": false,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:still",
+   "text": "still",
+   "ipa": "stɪl",
+   "zh": "还是； 仍然",
+   "core": true,
+   "units": [
+    "3B-U5",
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:story",
+   "text": "story",
+   "ipa": "ˈstɔːri",
+   "zh": "故事",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:strong",
+   "text": "strong",
+   "ipa": "strɒŋ",
+   "zh": "强壮的",
+   "core": true,
+   "units": [
+    "4A-U2"
+   ]
+  },
+  {
+   "id": "w:stronger",
+   "text": "stronger",
+   "ipa": "",
+   "zh": "（strong 的 比较级）更强壮的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:student",
+   "text": "student",
+   "ipa": "ˈstjuːdnt",
+   "zh": "学生",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:study",
+   "text": "study",
+   "ipa": "ˈstʌdi",
+   "zh": "书房",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:subject",
+   "text": "subject",
+   "ipa": "ˈsʌbdʒɪkt",
+   "zh": "科目； 学科",
+   "core": true,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:summer",
+   "text": "summer",
+   "ipa": "ˈsʌmə(r)",
+   "zh": "夏天",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:sun",
+   "text": "sun",
+   "ipa": "sʌn",
+   "zh": "阳光； 太阳",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ],
+   "emoji": "sun"
+  },
+  {
+   "id": "w:sunday",
+   "text": "Sunday",
+   "ipa": "ˈsʌndeɪ",
+   "zh": "星期日",
+   "core": false,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:sunglasses",
+   "text": "sunglasses",
+   "ipa": "ˈsʌnɡlɑːsɪz",
+   "zh": "太阳镜； 墨镜",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:sunny",
+   "text": "sunny",
+   "ipa": "ˈsʌni",
+   "zh": "阳光充足的",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:sunrise",
+   "text": "sunrise",
+   "ipa": "ˈsʌnraɪz",
+   "zh": "日出",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:sunset",
+   "text": "sunset",
+   "ipa": "ˈsʌnset",
+   "zh": "日落",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:supermarket",
+   "text": "supermarket",
+   "ipa": "ˈsuːpəmɑːkɪt",
+   "zh": "超市",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:sure",
+   "text": "sure",
+   "ipa": "",
+   "zh": "表示同意）当然",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:sushi",
+   "text": "sushi",
+   "ipa": "",
+   "zh": "寿司",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:sweater",
+   "text": "sweater",
+   "ipa": "ˈswetə(r)",
+   "zh": "毛衣",
+   "core": true,
+   "units": [
+    "4A-U6"
+   ]
+  },
+  {
+   "id": "w:sweep",
+   "text": "sweep",
+   "ipa": "swiːp",
+   "zh": "扫",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:swim",
+   "text": "swim",
+   "ipa": "swɪm",
+   "zh": "游泳",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ],
+   "emoji": "swim"
+  },
+  {
+   "id": "w:sydney",
+   "text": "Sydney",
+   "ipa": "ˈsɪdni",
+   "zh": "悉尼",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:t-shirt t",
+   "text": "T-shirt T",
+   "ipa": "ˈtiːʃɜːt",
+   "zh": "恤衫",
+   "core": true,
+   "units": [
+    "4A-U6"
+   ]
+  },
+  {
+   "id": "w:taikonaut",
+   "text": "taikonaut",
+   "ipa": "ˈtaɪkənɔːt",
+   "zh": "中国航天员",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:tail",
+   "text": "tail",
+   "ipa": "teɪl",
+   "zh": "尾； 尾巴",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:take",
+   "text": "take",
+   "ipa": "teɪk",
+   "zh": "买下",
+   "core": true,
+   "units": [
+    "4B-U4",
+    "5B-U1",
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:take a dancing class",
+   "text": "take a dancing class",
+   "ipa": "",
+   "zh": "上舞蹈课",
+   "core": false,
+   "units": [
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:take care of",
+   "text": "take care of",
+   "ipa": "",
+   "zh": "爱护； 照顾",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:take turns",
+   "text": "take turns",
+   "ipa": "",
+   "zh": "按顺序来",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:talk",
+   "text": "talk",
+   "ipa": "tɔːk",
+   "zh": "说话； 讲话； 谈话",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:talk quietly",
+   "text": "talk quietly",
+   "ipa": "",
+   "zh": "小声讲话",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:tall",
+   "text": "tall",
+   "ipa": "tɔːl",
+   "zh": "高的",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ]
+  },
+  {
+   "id": "w:taller",
+   "text": "taller",
+   "ipa": "",
+   "zh": "（tall 的比较级） 更高的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:taste",
+   "text": "taste",
+   "ipa": "teɪst",
+   "zh": "尝（味道）",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:tea",
+   "text": "tea",
+   "ipa": "tiː",
+   "zh": "茶叶； 茶； 茶水",
+   "core": true,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:teach",
+   "text": "teach",
+   "ipa": "",
+   "zh": "教",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:teacher",
+   "text": "teacher",
+   "ipa": "ˈtiːtʃə(r)",
+   "zh": "教师",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ],
+   "emoji": "teacher"
+  },
+  {
+   "id": "w:team",
+   "text": "team",
+   "ipa": "tiːm",
+   "zh": "（游戏或运动的） 队； （一起工作的）组，班",
+   "core": false,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:telescope",
+   "text": "telescope",
+   "ipa": "ˈtelɪskəʊp",
+   "zh": "望远镜",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:tell",
+   "text": "tell",
+   "ipa": "tel",
+   "zh": "讲述； 告诉",
+   "core": true,
+   "units": [
+    "4A-U4"
+   ]
+  },
+  {
+   "id": "w:ten",
+   "text": "ten",
+   "ipa": "ten",
+   "zh": "十",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:terracotta warriors",
+   "text": "Terracotta Warriors",
+   "ipa": "ˌterəˈkɒtə",
+   "zh": "兵马俑",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:than",
+   "text": "than",
+   "ipa": "",
+   "zh": "比",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:thanksgiving",
+   "text": "Thanksgiving",
+   "ipa": "",
+   "zh": "感恩节",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:the great wall",
+   "text": "the Great Wall",
+   "ipa": "",
+   "zh": "长城",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:the red army",
+   "text": "the Red Army",
+   "ipa": "",
+   "zh": "红军",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:their",
+   "text": "their",
+   "ipa": "ðeə(r)",
+   "zh": "他们的； 她们的； 它们的",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:theirs",
+   "text": "theirs",
+   "ipa": "",
+   "zh": "他们的； 她们的； 它们的",
+   "core": false,
+   "units": [
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:them",
+   "text": "them",
+   "ipa": "ðəm, ðem",
+   "zh": "它们； 他们； 她们",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ]
+  },
+  {
+   "id": "w:then",
+   "text": "then",
+   "ipa": "ðen",
+   "zh": "那么； 因此； 既然 如此",
+   "core": true,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:there",
+   "text": "there",
+   "ipa": "ðeə(r)",
+   "zh": "（表示存在 或发生）； 在那里",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:these",
+   "text": "these",
+   "ipa": "ðiːz",
+   "zh": "这些",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:thin",
+   "text": "thin",
+   "ipa": "θɪn",
+   "zh": "瘦的",
+   "core": true,
+   "units": [
+    "3B-U2"
+   ]
+  },
+  {
+   "id": "w:thing",
+   "text": "thing",
+   "ipa": "",
+   "zh": "事情",
+   "core": false,
+   "units": [
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:think",
+   "text": "think",
+   "ipa": "θɪŋk",
+   "zh": "想； 思考",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:thinner",
+   "text": "thinner",
+   "ipa": "",
+   "zh": "（thin 的比较级） 更瘦的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:third (3rd)",
+   "text": "third (3rd)",
+   "ipa": "",
+   "zh": "第三（的）",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:thirteen",
+   "text": "thirteen",
+   "ipa": "ˌθɜːˈtiːn",
+   "zh": "十三",
+   "core": true,
+   "units": [
+    "3B-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:thirtieth (30th)",
+   "text": "thirtieth (30th)",
+   "ipa": "",
+   "zh": "第三十（的）",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:thirty",
+   "text": "thirty",
+   "ipa": "ˈθɜːti",
+   "zh": "三十",
+   "core": false,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:those",
+   "text": "those",
+   "ipa": "ðəʊz",
+   "zh": "（指较远的人或 事物）那些",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:thought",
+   "text": "thought",
+   "ipa": "",
+   "zh": "（think 的过去式） 想",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:thousand",
+   "text": "thousand",
+   "ipa": "ˈθaʊznd",
+   "zh": "一千",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:three",
+   "text": "three",
+   "ipa": "θriː",
+   "zh": "三",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:thursday",
+   "text": "Thursday",
+   "ipa": "ˈθɜːzdeɪ",
+   "zh": "星期四",
+   "core": false,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:ticket",
+   "text": "ticket",
+   "ipa": "ˈtɪkɪt",
+   "zh": "票",
+   "core": false,
+   "units": [
+    "6A-U4"
+   ]
+  },
+  {
+   "id": "w:tidy",
+   "text": "tidy",
+   "ipa": "ˈtaɪdi",
+   "zh": "整洁的； 整齐的； 使整洁； 整理",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:tiger",
+   "text": "tiger",
+   "ipa": "ˈtaɪɡə(r)",
+   "zh": "老虎",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ],
+   "emoji": "tiger"
+  },
+  {
+   "id": "w:till",
+   "text": "till",
+   "ipa": "",
+   "zh": "直到",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:time",
+   "text": "time",
+   "ipa": "taɪm",
+   "zh": "时间",
+   "core": true,
+   "units": [
+    "3B-U4",
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:tired",
+   "text": "tired",
+   "ipa": "ˈtaɪəd",
+   "zh": "疲倦的",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ],
+   "emoji": "tired"
+  },
+  {
+   "id": "w:today",
+   "text": "today",
+   "ipa": "təˈdeɪ",
+   "zh": "今天",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:together",
+   "text": "together",
+   "ipa": "təˈɡeðə(r)",
+   "zh": "在一起； 共同",
+   "core": true,
+   "units": [
+    "4A-U1"
+   ]
+  },
+  {
+   "id": "w:toilet",
+   "text": "toilet",
+   "ipa": "ˈtɔɪlət",
+   "zh": "厕所； 卫生间",
+   "core": true,
+   "units": [
+    "4A-U3"
+   ]
+  },
+  {
+   "id": "w:tomato",
+   "text": "tomato",
+   "ipa": "təˈmɑːtəʊ",
+   "zh": "西红柿",
+   "core": true,
+   "units": [
+    "4B-U5"
+   ]
+  },
+  {
+   "id": "w:tomorrow",
+   "text": "tomorrow",
+   "ipa": "təˈmɒrəʊ",
+   "zh": "在明天",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:tongue",
+   "text": "tongue",
+   "ipa": "tʌŋ",
+   "zh": "舌； 舌头",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:took",
+   "text": "took",
+   "ipa": "",
+   "zh": "（take 的过去式）拍照",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:took pictures",
+   "text": "took pictures",
+   "ipa": "",
+   "zh": "照相",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:tooth",
+   "text": "tooth",
+   "ipa": "tuːθ",
+   "zh": "（复数 teeth ） 牙； 齿",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:toothpaste",
+   "text": "toothpaste",
+   "ipa": "ˈtuːθpeɪst",
+   "zh": "牙膏",
+   "core": false,
+   "units": [
+    "6A-U5"
+   ]
+  },
+  {
+   "id": "w:top",
+   "text": "top",
+   "ipa": "tɒp",
+   "zh": "（位置、级别或程度） 最高的",
+   "core": true,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:touch",
+   "text": "touch",
+   "ipa": "tʌtʃ",
+   "zh": "触摸； 碰",
+   "core": true,
+   "units": [
+    "3B-U3"
+   ]
+  },
+  {
+   "id": "w:tree",
+   "text": "tree",
+   "ipa": "triː",
+   "zh": "树",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ],
+   "emoji": "tree"
+  },
+  {
+   "id": "w:trip",
+   "text": "trip",
+   "ipa": "trɪp",
+   "zh": "（尤指短程往返的） 旅行，旅游，出行",
+   "core": true,
+   "units": [
+    "5A-U6",
+    "5B-U3",
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:trousers",
+   "text": "trousers",
+   "ipa": "ˈtraʊzəz",
+   "zh": "裤子",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:try on",
+   "text": "try on",
+   "ipa": "traɪ",
+   "zh": "试穿",
+   "core": true,
+   "units": [
+    "4B-U4"
+   ]
+  },
+  {
+   "id": "w:tuesday",
+   "text": "Tuesday",
+   "ipa": "ˈtjuːzdeɪ",
+   "zh": "星期二",
+   "core": false,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:turn",
+   "text": "turn",
+   "ipa": "",
+   "zh": "顺序",
+   "core": false,
+   "units": [
+    "5B-U6"
+   ]
+  },
+  {
+   "id": "w:turn off",
+   "text": "turn off",
+   "ipa": "tɜːn",
+   "zh": "关掉",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:turpan",
+   "text": "Turpan",
+   "ipa": "",
+   "zh": "吐鲁番",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:tv",
+   "text": "TV",
+   "ipa": "ˌtiː ˈviː",
+   "zh": "电视",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:twelfth (12th)",
+   "text": "twelfth (12th)",
+   "ipa": "",
+   "zh": "第十二（的）",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:twelve",
+   "text": "twelve",
+   "ipa": "twelv",
+   "zh": "十二",
+   "core": true,
+   "units": [
+    "3B-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:twentieth (20th)",
+   "text": "twentieth (20th)",
+   "ipa": "",
+   "zh": "第二十（的）",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:twenty",
+   "text": "twenty",
+   "ipa": "ˈtwenti",
+   "zh": "二十",
+   "core": true,
+   "units": [
+    "3B-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:twenty-first (21st)",
+   "text": "twenty-first (21st)",
+   "ipa": "",
+   "zh": "第二十一（的）",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:twenty-third (23rd)",
+   "text": "twenty-third (23rd)",
+   "ipa": "",
+   "zh": "第二十三（的）",
+   "core": false,
+   "units": [
+    "5B-U4"
+   ]
+  },
+  {
+   "id": "w:twice",
+   "text": "twice",
+   "ipa": "twaɪs",
+   "zh": "两次； 两遍",
+   "core": false,
+   "units": [
+    "5A-U4"
+   ]
+  },
+  {
+   "id": "w:two",
+   "text": "two",
+   "ipa": "tuː",
+   "zh": "二",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:type",
+   "text": "type",
+   "ipa": "taɪp",
+   "zh": "类型； 种类",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:uk",
+   "text": "UK",
+   "ipa": "ˌjuː ˈkeɪ",
+   "zh": "英国",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:umbrella",
+   "text": "umbrella",
+   "ipa": "ʌmˈbrelə",
+   "zh": "伞； 雨伞",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:uncle",
+   "text": "uncle",
+   "ipa": "ˈʌŋkl",
+   "zh": "伯父； 叔父； 舅父； 姑父； 姨父",
+   "core": true,
+   "units": [
+    "3A-U2"
+   ]
+  },
+  {
+   "id": "w:under",
+   "text": "under",
+   "ipa": "ˈʌndə(r)",
+   "zh": "在（或到、 通过）……下面",
+   "core": true,
+   "units": [
+    "3B-U5"
+   ]
+  },
+  {
+   "id": "w:understand",
+   "text": "understand",
+   "ipa": "ˌʌndəˈstænd",
+   "zh": "懂； 理解",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:unhappy",
+   "text": "unhappy",
+   "ipa": "ʌnˈhæpi",
+   "zh": "不快乐的； 难过的",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:unplug",
+   "text": "unplug",
+   "ipa": "ˌʌnˈplʌɡ",
+   "zh": "拔掉……的电源插头",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:us",
+   "text": "us",
+   "ipa": "ʌs",
+   "zh": "我们",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ]
+  },
+  {
+   "id": "w:usa",
+   "text": "USA",
+   "ipa": "ˌjuː es ˈeɪ",
+   "zh": "美国",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:useful",
+   "text": "useful",
+   "ipa": "ˈjuːsfl",
+   "zh": "有用的； 有益的",
+   "core": false,
+   "units": [
+    "6A-U6"
+   ]
+  },
+  {
+   "id": "w:usually",
+   "text": "usually",
+   "ipa": "ˈjuːʒuəli",
+   "zh": "通常地； 经常地",
+   "core": false,
+   "units": [
+    "5A-U3",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:vacation",
+   "text": "vacation",
+   "ipa": "",
+   "zh": "假期",
+   "core": false,
+   "units": [
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:vegetable",
+   "text": "vegetable",
+   "ipa": "ˈvedʒtəbl",
+   "zh": "蔬菜",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:very",
+   "text": "very",
+   "ipa": "ˈveri",
+   "zh": "很； 非常； 十分",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:video",
+   "text": "video",
+   "ipa": "ˈvɪdiəʊ",
+   "zh": "视频； 录像",
+   "core": false,
+   "units": [
+    "6A-U3"
+   ]
+  },
+  {
+   "id": "w:view",
+   "text": "view",
+   "ipa": "vjuː",
+   "zh": "景色",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:village",
+   "text": "village",
+   "ipa": "ˈvɪlɪdʒ",
+   "zh": "村庄； 村镇",
+   "core": false,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:visit",
+   "text": "visit",
+   "ipa": "ˈvɪzɪt",
+   "zh": "看望； 拜访； 参观",
+   "core": true,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:wake",
+   "text": "wake",
+   "ipa": "weɪk",
+   "zh": "（过去式woke ）醒； 醒来",
+   "core": true,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:walk",
+   "text": "walk",
+   "ipa": "wɔːk",
+   "zh": "散步； 行走",
+   "core": true,
+   "units": [
+    "4A-U3",
+    "5B-U4"
+   ],
+   "emoji": "walk"
+  },
+  {
+   "id": "w:wall",
+   "text": "wall",
+   "ipa": "wɔːl",
+   "zh": "墙； 壁",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:want",
+   "text": "want",
+   "ipa": "wɒnt",
+   "zh": "想要",
+   "core": true,
+   "units": [
+    "4B-U3"
+   ]
+  },
+  {
+   "id": "w:warm",
+   "text": "warm",
+   "ipa": "wɔːm",
+   "zh": "温暖的",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:was",
+   "text": "was",
+   "ipa": "wəz",
+   "zh": "（be 的第一和第三人称 单数过去式）",
+   "core": true,
+   "units": [
+    "6A-U1"
+   ]
+  },
+  {
+   "id": "w:wash",
+   "text": "wash",
+   "ipa": "wɒʃ",
+   "zh": "洗",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:washed",
+   "text": "washed",
+   "ipa": "",
+   "zh": "（wash 的过去式） 洗",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:waste",
+   "text": "waste",
+   "ipa": "weɪst",
+   "zh": "浪费； 废品",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:watch",
+   "text": "watch",
+   "ipa": "wɒtʃ",
+   "zh": "看",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:watched",
+   "text": "watched",
+   "ipa": "",
+   "zh": "（watch 的过去式） 看",
+   "core": false,
+   "units": [
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:water",
+   "text": "water",
+   "ipa": "ˈwɔːtə(r)",
+   "zh": "给……浇水； 水",
+   "core": true,
+   "units": [
+    "3A-U4"
+   ],
+   "emoji": "water"
+  },
+  {
+   "id": "w:waterfall",
+   "text": "waterfall",
+   "ipa": "ˈwɔːtəfɔːl",
+   "zh": "瀑布",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:way",
+   "text": "way",
+   "ipa": "weɪ",
+   "zh": "方法； 手段； 途径； 方式",
+   "core": true,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:wear",
+   "text": "wear",
+   "ipa": "weə(r)",
+   "zh": "穿； 戴",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:weather",
+   "text": "weather",
+   "ipa": "ˈweðə(r)",
+   "zh": "天气",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:wednesday",
+   "text": "Wednesday",
+   "ipa": "ˈwenzdeɪ",
+   "zh": "星期三",
+   "core": false,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:week",
+   "text": "week",
+   "ipa": "wiːk",
+   "zh": "周； 星期",
+   "core": true,
+   "units": [
+    "4B-U6"
+   ]
+  },
+  {
+   "id": "w:weekend",
+   "text": "weekend",
+   "ipa": "ˌwiːkˈend",
+   "zh": "周末",
+   "core": false,
+   "units": [
+    "5A-U3"
+   ]
+  },
+  {
+   "id": "w:went",
+   "text": "went",
+   "ipa": "",
+   "zh": "（go 的过去式）去",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:went camping",
+   "text": "went camping",
+   "ipa": "",
+   "zh": "尤指在假日） 野营",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:went fishing",
+   "text": "went fishing",
+   "ipa": "",
+   "zh": "去钓鱼",
+   "core": false,
+   "units": [
+    "6B-U3"
+   ]
+  },
+  {
+   "id": "w:wet",
+   "text": "wet",
+   "ipa": "wet",
+   "zh": "湿的； 未干的",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:when",
+   "text": "when",
+   "ipa": "wen",
+   "zh": "当……时； 什么时候",
+   "core": true,
+   "units": [
+    "4B-U1",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:where",
+   "text": "where",
+   "ipa": "weə(r)",
+   "zh": "在哪里； 到哪里",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:which",
+   "text": "which",
+   "ipa": "wɪtʃ",
+   "zh": "哪一个； 哪一些",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:white",
+   "text": "white",
+   "ipa": "waɪt",
+   "zh": "白色； 白色的",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:who",
+   "text": "who",
+   "ipa": "huː",
+   "zh": "谁； 什么人",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:whose",
+   "text": "whose",
+   "ipa": "huːz",
+   "zh": "谁的",
+   "core": true,
+   "units": [
+    "4A-U6"
+   ]
+  },
+  {
+   "id": "w:why",
+   "text": "why",
+   "ipa": "waɪ",
+   "zh": "为什么",
+   "core": true,
+   "units": [
+    "4A-U4",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:win",
+   "text": "win",
+   "ipa": "wɪn",
+   "zh": "获胜",
+   "core": true,
+   "units": [
+    "5B-U1",
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:wind",
+   "text": "wind",
+   "ipa": "wɪnd",
+   "zh": "风； 气流",
+   "core": false,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:window",
+   "text": "window",
+   "ipa": "ˈwɪndəʊ",
+   "zh": "窗",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ],
+   "emoji": "window"
+  },
+  {
+   "id": "w:windy",
+   "text": "windy",
+   "ipa": "ˈwɪndi",
+   "zh": "多风的",
+   "core": true,
+   "units": [
+    "4A-U5"
+   ]
+  },
+  {
+   "id": "w:winner",
+   "text": "winner",
+   "ipa": "ˈwɪnə(r)",
+   "zh": "获胜的人 （或队）； 成功者",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:winter",
+   "text": "winter",
+   "ipa": "ˈwɪntə(r)",
+   "zh": "冬天",
+   "core": true,
+   "units": [
+    "4A-U6",
+    "5B-U2"
+   ]
+  },
+  {
+   "id": "w:woke",
+   "text": "woke",
+   "ipa": "",
+   "zh": "（wake 的过去式） 醒",
+   "core": false,
+   "units": [
+    "6B-U4"
+   ]
+  },
+  {
+   "id": "w:woman",
+   "text": "woman",
+   "ipa": "ˈwʊmən",
+   "zh": "成年女子； 妇女",
+   "core": true,
+   "units": [
+    "3B-U1"
+   ]
+  },
+  {
+   "id": "w:wonderful",
+   "text": "wonderful",
+   "ipa": "ˈwʌndəfl",
+   "zh": "令人赞叹 的； 精彩的； 绝妙的",
+   "core": true,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:word",
+   "text": "word",
+   "ipa": "wɜːd",
+   "zh": "言语； 单词； 字",
+   "core": true,
+   "units": [
+    "4B-U2"
+   ]
+  },
+  {
+   "id": "w:work",
+   "text": "work",
+   "ipa": "wɜːk",
+   "zh": "（花费时间和精力） 做（某事）； 工作",
+   "core": true,
+   "units": [
+    "4B-U2",
+    "5B-U1"
+   ]
+  },
+  {
+   "id": "w:workbook",
+   "text": "workbook",
+   "ipa": "ˈwɜːkbʊk",
+   "zh": "练习册； 作业本",
+   "core": true,
+   "units": [
+    "4B-U1"
+   ]
+  },
+  {
+   "id": "w:world",
+   "text": "world",
+   "ipa": "wɜːld",
+   "zh": "世界； 地球； 天下",
+   "core": true,
+   "units": [
+    "5A-U5"
+   ]
+  },
+  {
+   "id": "w:worried",
+   "text": "worried",
+   "ipa": "ˈwʌrid",
+   "zh": "担心的； 担忧的",
+   "core": false,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:worry",
+   "text": "worry",
+   "ipa": "ˈwʌri",
+   "zh": "担心； 担忧； 发愁",
+   "core": true,
+   "units": [
+    "5A-U6"
+   ]
+  },
+  {
+   "id": "w:writer",
+   "text": "writer",
+   "ipa": "ˈraɪtə(r)",
+   "zh": "作家； 作者",
+   "core": false,
+   "units": [
+    "6A-U2"
+   ]
+  },
+  {
+   "id": "w:wrong",
+   "text": "wrong",
+   "ipa": "rɒŋ",
+   "zh": "错误的",
+   "core": true,
+   "units": [
+    "5A-U2"
+   ]
+  },
+  {
+   "id": "w:year",
+   "text": "year",
+   "ipa": "jɪə(r)",
+   "zh": "年纪； 年",
+   "core": true,
+   "units": [
+    "3A-U6",
+    "5B-U3"
+   ]
+  },
+  {
+   "id": "w:yellow",
+   "text": "yellow",
+   "ipa": "ˈjeləʊ",
+   "zh": "黄色； 黄色的",
+   "core": true,
+   "units": [
+    "3A-U5"
+   ]
+  },
+  {
+   "id": "w:yesterday",
+   "text": "yesterday",
+   "ipa": "ˈjestədeɪ",
+   "zh": "昨天",
+   "core": true,
+   "units": [
+    "6A-U2",
+    "6B-U2"
+   ]
+  },
+  {
+   "id": "w:young",
+   "text": "young",
+   "ipa": "jʌŋ",
+   "zh": "幼小的； 年轻的",
+   "core": true,
+   "units": [
+    "5A-U1"
+   ]
+  },
+  {
+   "id": "w:younger",
+   "text": "younger",
+   "ipa": "",
+   "zh": "（young 的比较 级）更年轻的",
+   "core": false,
+   "units": [
+    "6B-U1"
+   ]
+  },
+  {
+   "id": "w:yours",
+   "text": "yours",
+   "ipa": "jɔːz",
+   "zh": "您的（用于书信 结尾的签名前）",
+   "core": false,
+   "units": [
+    "5A-U2",
+    "5B-U5"
+   ]
+  },
+  {
+   "id": "w:yummy",
+   "text": "yummy",
+   "ipa": "ˈjʌmi",
+   "zh": "很好吃的",
+   "core": true,
+   "units": [
+    "3B-U4"
+   ]
+  },
+  {
+   "id": "w:zoo",
+   "text": "zoo",
+   "ipa": "zuː",
+   "zh": "动物园",
+   "core": true,
+   "units": [
+    "3A-U3"
+   ],
+   "emoji": "zoo"
+  }
+ ]
+}
