@@ -121,7 +121,13 @@ interface State {
   saveError: boolean;
 }
 
-const canStore = typeof localStorage !== "undefined";
+// 浏览器拒绝持久化时，读取 localStorage getter 会抛 SecurityError，必须兜住，否则整个 SPA 白屏
+let canStore = false;
+try {
+  canStore = typeof localStorage !== "undefined";
+} catch {
+  canStore = false;
+}
 
 function readStored(): SaveFile {
   if (!canStore) return emptySave();
@@ -147,6 +153,7 @@ function flush() {
   let ok = true;
   if (canStore) {
     try {
+      // session 只为当前标签页续做而写，读取时会被 sanitizeSave 主动丢弃（未评分会话不跨刷新）
       localStorage.setItem(STORAGE_KEY, JSON.stringify(state.save));
     } catch {
       ok = false;
@@ -196,15 +203,21 @@ export const actions = {
   },
 };
 
+const subscribe = (l: () => void) => {
+  listeners.add(l);
+  return () => {
+    listeners.delete(l);
+  };
+};
+
 export const useSave = <T,>(select: (s: SaveFile) => T): T =>
   useSyncExternalStore(
-    (l) => {
-      listeners.add(l);
-      return () => listeners.delete(l);
-    },
+    subscribe,
     () => select(state.save),
     () => select(state.save),
   );
+
+export const useSaveError = () => useSyncExternalStore(subscribe, () => state.saveError, () => false);
 
 export const getSave = () => state.save;
 export const getSaveError = () => state.saveError;
