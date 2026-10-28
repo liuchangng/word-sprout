@@ -42,12 +42,15 @@ export function useBook(id: BookId): Book | null {
       alive = false;
     };
   }, [id]);
+  // id 切换后到新书加载完成之间，state 里仍是上一本，不能当成本册返回
+  if (book && book.id !== id) return null;
   return book;
 }
 
 /** 从指定册开始，按单元顺序取未学词，跨册继续。 */
 export function nextWordIds(count: number, learned: Set<string>, startBook: BookId, books: Book[]): string[] {
   const out: string[] = [];
+  if (count <= 0) return out;
   const start = books.findIndex((b) => b.id === startBook);
   const ordered = start < 0 ? books : [...books.slice(start), ...books.slice(0, start)];
   for (const book of ordered) {

@@ -58,4 +58,9 @@ describe("nextWordIds", () => {
   it("全部学完返回空数组", () => {
     expect(nextWordIds(5, new Set(["w:a", "w:b", "w:c", "w:d"]), "3A", books)).toEqual([]);
   });
+
+  it("count 为 0 或负数时返回空数组", () => {
+    expect(nextWordIds(0, new Set(), "3A", books)).toEqual([]);
+    expect(nextWordIds(-1, new Set(), "3A", books)).toEqual([]);
+  });
 });
