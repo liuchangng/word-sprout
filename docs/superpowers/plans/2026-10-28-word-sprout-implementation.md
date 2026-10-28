@@ -119,6 +119,7 @@ word-sprout/
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
     "@vitejs/plugin-react": "^4.7.0",
+    "openmoji": "^17.0.0",
     "typescript": "~5.9.3",
     "vite": "^6.4.1",
     "vitest": "^3.2.4"
@@ -623,98 +624,97 @@ Expected: 9 个用例全部 PASS。
 
 ```json
 {
-  "apple": "apple",
-  "banana": "banana",
-  "orange": "tangerine",
-  "grape": "grapes",
-  "pear": "pear",
-  "peach": "peach",
-  "watermelon": "watermelon",
-  "strawberry": "strawberry",
-  "bread": "bread",
-  "cake": "shortcake",
-  "milk": "glass-of-milk",
-  "water": "droplet",
-  "egg": "egg",
-  "rice": "cooked-rice",
-  "fish": "fish",
-  "cat": "cat-face",
-  "dog": "dog-face",
-  "bird": "bird",
-  "duck": "duck",
-  "pig": "pig-face",
-  "monkey": "monkey",
-  "tiger": "tiger",
-  "elephant": "elephant",
-  "panda": "panda",
-  "rabbit": "rabbit-face",
-  "horse": "horse-face",
-  "cow": "cow-face",
-  "bear": "bear-face",
-  "lion": "lion",
-  "book": "books",
-  "pencil": "pencil",
-  "ruler": "straight-ruler",
-  "bag": "school-backpack",
-  "pen": "pen",
-  "crayon": "crayon",
-  "desk": "desk",
-  "chair": "chair",
-  "door": "door",
-  "window": "window",
-  "ball": "soccer-ball",
-  "car": "automobile",
-  "bus": "bus",
-  "bike": "bicycle",
-  "train": "train",
-  "plane": "airplane",
-  "ship": "ship",
-  "sun": "sun",
-  "moon": "crescent-moon",
-  "star": "star",
-  "rain": "cloud-with-rain",
-  "snow": "snowflake",
-  "tree": "deciduous-tree",
-  "flower": "blossom",
-  "grass": "herb",
-  "house": "house",
-  "school": "school",
-  "park": "national-park",
-  "hospital": "hospital",
-  "library": "books",
-  "zoo": "lion",
-  "family": "family",
-  "mother": "woman",
-  "father": "man",
-  "brother": "boy",
-  "sister": "girl",
-  "teacher": "teacher",
-  "doctor": "health-worker",
-  "farmer": "farmer",
-  "friend": "handshake",
-  "happy": "grinning-face",
-  "sad": "crying-face",
-  "angry": "angry-face",
-  "tired": "sleeping-face",
-  "hot": "hot-face",
-  "cold": "cold-face",
-  "big": "large-orange-diamond",
-  "small": "small-orange-diamond",
-  "run": "runner",
-  "jump": "person-bouncing-ball",
-  "swim": "swimmer",
-  "sing": "microphone",
-  "dance": "woman-dancing",
-  "read": "open-book",
-  "write": "memo",
-  "draw": "artist-palette",
-  "eat": "fork-and-knife",
-  "drink": "cup-with-straw",
-  "sleep": "sleeping-face",
-  "walk": "person-walking",
-  "play": "video-game"
+  "apple": "🍎",
+  "banana": "🍌",
+  "orange": "🍊",
+  "grape": "🍇",
+  "pear": "🍐",
+  "peach": "🍑",
+  "watermelon": "🍉",
+  "strawberry": "🍓",
+  "bread": "🍞",
+  "cake": "🍰",
+  "milk": "🥛",
+  "water": "💧",
+  "egg": "🥚",
+  "rice": "🍚",
+  "fish": "🐟",
+  "cat": "🐱",
+  "dog": "🐶",
+  "bird": "🐦",
+  "duck": "🦆",
+  "pig": "🐷",
+  "monkey": "🐵",
+  "tiger": "🐯",
+  "elephant": "🐘",
+  "panda": "🐼",
+  "rabbit": "🐰",
+  "horse": "🐴",
+  "cow": "🐮",
+  "bear": "🐻",
+  "lion": "🦁",
+  "book": "📚",
+  "pencil": "✏️",
+  "ruler": "📏",
+  "bag": "🎒",
+  "pen": "🖊️",
+  "crayon": "🖍️",
+  "chair": "🪑",
+  "door": "🚪",
+  "window": "🪟",
+  "ball": "⚽",
+  "car": "🚗",
+  "bus": "🚌",
+  "bike": "🚲",
+  "train": "🚆",
+  "plane": "✈️",
+  "ship": "🚢",
+  "sun": "☀️",
+  "moon": "🌙",
+  "star": "⭐",
+  "rain": "🌧️",
+  "snow": "❄️",
+  "tree": "🌳",
+  "flower": "🌸",
+  "grass": "🌿",
+  "house": "🏠",
+  "school": "🏫",
+  "park": "🏞️",
+  "hospital": "🏥",
+  "library": "📚",
+  "zoo": "🦁",
+  "family": "👨‍👩‍👧",
+  "mother": "👩",
+  "father": "👨",
+  "brother": "👦",
+  "sister": "👧",
+  "teacher": "🧑‍🏫",
+  "doctor": "🧑‍⚕️",
+  "farmer": "🧑‍🌾",
+  "friend": "🤝",
+  "happy": "😄",
+  "sad": "😢",
+  "angry": "😠",
+  "tired": "😴",
+  "hot": "🥵",
+  "cold": "🥶",
+  "run": "🏃",
+  "jump": "🤸",
+  "swim": "🏊",
+  "sing": "🎤",
+  "dance": "💃",
+  "read": "📖",
+  "write": "✍️",
+  "draw": "🎨",
+  "eat": "🍴",
+  "drink": "🥤",
+  "sleep": "😴",
+  "walk": "🚶",
+  "play": "🎮"
 }
 ```
+
+键是词条小写文本，值是 emoji 字符。构建脚本用 OpenMoji 的 `data/openmoji.json` 把字符换成 hexcode，再从 `node_modules/openmoji/color/svg/` 复制 SVG 到 `public/emoji/{slug}.svg`。
 
 ```json
 {}
@@ -753,6 +753,11 @@ const writeJson = (p, v) => {
 
 const ipaOverride = readJson(path.join(ROOT, "scripts", "overrides", "ipa.json"), {});
 const emojiMap = readJson(path.join(ROOT, "scripts", "emoji-map.json"), {});
+const openmoji = readJson(path.join(ROOT, "node_modules", "openmoji", "data", "openmoji.json"), []);
+const noVs = (ch) => String(ch).replace(/\uFE0F/g, "");
+const hexOf = new Map(openmoji.map((e) => [noVs(e.emoji), e.hexcode]));
+const slugOf = (text) => text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+const EMOJI_OUT = path.join(ROOT, "public", "emoji");
 const cache = readJson(path.join(CACHE, "enrich.json"), {});
 const offline = process.argv.includes("--offline");
 
@@ -807,7 +812,16 @@ async function main() {
   const unitTitles = collectUnitTitles(parsed);
 
   for (const w of words) {
-    w.emoji = emojiMap[w.text.toLowerCase()] || undefined;
+    // 从 OpenMoji 包复制命中的图标，未命中时保留首字母回退。
+    const ch = emojiMap[w.text.toLowerCase()];
+    const hex = ch ? hexOf.get(noVs(ch)) : undefined;
+    const src = hex ? path.join(ROOT, "node_modules", "openmoji", "color", "svg", `${hex}.svg`) : null;
+    if (src && fs.existsSync(src)) {
+      const slug = slugOf(w.text);
+      fs.mkdirSync(EMOJI_OUT, { recursive: true });
+      fs.copyFileSync(src, path.join(EMOJI_OUT, `${slug}.svg`));
+      w.emoji = slug;
+    }
     const override = ipaOverride[w.id];
     if (override) w.ipa = override;
     else if (!w.ipa || /[\uE000-\uF8FF]/.test(w.ipa)) {
@@ -2200,6 +2214,7 @@ git commit -m "feat: add daily plan and four-step session engine"
 **Files:**
 - Create: `word-sprout/src/lib/router.ts`
 - Create: `word-sprout/src/lib/router.test.ts`
+- Create: `word-sprout/src/ui/Nav.tsx`
 - Modify: `word-sprout/src/App.tsx`
 
 **Interfaces:**
@@ -2365,6 +2380,38 @@ export function Today() {
 
 其余五个页面照此各写一个同名导出函数，内容分别为“花圃”“学习”“词卡”“我的”“引导”。
 
+底部导航（依赖路由，因此在本任务创建）：
+
+```tsx
+// src/ui/Nav.tsx
+import { go, type Route } from "../lib/router";
+
+const ITEMS: { page: "today" | "garden" | "me"; label: string; icon: string }[] = [
+  { page: "today", label: "花园", icon: "🌱" },
+  { page: "garden", label: "花圃", icon: "🪴" },
+  { page: "me", label: "我的", icon: "🌼" },
+];
+
+export function Nav({ page }: { page: Route["page"] }) {
+  return (
+    <nav className="nav" aria-label="主导航">
+      {ITEMS.map((it) => (
+        <button
+          key={it.page}
+          type="button"
+          className={page === it.page ? "nav-item is-active" : "nav-item"}
+          aria-current={page === it.page ? "page" : undefined}
+          onClick={() => go({ page: it.page } as Route)}
+        >
+          <span aria-hidden="true">{it.icon}</span>
+          {it.label}
+        </button>
+      ))}
+    </nav>
+  );
+}
+```
+
 - [ ] **Step 5: 运行测试与构建**
 
 Run: `npx vitest run src/lib/router.test.ts`
@@ -2391,7 +2438,6 @@ git commit -m "feat: add hash router and page shell"
 - Create: `word-sprout/src/ui/Speak.tsx`
 - Create: `word-sprout/src/ui/Sheet.tsx`
 - Create: `word-sprout/src/ui/Toast.tsx`
-- Create: `word-sprout/src/ui/Nav.tsx`
 - Create: `word-sprout/src/lib/speech.ts`
 - Create: `word-sprout/src/lib/speech.test.ts`
 - Create: `word-sprout/src/lib/text.ts`
@@ -2638,36 +2684,6 @@ export function Toast({ message, onDone }: { message: string | null; onDone: () 
   }, [message, onDone]);
   if (!message) return null;
   return <div className="toast" role="status" aria-live="polite">{message}</div>;
-}
-```
-
-```tsx
-// src/ui/Nav.tsx
-import { go, type Route } from "../lib/router";
-
-const ITEMS: { page: "today" | "garden" | "me"; label: string; icon: string }[] = [
-  { page: "today", label: "花园", icon: "🌱" },
-  { page: "garden", label: "花圃", icon: "🪴" },
-  { page: "me", label: "我的", icon: "🌼" },
-];
-
-export function Nav({ page }: { page: Route["page"] }) {
-  return (
-    <nav className="nav" aria-label="主导航">
-      {ITEMS.map((it) => (
-        <button
-          key={it.page}
-          type="button"
-          className={page === it.page ? "nav-item is-active" : "nav-item"}
-          aria-current={page === it.page ? "page" : undefined}
-          onClick={() => go({ page: it.page } as Route)}
-        >
-          <span aria-hidden="true">{it.icon}</span>
-          {it.label}
-        </button>
-      ))}
-    </nav>
-  );
 }
 ```
 
@@ -3701,8 +3717,7 @@ git commit -m "feat: polish responsive layout and accessibility"
 **已知取舍**
 
 - 例句与音标依赖构建期网络，失败时留空，界面隐藏对应行，不影响学习闭环。
-- 图片使用 OpenMoji 文件名，未命中时回退首字母块，不阻塞任务完成。
-- 学习页的 `.emoji` 资源需在 Task 3 之后从 OpenMoji 下载到 `public/emoji/`，只下载 `emoji-map.json` 中列出的文件名；若下载失败，首字母回退仍然可用。
+- 图片使用 OpenMoji 文件名，构建脚本从 `node_modules/openmoji` 复制命中的 SVG 到 `public/emoji/`，未命中时回退首字母块，不阻塞任务完成。
 
 ---
 
