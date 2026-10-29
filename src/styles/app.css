@@ -181,3 +181,18 @@ button:focus-visible {
 .blessing { color: var(--ink-soft); font-size: 15px; margin: 0 0 18px; }
 .done-actions { display: flex; gap: 12px; width: 100%; margin-top: 8px; }
 .done-actions > * { flex: 1; }
+
+/* 词卡页 */
+.word-card { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 8px; }
+.word-card h1 { font-size: 38px; margin: 0; }
+.word-stage { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
+.unit-tags { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; margin: 10px 0 0; }
+.unit-tags li { background: var(--leaf-soft); color: var(--leaf); border-radius: 999px; padding: 6px 12px; font-size: 13px; }
+.word-card h2, .card h2 { font-size: 17px; margin: 0 0 8px; }
+
+/* 我的页 */
+.choice-grid.compact { grid-template-columns: repeat(4, 1fr); margin-bottom: 0; }
+.range-row { display: flex; align-items: center; gap: 10px; margin: 12px 0; font-size: 14px; }
+.range-row input { flex: 1; min-height: 44px; }
+.danger { color: #b4553f; }
+.confirm-actions { display: flex; flex-direction: column; gap: 8px; margin-top: 14px; }
