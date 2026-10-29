@@ -4,9 +4,28 @@ import { useAllBooks } from "../data/useBooks";
 import { firstLetter, shuffle } from "../lib/text";
 import { go } from "../lib/router";
 import { speak } from "../lib/speech";
-import { answer, abortSession, finishWord, next, startSession } from "../store/session";
+import { answer, abortSession, finishWord, next, startSession, buildPlan } from "../store/session";
 import { useSave } from "../store/store";
 import { Speak } from "../ui/Speak";
+
+// 花园寄语固定文案池，按会话 id 哈希取一条，保证同一会话内稳定
+const BLLESSINGS = [
+  "小芽又在悄悄长大。",
+  "记得浇水，也记得休息。",
+  "今天的花圃比昨天更绿了一点。",
+  "慢慢来，每个词都会开花。",
+  "小园丁辛苦啦。",
+  "明天还有新的种子等着你。",
+];
+
+// 稳定字符串哈希，用于寄语选择和拼写乱序种子
+function hashId(s: string): number {
+  let h = 0;
+  for (let i = 0; i < s.length; i++) {
+    h = (h * 31 + s.charCodeAt(i)) | 0;
+  }
+  return h;
+}
 
 export function Learn() {
   const save = useSave((s) => s);
@@ -47,15 +66,38 @@ export function Learn() {
   if (session.finished) {
     const graded = Object.values(session.graded);
     const correct = graded.filter((g) => g !== 1).length;
+    const rate = graded.length ? Math.round((correct / graded.length) * 100) : 0;
+    // 花园寄语：固定文案池里按会话 id 稳定取一条
+    const blessing = BLLESSINGS[Math.abs(hashId(session.id)) % BLLESSINGS.length];
+    // 「再来一组」仅当计划里还有到期或新词时显示
+    const morePlan = books ? buildPlan(save, books) : null;
+    const canRepeat = !!morePlan && morePlan.total > 0;
     return (
       <main className="learn learn-done">
         <h1>今天的花长出来了</h1>
-        <p className="muted">复习 {graded.length} 个词，答对 {correct} 个</p>
+        <p className="muted">共 {graded.length} 个词，答对 {correct} 个（{rate}%）</p>
         <p className="muted">新长的芽 {session.newIds.length} 个，复习词 {session.reviewIds.length} 个</p>
         <div className="done-sprouts">
           {session.newIds.slice(0, 10).map((id) => <span key={id}>🌱</span>)}
         </div>
-        <button type="button" className="btn-primary wide" onClick={() => go({ page: "today" })}>回花园</button>
+        <p className="blessing">{blessing}</p>
+        <div className="done-actions">
+          <button
+            type="button"
+            className={canRepeat ? "btn-primary" : "btn-ghost"}
+            disabled={!canRepeat}
+            onClick={() => {
+              if (canRepeat && books) {
+                startSession(books);
+              } else {
+                go({ page: "today" });
+              }
+            }}
+          >
+            {canRepeat ? "再来一组" : "没有词了"}
+          </button>
+          <button type="button" className="btn-ghost" onClick={() => go({ page: "today" })}>回花园</button>
+        </div>
       </main>
     );
   }

@@ -178,3 +178,6 @@ button:focus-visible {
 .reveal-actions > * { flex: 1; }
 .learn-done { justify-content: center; align-items: center; text-align: center; }
 .done-sprouts { font-size: 34px; letter-spacing: 6px; margin: 18px 0; }
+.blessing { color: var(--ink-soft); font-size: 15px; margin: 0 0 18px; }
+.done-actions { display: flex; gap: 12px; width: 100%; margin-top: 8px; }
+.done-actions > * { flex: 1; }
