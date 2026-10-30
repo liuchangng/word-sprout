@@ -72,6 +72,10 @@ const hexOf = new Map(openmoji.map((e) => [noVs(e.emoji), e.hexcode]));
 const slugOf = (text) => text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const EMOJI_OUT = path.join(ROOT, "public", "emoji");
 const cache = readJson(path.join(CACHE, "enrich.json"), {});
+const examples = readJson(path.join(CACHE, "examples.json"), {});
+if (!Object.keys(examples).length) {
+  console.warn("[警告] 缺少 scripts/.cache/examples.json，例句将全部缺失，请先运行 npm run data:examples");
+}
 const offline = process.argv.includes("--offline");
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -119,6 +123,9 @@ async function main() {
   const words = mergeWords(books);
 
   for (const w of words) {
+    // 例句来自教材正文，中文释义待补；缺失时词卡不显示例句
+    const found = examples[w.id];
+    if (found?.en) w.example = { en: found.en, zh: "", src: "textbook" };
     // 从 OpenMoji 包复制命中的图标，未命中时保留首字母回退。
     const ch = emojiMap[w.text.toLowerCase()];
     const hex = ch ? hexOf.get(noVs(ch)) : undefined;
@@ -139,10 +146,12 @@ async function main() {
 
   let missingIpa = 0;
   let missingEmoji = 0;
+  let missingExample = 0;
   let crossBook = 0;
   for (const w of words) {
     if (!w.ipa) missingIpa++;
     if (!w.emoji) missingEmoji++;
+    if (!w.example) missingExample++;
     if (new Set(w.units.map((u) => u.split("-")[0])).size > 1) crossBook++;
   }
 
@@ -179,7 +188,7 @@ async function main() {
   });
 
   console.log(`[完成] 词条 ${words.length} 个，跨册重复 ${crossBook} 个`);
-  console.log(`[统计] 缺音标 ${missingIpa}，缺图 ${missingEmoji}`);
+  console.log(`[统计] 缺音标 ${missingIpa}，缺图 ${missingEmoji}，缺例句 ${missingExample}`);
   console.log(`[统计] 单元 ${books.reduce((n, b) => n + b.units.length, 0)} 个`);
 }
 

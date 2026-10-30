@@ -46,8 +46,12 @@ export function Word({ id }: { id: string }) {
         {word.example && (
           <p className="example">
             {word.example.en}
-            <br />
-            <span className="muted">{word.example.zh}</span>
+            {word.example.zh && (
+              <>
+                <br />
+                <span className="muted">{word.example.zh}</span>
+              </>
+            )}
           </p>
         )}
         <div className="word-stage">

@@ -57,4 +57,23 @@ describe("curriculum data", () => {
     const bad = books.flatMap((b) => b.units.filter((u) => !u.title || !u.titleZh).map((u) => u.id));
     expect(bad).toEqual([]);
   });
+
+  it("例句来自教材且是完整句子", () => {
+    const withExample = words.filter((w) => w.example);
+    // 附录词表之外，正文里找不到的短语允许没有例句
+    expect(withExample.length / words.length).toBeGreaterThan(0.9);
+    const bad = withExample
+      .filter((w) => {
+        const en = w.example.en;
+        return (
+          w.example.src !== "textbook" ||
+          !en ||
+          CJK.test(en) ||
+          /_|\.\.\.|…|\s{2,}/.test(en) ||
+          !/[.!?]["')\]]?$/.test(en)
+        );
+      })
+      .map((w) => `${w.id}: ${w.example.en}`);
+    expect(bad).toEqual([]);
+  });
 });

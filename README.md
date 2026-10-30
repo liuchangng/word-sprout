@@ -11,14 +11,17 @@ npm run dev
 
 ## 教材数据
 
-数据来自 8 本教材 PDF 的附录词表，构建产物在 `src/data`。
+数据来自 8 本教材 PDF 的附录词表，例句取自正文，构建产物在 `src/data`。
 
 ```bash
-npm run data:extract   # 需要本机 D:\QMDownload 下有 8 本 PDF
-npm run data:build     # 生成 src/data/index.json 与 src/data/books/*.json
+npm run data:extract    # 需要本机 D:\QMDownload 下有 8 本 PDF，抽取附录
+npm run data:examples   # 从正文抽取例句到 scripts/.cache/examples.json
+npm run data:build      # 生成 src/data/index.json 与 src/data/books/*.json
 ```
 
-`5B`、`6B` 目前是 2013 旧版，界面显示“旧版”徽标。拿到新版 PDF 后替换该册并重新构建即可，学习进度按词 id 保存，不受影响。
+例句按词所在单元优先匹配，过滤填空、指令和词表噪声；中文释义暂缺，词卡只显示英文例句。
+
+`5B`、`6B` 只有 2013 旧版，没有新课标版本，界面显示“旧版”徽标。学习进度按词 id 保存，不受影响。
 
 ## 测试
 

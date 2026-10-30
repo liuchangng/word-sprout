@@ -10,6 +10,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "data:extract": "python scripts/extract_appendix.py",
+    "data:examples": "python scripts/extract_examples.py",
     "data:build": "node scripts/build-curriculum.mjs",
     "data:build:offline": "node scripts/build-curriculum.mjs --offline"
   },

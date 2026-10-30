@@ -193,7 +193,17 @@ export function Learn() {
           <h1>{word.text}</h1>
           {word.ipa && <p className="ipa">/{word.ipa}/</p>}
           <p className="meaning">{word.pos ? `${word.pos}. ` : ""}{word.zh}</p>
-          {word.example && <p className="example">{word.example.en}<br /><span className="muted">{word.example.zh}</span></p>}
+          {word.example && (
+            <p className="example">
+              {word.example.en}
+              {word.example.zh && (
+                <>
+                  <br />
+                  <span className="muted">{word.example.zh}</span>
+                </>
+              )}
+            </p>
+          )}
           <Speak text={word.text} accent={save.settings.accent} rate={save.settings.rate} size={26} />
           <div className="reveal-actions">
             <button type="button" className="btn-ghost" onClick={() => finishWord(true)}>有点难</button>
