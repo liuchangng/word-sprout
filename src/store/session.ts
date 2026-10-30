@@ -41,11 +41,16 @@ function hashId(id: string): number {
   return Math.abs(h);
 }
 
-function optionSet(word: Word, pool: Word[], seed: number): string[] {
+const gcd = (a: number, b: number): number => (b ? gcd(b, a % b) : a);
+
+export function optionSet(word: Word, pool: Word[], seed: number): string[] {
   const picks: string[] = [];
   const seen = new Set([word.zh]);
+  // 步长必须与池长互质，否则会只走到固定几个下标（5B 的 156 词配 13 只剩 12 个干扰项）
+  let stride = 13;
+  while (gcd(stride, pool.length) !== 1) stride++;
   for (let i = 0; i < pool.length * 2 && picks.length < 3; i++) {
-    const w = pool[(seed + i * 13) % pool.length];
+    const w = pool[(seed + i * stride) % pool.length];
     if (!w || seen.has(w.zh)) continue;
     seen.add(w.zh);
     picks.push(w.zh);
@@ -98,6 +103,8 @@ export function buildSession(save: SaveFile, books: Book[], now = Date.now()): A
     newIds: plan.fresh,
     reviewIds: plan.due,
     errors: {},
+    // 计划为空时直接结算，否则 Learn 会停在一个永远走不完的空会话
+    finished: steps.length === 0 ? now : undefined,
   };
 }
 

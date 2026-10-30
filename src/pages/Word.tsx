@@ -1,4 +1,5 @@
 import { getWord } from "../data/catalog";
+import type { BookId } from "../data/types";
 import { go } from "../lib/router";
 import { firstLetter } from "../lib/text";
 import { stageOf, STAGE_LABEL } from "../store/garden";
@@ -30,12 +31,14 @@ export function Word({ id }: { id: string }) {
     );
   }
   const stage = stageOf(save.cards[word.id]);
+  // 从词卡返回时带回它所属的册，别跳回当前在学的另一册
+  const backBook = word.units[0]?.split("-")[0] as BookId | undefined;
 
   return (
     <main className="app-shell">
-      <button type="button" className="btn-ghost" onClick={() => go({ page: "garden" })}>返回</button>
+      <button type="button" className="btn-ghost" onClick={() => go({ page: "garden", book: backBook })}>返回</button>
       <section className="card word-card">
-        <div className="big-emoji">{word.emoji ? <img src={`/emoji/${word.emoji}.svg`} alt="" width={132} height={132} /> : <span>{firstLetter(word.text)}</span>}</div>
+        <div className="big-emoji">{word.emoji ? <img src={`${import.meta.env.BASE_URL}emoji/${word.emoji}.svg`} alt="" width={132} height={132} /> : <span>{firstLetter(word.text)}</span>}</div>
         <h1>{word.text}</h1>
         {word.ipa && <p className="ipa">/{word.ipa}/</p>}
         <Speak text={word.text} accent={save.settings.accent} rate={save.settings.rate} size={26} />

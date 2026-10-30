@@ -12,6 +12,7 @@ import {
   finishWord,
   gradeForErrors,
   next,
+  optionSet,
   startSession,
   todayProgress,
 } from "./session";
@@ -102,6 +103,25 @@ describe("buildSession", () => {
     expect(step.options).toHaveLength(4);
     expect(new Set(step.options).size).toBe(4);
     expect(step.options).toContain(catalog.byId.get(step.wordId)!.zh);
+  });
+
+  it("没有可学词时会话立即结算，不会卡在空会话", () => {
+    const save = emptySave();
+    const now = Date.now();
+    save.stats.days[dayKey(new Date(now))] = { learned: 10, reviewed: 0, correct: 0, total: 0 };
+    const s = buildSession(save, books, now);
+    expect(s.steps).toHaveLength(0);
+    expect(s.finished).toBe(now);
+  });
+
+  it("大词池的干扰项不会被固定步长锁死", () => {
+    // 5B 池长 156，旧的步长 13 只能覆盖 12 个干扰项
+    const pool = catalog.words.slice(0, 156);
+    const seen = new Set<string>();
+    for (let seed = 0; seed < 200; seed++) {
+      for (const zh of optionSet(pool[0], pool, seed)) seen.add(zh);
+    }
+    expect(seen.size).toBeGreaterThan(50);
   });
 });
 

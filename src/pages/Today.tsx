@@ -61,7 +61,11 @@ export function Today() {
 
   const bed = useMemo(() => {
     if (!book) return null;
-    const unit = book.units.find((u) => progressOf(u.wordIds, save.cards).bloomed < u.wordIds.length) ?? book.units[0];
+    // 优先展示还有没学过词的单元（当前在学的），全学过后再退回第一个没开满的单元
+    const unit =
+      book.units.find((u) => u.wordIds.some((id) => !save.cards[id]))
+      ?? book.units.find((u) => progressOf(u.wordIds, save.cards).bloomed < u.wordIds.length)
+      ?? book.units[0];
     return unit ? { unit, progress: progressOf(unit.wordIds, save.cards), bookLabel: BOOK_LABEL[book.id] } : null;
   }, [book, save.cards]);
 

@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from "react";
-import { useBook, unitWords } from "../data/catalog";
+import { unitWords } from "../data/catalog";
+import { useAllBooks } from "../data/useBooks";
 import type { BookId, Unit } from "../data/types";
 import { go } from "../lib/router";
 import { progressOf, stageOf } from "../store/garden";
@@ -39,7 +40,8 @@ export function Garden({ book: initial }: { book?: BookId }) {
     tabRefs.current.get(target)?.focus();
   };
 
-  const book = useBook(id);
+  const books = useAllBooks();
+  const book = books?.find((b) => b.id === id) ?? null;
 
   return (
     <main className="app-shell">
@@ -67,9 +69,16 @@ export function Garden({ book: initial }: { book?: BookId }) {
         ))}
       </div>
 
-      {!book && (
+      {!books && (
         <section className="card empty-card">
           <p>正在打开课本，马上就好。</p>
+        </section>
+      )}
+
+      {books && books.length === 0 && (
+        <section className="card empty-card">
+          <p>教材没加载出来，刷新再试一次。</p>
+          <button type="button" className="btn-ghost" onClick={() => window.location.reload()}>刷新</button>
         </section>
       )}
 

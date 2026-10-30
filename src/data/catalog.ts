@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import indexFile from "./index.json";
 import type { Book, BookId, IndexFile, Unit, Word } from "./types";
 
@@ -27,24 +26,6 @@ export async function loadBook(id: BookId): Promise<Book> {
   const mod = await loader();
   cache.set(id, mod.default);
   return mod.default;
-}
-
-export function useBook(id: BookId): Book | null {
-  const [book, setBook] = useState<Book | null>(cache.get(id) ?? null);
-  useEffect(() => {
-    let alive = true;
-    if (cache.has(id)) {
-      setBook(cache.get(id)!);
-      return;
-    }
-    loadBook(id).then((b) => alive && setBook(b));
-    return () => {
-      alive = false;
-    };
-  }, [id]);
-  // id 切换后到新书加载完成之间，state 里仍是上一本，不能当成本册返回
-  if (book && book.id !== id) return null;
-  return book;
 }
 
 /** 从指定册开始，按单元顺序取未学词，跨册继续。 */

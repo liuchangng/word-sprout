@@ -64,6 +64,16 @@ export function Learn() {
   }
 
   if (session.finished) {
+    // 计划为空（当天目标已达成或全部学完）时没有步骤，别显示 0 词的总结
+    if (session.steps.length === 0) {
+      return (
+        <main className="learn learn-done">
+          <h1>今天的种子发完了</h1>
+          <p className="muted">明天再来，或者去花圃看看已经长出来的芽。</p>
+          <button type="button" className="btn-primary" onClick={() => go({ page: "today" })}>回花园</button>
+        </main>
+      );
+    }
     const graded = Object.values(session.graded);
     const correct = graded.filter((g) => g !== 1).length;
     const rate = graded.length ? Math.round((correct / graded.length) * 100) : 0;
@@ -125,7 +135,7 @@ export function Learn() {
       {step.kind === "listen" && (
         <section className="learn-card">
           <p className="eyebrow">先听一听</p>
-          <div className="big-emoji">{word.emoji ? <img src={`/emoji/${word.emoji}.svg`} alt="" width={132} height={132} /> : <span>{firstLetter(word.text)}</span>}</div>
+          <div className="big-emoji">{word.emoji ? <img src={`${import.meta.env.BASE_URL}emoji/${word.emoji}.svg`} alt="" width={132} height={132} /> : <span>{firstLetter(word.text)}</span>}</div>
           <Speak text={word.text} accent={save.settings.accent} rate={save.settings.rate} size={30} />
           <h1>{word.text}</h1>
           <button type="button" className="btn-primary wide" onClick={() => next()}>我听到了</button>
@@ -155,7 +165,7 @@ export function Learn() {
       {step.kind === "spell" && (
         <section className="learn-card">
           <p className="eyebrow">拼一拼</p>
-          <div className="big-emoji">{word.emoji ? <img src={`/emoji/${word.emoji}.svg`} alt="" width={110} height={110} /> : <span>{firstLetter(word.text)}</span>}</div>
+          <div className="big-emoji">{word.emoji ? <img src={`${import.meta.env.BASE_URL}emoji/${word.emoji}.svg`} alt="" width={110} height={110} /> : <span>{firstLetter(word.text)}</span>}</div>
           <p className="muted">{word.zh}</p>
           <div className="slots" aria-live="polite">
             {picked.map((i, at) => (
@@ -179,7 +189,7 @@ export function Learn() {
       {step.kind === "reveal" && (
         <section className="learn-card">
           <p className="eyebrow">认一认</p>
-          <div className="big-emoji">{word.emoji ? <img src={`/emoji/${word.emoji}.svg`} alt="" width={110} height={110} /> : <span>{firstLetter(word.text)}</span>}</div>
+          <div className="big-emoji">{word.emoji ? <img src={`${import.meta.env.BASE_URL}emoji/${word.emoji}.svg`} alt="" width={110} height={110} /> : <span>{firstLetter(word.text)}</span>}</div>
           <h1>{word.text}</h1>
           {word.ipa && <p className="ipa">/{word.ipa}/</p>}
           <p className="meaning">{word.pos ? `${word.pos}. ` : ""}{word.zh}</p>

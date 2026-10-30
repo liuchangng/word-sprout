@@ -196,7 +196,9 @@ export const actions = {
     flush();
   },
   reset() {
-    state = { ...state, save: emptySave() };
+    // 只清学习进度，保留选册、目标、发音与动效设置，也避免重新走引导
+    const { settings } = state.save;
+    state = { ...state, save: { ...emptySave(), settings } };
     emit();
     dirty = true;
     flush();
