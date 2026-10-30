@@ -30,7 +30,7 @@ describe("sanitizeSave", () => {
     expect(s.settings.dailyGoal).toBe(10);
     expect(s.settings.activeBook).toBe("3A");
     expect(s.settings.accent).toBe("uk");
-    expect(s.settings.rate).toBe(1);
+    expect(s.settings.rate).toBe(0.8);
     expect(s.settings.motion).toBe("off");
   });
 
@@ -75,7 +75,7 @@ describe("backup", () => {
 
 describe("defaultSettings", () => {
   it("语速 1，口音英式", () => {
-    expect(defaultSettings.rate).toBe(1);
+    expect(defaultSettings.rate).toBe(0.8);
     expect(defaultSettings.accent).toBe("uk");
   });
 });

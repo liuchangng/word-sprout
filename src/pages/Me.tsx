@@ -1,6 +1,7 @@
 import { useRef, useState } from "react";
 import { parseBackup, serializeBackup, actions, useSave } from "../store/store";
 import { Sheet } from "../ui/Sheet";
+import { Speak } from "../ui/Speak";
 import { Toast } from "../ui/Toast";
 
 export function Me() {
@@ -58,11 +59,12 @@ export function Me() {
           <button type="button" className={save.settings.accent === "uk" ? "choice is-on" : "choice"} onClick={() => actions.settings({ accent: "uk" })}>英式</button>
           <button type="button" className={save.settings.accent === "us" ? "choice is-on" : "choice"} onClick={() => actions.settings({ accent: "us" })}>美式</button>
         </div>
-        <label className="range-row">
-          语速
-          <input type="range" min={0.7} max={1.2} step={0.05} value={save.settings.rate} onChange={(e) => actions.settings({ rate: Number(e.target.value) })} />
+        <div className="range-row">
+          <span>语速</span>
+          <input type="range" aria-label="语速" min={0.6} max={1.2} step={0.05} value={save.settings.rate} onChange={(e) => actions.settings({ rate: Number(e.target.value) })} />
           <span className="muted">{save.settings.rate.toFixed(2)}</span>
-        </label>
+          <Speak text="Hello" accent={save.settings.accent} rate={save.settings.rate} size={20} />
+        </div>
         <div className="choice-grid compact">
           <button type="button" className={save.settings.motion === "off" ? "choice is-on" : "choice"} onClick={() => actions.settings({ motion: save.settings.motion === "off" ? "system" : "off" })}>
             动效：{save.settings.motion === "off" ? "关闭" : "跟随系统"}

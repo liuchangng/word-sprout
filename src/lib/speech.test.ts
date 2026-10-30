@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { pickVoice } from "./speech";
+import { pickVoice, spokenText } from "./speech";
 
 const voice = (lang: string, name: string) => ({ lang, name }) as SpeechSynthesisVoice;
 
@@ -16,5 +16,19 @@ describe("pickVoice", () => {
 
   it("没有英语语音返回 null", () => {
     expect(pickVoice([voice("zh-CN", "D")], "us")).toBeNull();
+  });
+});
+
+describe("spokenText", () => {
+  it("缩写按字母逐个读", () => {
+    expect(spokenText("PE")).toBe("P E");
+    expect(spokenText("USA")).toBe("U S A");
+    expect(spokenText("RSVP")).toBe("R S V P");
+  });
+
+  it("普通单词原样返回", () => {
+    expect(spokenText("peach")).toBe("peach");
+    expect(spokenText("PE class")).toBe("PE class");
+    expect(spokenText("I")).toBe("I");
   });
 });

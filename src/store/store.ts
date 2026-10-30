@@ -28,7 +28,7 @@ export const defaultSettings: Settings = {
   dailyGoal: 10,
   activeBook: "3A",
   accent: "uk",
-  rate: 1,
+  rate: 0.8,
   motion: "system",
   onboarded: false,
 };
@@ -68,7 +68,7 @@ export function sanitizeSave(v: unknown): SaveFile {
     if (GOALS.includes(s.dailyGoal as number)) out.settings.dailyGoal = s.dailyGoal as Settings["dailyGoal"];
     if (BOOKS.includes(s.activeBook as BookId)) out.settings.activeBook = s.activeBook as BookId;
     if (s.accent === "uk" || s.accent === "us") out.settings.accent = s.accent;
-    if (num(s.rate, 0.7, 1.2)) out.settings.rate = s.rate as number;
+    if (num(s.rate, 0.6, 1.2)) out.settings.rate = s.rate as number;
     if (s.motion === "system" || s.motion === "off") out.settings.motion = s.motion;
     if (typeof s.onboarded === "boolean") out.settings.onboarded = s.onboarded;
   }
