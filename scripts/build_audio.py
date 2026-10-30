@@ -23,6 +23,14 @@ def slug(text):
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
 
 
+ABBR_RE = re.compile(r"^[A-Z]{2,4}$")
+
+
+def spoken(text):
+    """全大写缩写按字母拆开合成，否则引擎可能把 PE 读成一个音。"""
+    return " ".join(text) if ABBR_RE.match(text) else text
+
+
 async def synth(text, voice, path, sem, done, total):
     if os.path.exists(path) and os.path.getsize(path) > 0:
         done[0] += 1
@@ -30,7 +38,7 @@ async def synth(text, voice, path, sem, done, total):
     async with sem:
         for attempt in range(1, RETRIES + 1):
             try:
-                await edge_tts.Communicate(text, voice).save(path)
+                await edge_tts.Communicate(spoken(text), voice).save(path)
                 break
             except Exception as exc:  # 网络抖动或限流，重试
                 if attempt == RETRIES:

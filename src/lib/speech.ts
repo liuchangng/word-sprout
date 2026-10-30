@@ -90,8 +90,9 @@ export function speak(text: string, { accent = "uk", rate = 1 }: SpeakOptions = 
     current = null;
   }
   if (typeof Audio === "undefined") return speakLocal(spoken, accent, rate);
+  // 本地音频按原词命名（pe-uk.mp3），缩写拆字母只在合成和在线接口里用
   void (async () => {
-    for (const url of [audioUrl(spoken, accent), ttsUrl(spoken, accent)]) {
+    for (const url of [audioUrl(text, accent), ttsUrl(spoken, accent)]) {
       if (await playUrl(url, rate)) return;
     }
     speakLocal(spoken, accent, rate);
