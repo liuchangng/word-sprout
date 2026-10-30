@@ -1,7 +1,9 @@
 """从 PEP 教材 PDF 正文抽取例句，输出 scripts/.cache/examples.json。
 
 只扫描单元正文（Unit 1 起始页到 Revision/附录之前），按单元页码范围优先匹配，
-过滤填空、指令、目录与词表噪声。输出结构：{ word_id: { en, book, page } }。
+过滤填空、指令、目录与词表噪声。输出结构：{ word_id: { en, zh, book, page } }。
+人工校对结果写在 scripts/overrides/examples.json：en 覆盖原句（空串表示删除），
+zh 为中文释义。
 """
 import glob
 import json
@@ -268,6 +270,29 @@ def word_pattern(variant):
     return re.compile(r"(?<![a-z])" + re.escape(variant) + r"(?![a-z])")
 
 
+def apply_overrides(result):
+    """应用人工校对：en 覆盖原句（空串表示删除该词例句），zh 写入中文释义。"""
+    path = os.path.join(ROOT, "scripts", "overrides", "examples.json")
+    if not os.path.exists(path):
+        return result, 0
+    overrides = json.load(open(path, encoding="utf-8"))
+    applied = 0
+    for wid, patch in overrides.items():
+        entry = result.get(wid)
+        if entry is None:
+            continue
+        if "en" in patch:
+            if not patch["en"]:
+                del result[wid]
+                applied += 1
+                continue
+            entry["en"] = patch["en"]
+        if patch.get("zh"):
+            entry["zh"] = patch["zh"]
+        applied += 1
+    return result, applied
+
+
 def main():
     index = json.load(open(INDEX, encoding="utf-8"))
     words = index["words"]
@@ -334,12 +359,14 @@ def main():
 
     for w in words:
         w.pop("_pats", None)
+    result, applied = apply_overrides(result)
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(dict(sorted(result.items())), f, ensure_ascii=False, indent=1)
         f.write("\n")
 
     hit = len(result)
+    print(f"[校对] 应用覆盖 {applied} 条")
     print(f"[完成] 命中 {hit}/{len(words)}（{hit / len(words) * 100:.1f}%），缺失 {len(missing)} 个")
     if missing:
         print("[缺失] " + "、".join(missing))

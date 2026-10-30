@@ -76,4 +76,22 @@ describe("curriculum data", () => {
       .map((w) => `${w.id}: ${w.example.en}`);
     expect(bad).toEqual([]);
   });
+
+  it("每条例句都有中文释义", () => {
+    const bad = words
+      .filter((w) => w.example)
+      .filter((w) => {
+        const zh = w.example.zh;
+        return (
+          typeof zh !== "string" ||
+          zh.trim() !== zh ||
+          zh.length < 2 ||
+          zh.length > 40 ||
+          !CJK.test(zh) ||
+          !/[。？！]/.test(zh)
+        );
+      })
+      .map((w) => `${w.id}: ${w.example.zh}`);
+    expect(bad).toEqual([]);
+  });
 });

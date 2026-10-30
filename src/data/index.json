@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T03:22:59.860Z",
+ "generatedAt": "2026-10-30T03:40:34.290Z",
  "bookIds": [
   "3A",
   "3B",
@@ -32,7 +32,7 @@
    ],
    "example": {
     "en": "We have a few fun things in spring.",
-    "zh": "",
+    "zh": "春天我们有一些有趣的事情。",
     "src": "textbook"
    }
   },
@@ -47,7 +47,7 @@
    ],
    "example": {
     "en": "She writes a lot of good books.",
-    "zh": "",
+    "zh": "她写了很多好书。",
     "src": "textbook"
    }
   },
@@ -62,7 +62,7 @@
    ],
    "example": {
     "en": "I get up at 6:00 a.m.",
-    "zh": "",
+    "zh": "我早上六点起床。",
     "src": "textbook"
    }
   },
@@ -77,7 +77,7 @@
    ],
    "example": {
     "en": "What can you tell about this boy?",
-    "zh": "",
+    "zh": "关于这个男孩，你能说些什么？",
     "src": "textbook"
    }
   },
@@ -92,7 +92,7 @@
    ],
    "example": {
     "en": "You will act out stories.",
-    "zh": "",
+    "zh": "你们会表演故事。",
     "src": "textbook"
    }
   },
@@ -107,7 +107,7 @@
    ],
    "example": {
     "en": "You will act out stories.",
-    "zh": "",
+    "zh": "你们会表演故事。",
     "src": "textbook"
    }
   },
@@ -122,7 +122,7 @@
    ],
    "example": {
     "en": "Now, I'm very active in class.",
-    "zh": "",
+    "zh": "现在我在课堂上很活跃。",
     "src": "textbook"
    }
   },
@@ -137,7 +137,7 @@
    ],
    "example": {
     "en": "Add one, it's twelve.",
-    "zh": "",
+    "zh": "加一，就是十二。",
     "src": "textbook"
    }
   },
@@ -152,7 +152,7 @@
    ],
    "example": {
     "en": "But I'm afraid he's angry with me.",
-    "zh": "",
+    "zh": "但我怕他在生我的气。",
     "src": "textbook"
    }
   },
@@ -168,7 +168,7 @@
    ],
    "example": {
     "en": "When do you go back to school after lunch?",
-    "zh": "",
+    "zh": "午饭后你什么时候回学校？",
     "src": "textbook"
    }
   },
@@ -183,7 +183,7 @@
    ],
    "example": {
     "en": "Good afternoon!",
-    "zh": "",
+    "zh": "下午好！",
     "src": "textbook"
    }
   },
@@ -198,7 +198,7 @@
    ],
    "example": {
     "en": "What was your school like five years ago?",
-    "zh": "",
+    "zh": "五年前你的学校是什么样的？",
     "src": "textbook"
    }
   },
@@ -213,7 +213,7 @@
    ],
    "example": {
     "en": "So you don't agree with each other?",
-    "zh": "",
+    "zh": "所以你们彼此意见不一致？",
     "src": "textbook"
    }
   },
@@ -228,7 +228,7 @@
    ],
    "example": {
     "en": "Plants need air, water and sun.",
-    "zh": "",
+    "zh": "植物需要空气、水和阳光。",
     "src": "textbook"
    }
   },
@@ -253,7 +253,7 @@
    ],
    "example": {
     "en": "The Jinggang Mountains are only about 1.5 hours from the airport by bus.",
-    "zh": "",
+    "zh": "从机场坐大巴到井冈山大约只要一个半小时。",
     "src": "textbook"
    }
   },
@@ -268,7 +268,7 @@
    ],
    "example": {
     "en": "Are there any aliens?",
-    "zh": "",
+    "zh": "有外星人吗？",
     "src": "textbook"
    }
   },
@@ -284,7 +284,7 @@
    ],
    "example": {
     "en": "Our mouth, face and body can all \"talk\".",
-    "zh": "",
+    "zh": "我们的嘴巴、脸和身体都能“说话”。",
     "src": "textbook"
    }
   },
@@ -300,7 +300,7 @@
    ],
    "example": {
     "en": "Yes, but I'm also hard-working.",
-    "zh": "",
+    "zh": "是的，但我也很勤奋。",
     "src": "textbook"
    }
   },
@@ -316,7 +316,7 @@
    ],
    "example": {
     "en": "I always start class at 8 o'clock.",
-    "zh": "",
+    "zh": "我总是八点开始上课。",
     "src": "textbook"
    }
   },
@@ -331,7 +331,7 @@
    ],
    "example": {
     "en": "The Americans took about five days to get there in 1969.",
-    "zh": "",
+    "zh": "1969年美国人花了大约五天到达那里。",
     "src": "textbook"
    }
   },
@@ -346,7 +346,7 @@
    ],
    "example": {
     "en": "But I'm afraid he's angry with me.",
-    "zh": "",
+    "zh": "但我怕他在生我的气。",
     "src": "textbook"
    },
    "emoji": "angry"
@@ -362,7 +362,7 @@
    ],
    "example": {
     "en": "Share your animal picture book in class.",
-    "zh": "",
+    "zh": "在课堂上分享你的动物图画书。",
     "src": "textbook"
    }
   },
@@ -376,8 +376,8 @@
     "6A-U3"
    ],
    "example": {
-    "en": "Liu Jia's good friend to another city.",
-    "zh": "",
+    "en": "Liu Jia's good friend moved to another city.",
+    "zh": "刘佳的好朋友搬到了另一个城市。",
     "src": "textbook"
    }
   },
@@ -392,7 +392,7 @@
    ],
    "example": {
     "en": "Here are the answers from Li Xia and Eric.",
-    "zh": "",
+    "zh": "这些是李晓和埃里克的回答。",
     "src": "textbook"
    }
   },
@@ -407,7 +407,7 @@
    ],
    "example": {
     "en": "You can choose any colour.",
-    "zh": "",
+    "zh": "你可以选任何颜色。",
     "src": "textbook"
    }
   },
@@ -422,7 +422,7 @@
    ],
    "example": {
     "en": "Anything else?",
-    "zh": "",
+    "zh": "还有别的吗？",
     "src": "textbook"
    }
   },
@@ -437,7 +437,7 @@
    ],
    "example": {
     "en": "The apple trees need air, water and sun.",
-    "zh": "",
+    "zh": "苹果树需要空气、水和阳光。",
     "src": "textbook"
    },
    "emoji": "apple"
@@ -453,7 +453,7 @@
    ],
    "example": {
     "en": "April 12th, 7 p.m.",
-    "zh": "",
+    "zh": "4月12日晚上7点。",
     "src": "textbook"
    }
   },
@@ -468,7 +468,7 @@
    ],
    "example": {
     "en": "Wave your arm.",
-    "zh": "",
+    "zh": "挥挥你的手臂。",
     "src": "textbook"
    }
   },
@@ -483,7 +483,7 @@
    ],
    "example": {
     "en": "It's time for art class.",
-    "zh": "",
+    "zh": "美术课时间到了。",
     "src": "textbook"
    }
   },
@@ -498,7 +498,7 @@
    ],
    "example": {
     "en": "She worked as a volunteer.",
-    "zh": "",
+    "zh": "她做志愿者工作。",
     "src": "textbook"
    }
   },
@@ -513,7 +513,7 @@
    ],
    "example": {
     "en": "We can ask Miss White for help.",
-    "zh": "",
+    "zh": "我们可以向怀特老师求助。",
     "src": "textbook"
    }
   },
@@ -528,7 +528,7 @@
    ],
    "example": {
     "en": "What do you know about an astronaut's life in space?",
-    "zh": "",
+    "zh": "关于宇航员在太空中的生活，你了解什么？",
     "src": "textbook"
    }
   },
@@ -543,7 +543,7 @@
    ],
    "example": {
     "en": "Do you have old things at home?",
-    "zh": "",
+    "zh": "你家里有旧东西吗？",
     "src": "textbook"
    }
   },
@@ -558,7 +558,7 @@
    ],
    "example": {
     "en": "We bought some gifts and ate some delicious food.",
-    "zh": "",
+    "zh": "我们买了些礼物，吃了些美味的食物。",
     "src": "textbook"
    }
   },
@@ -573,7 +573,7 @@
    ],
    "example": {
     "en": "It's in July and August.",
-    "zh": "",
+    "zh": "它在七月和八月。",
     "src": "textbook"
    }
   },
@@ -588,7 +588,7 @@
    ],
    "example": {
     "en": "I have an aunt.",
-    "zh": "",
+    "zh": "我有一个姑姑。",
     "src": "textbook"
    }
   },
@@ -603,7 +603,7 @@
    ],
    "example": {
     "en": "He's from Australia.",
-    "zh": "",
+    "zh": "他来自澳大利亚。",
     "src": "textbook"
    }
   },
@@ -619,7 +619,7 @@
    ],
    "example": {
     "en": "Autumn is golden and farmers are busy.",
-    "zh": "",
+    "zh": "秋天是金色的，农民们很忙。",
     "src": "textbook"
    }
   },
@@ -634,7 +634,7 @@
    ],
    "example": {
     "en": "I have a brother, And a baby sister.",
-    "zh": "",
+    "zh": "我有一个哥哥，还有一个还是婴儿的妹妹。",
     "src": "textbook"
    }
   },
@@ -649,7 +649,7 @@
    ],
    "example": {
     "en": "I put two yuan back in my piggy bank.",
-    "zh": "",
+    "zh": "我把两元钱放回我的存钱罐。",
     "src": "textbook"
    }
   },
@@ -664,7 +664,7 @@
    ],
    "example": {
     "en": "Sort the weather from good to bad.",
-    "zh": "",
+    "zh": "把天气从好到坏排序。",
     "src": "textbook"
    }
   },
@@ -689,7 +689,7 @@
    ],
    "example": {
     "en": "What's in your school bag?",
-    "zh": "",
+    "zh": "你的书包里有什么？",
     "src": "textbook"
    },
    "emoji": "bag"
@@ -705,7 +705,7 @@
    ],
    "example": {
     "en": "Put your books under the ball.",
-    "zh": "",
+    "zh": "把你的书放在球下面。",
     "src": "textbook"
    },
    "emoji": "ball"
@@ -722,7 +722,7 @@
    ],
    "example": {
     "en": "They like bamboo.",
-    "zh": "",
+    "zh": "它们喜欢竹子。",
     "src": "textbook"
    }
   },
@@ -737,7 +737,7 @@
    ],
    "example": {
     "en": "I like bananas.",
-    "zh": "",
+    "zh": "我喜欢香蕉。",
     "src": "textbook"
    },
    "emoji": "banana"
@@ -753,7 +753,7 @@
    ],
    "example": {
     "en": "Max sat in a basket on the front of the bike.",
-    "zh": "",
+    "zh": "马克斯坐在自行车前面的篮子里。",
     "src": "textbook"
    }
   },
@@ -768,7 +768,7 @@
    ],
    "example": {
     "en": "I often play football and basketball.",
-    "zh": "",
+    "zh": "我经常踢足球和打篮球。",
     "src": "textbook"
    }
   },
@@ -793,7 +793,7 @@
    ],
    "example": {
     "en": "How was the beach?",
-    "zh": "",
+    "zh": "海滩怎么样？",
     "src": "textbook"
    }
   },
@@ -808,7 +808,7 @@
    ],
    "example": {
     "en": "A big brown bear.",
-    "zh": "",
+    "zh": "一只棕色的大熊。",
     "src": "textbook"
    },
    "emoji": "bear"
@@ -824,7 +824,7 @@
    ],
    "example": {
     "en": "They're beautiful.",
-    "zh": "",
+    "zh": "它们很漂亮。",
     "src": "textbook"
    }
   },
@@ -840,7 +840,7 @@
    ],
    "example": {
     "en": "I like summer best because of Children's Day.",
-    "zh": "",
+    "zh": "我最喜欢夏天，因为有儿童节。",
     "src": "textbook"
    }
   },
@@ -854,8 +854,8 @@
     "6B-U1"
    ],
    "example": {
-    "en": "You are becoming a big \"Why is that?\"",
-    "zh": "",
+    "en": "You are becoming a big boy!",
+    "zh": "你长成一个大男孩了！",
     "src": "textbook"
    }
   },
@@ -870,7 +870,7 @@
    ],
    "example": {
     "en": "Dad is sleeping in his bedroom.",
-    "zh": "",
+    "zh": "爸爸正在他的卧室里睡觉。",
     "src": "textbook"
    }
   },
@@ -885,7 +885,7 @@
    ],
    "example": {
     "en": "They're bee boxes.",
-    "zh": "",
+    "zh": "它们是蜂箱。",
     "src": "textbook"
    }
   },
@@ -900,7 +900,7 @@
    ],
    "example": {
     "en": "I'd like beef and rice.",
-    "zh": "",
+    "zh": "我想要牛肉和米饭。",
     "src": "textbook"
    }
   },
@@ -916,7 +916,7 @@
    ],
    "example": {
     "en": "Check the weather report before you go.",
-    "zh": "",
+    "zh": "出发前查看天气预报。",
     "src": "textbook"
    }
   },
@@ -931,7 +931,7 @@
    ],
    "example": {
     "en": "Your music class will begin soon.",
-    "zh": "",
+    "zh": "你的音乐课马上要开始了。",
     "src": "textbook"
    }
   },
@@ -947,7 +947,7 @@
    ],
    "example": {
     "en": "Which season do you like best?",
-    "zh": "",
+    "zh": "你最喜欢哪个季节？",
     "src": "textbook"
    }
   },
@@ -963,7 +963,7 @@
    ],
    "example": {
     "en": "I'm happy you feel better now.",
-    "zh": "",
+    "zh": "很高兴你现在感觉好些了。",
     "src": "textbook"
    }
   },
@@ -978,7 +978,7 @@
    ],
    "example": {
     "en": "Sarah, you have a big family.",
-    "zh": "",
+    "zh": "萨拉，你有一个大家庭。",
     "src": "textbook"
    }
   },
@@ -993,7 +993,7 @@
    ],
    "example": {
     "en": "Some dinosaurs are bigger than houses.",
-    "zh": "",
+    "zh": "有些恐龙比房子还大。",
     "src": "textbook"
    }
   },
@@ -1008,7 +1008,7 @@
    ],
    "example": {
     "en": "Sing, sing, sing like a bird.",
-    "zh": "",
+    "zh": "唱呀唱，像小鸟一样唱歌。",
     "src": "textbook"
    },
    "emoji": "bird"
@@ -1024,7 +1024,7 @@
    ],
    "example": {
     "en": "They are yellow and black.",
-    "zh": "",
+    "zh": "它们是黄色和黑色的。",
     "src": "textbook"
    }
   },
@@ -1039,7 +1039,7 @@
    ],
    "example": {
     "en": "I can clean the blackboard.",
-    "zh": "",
+    "zh": "我会擦黑板。",
     "src": "textbook"
    }
   },
@@ -1054,7 +1054,7 @@
    ],
    "example": {
     "en": "Purple flowers, green grass and blue sea.",
-    "zh": "",
+    "zh": "紫色的花、绿草和蓝色的大海。",
     "src": "textbook"
    }
   },
@@ -1069,7 +1069,7 @@
    ],
    "example": {
     "en": "Put your boat under the bed.",
-    "zh": "",
+    "zh": "把你的小船放在床下面。",
     "src": "textbook"
    }
   },
@@ -1084,7 +1084,7 @@
    ],
    "example": {
     "en": "It has a long body and short legs.",
-    "zh": "",
+    "zh": "它有长长的身体和短短的腿。",
     "src": "textbook"
    }
   },
@@ -1099,7 +1099,7 @@
    ],
    "example": {
     "en": "This is my sense book.",
-    "zh": "",
+    "zh": "这是我的感官书。",
     "src": "textbook"
    },
    "emoji": "book"
@@ -1115,7 +1115,7 @@
    ],
    "example": {
     "en": "I joined an online book fair.",
-    "zh": "",
+    "zh": "我参加了一个线上书展。",
     "src": "textbook"
    }
   },
@@ -1131,7 +1131,7 @@
    ],
    "example": {
     "en": "It's taller than both of us together.",
-    "zh": "",
+    "zh": "它比我们俩加起来还高。",
     "src": "textbook"
    }
   },
@@ -1146,7 +1146,7 @@
    ],
    "example": {
     "en": "Recycle bottles and boxes.",
-    "zh": "",
+    "zh": "回收瓶子和盒子。",
     "src": "textbook"
    }
   },
@@ -1161,7 +1161,7 @@
    ],
    "example": {
     "en": "We bought some gifts and ate some delicious food.",
-    "zh": "",
+    "zh": "我们买了些礼物，吃了些美味的食物。",
     "src": "textbook"
    }
   },
@@ -1176,7 +1176,7 @@
    ],
    "example": {
     "en": "Can you please pass me the bowl?",
-    "zh": "",
+    "zh": "请把碗递给我好吗？",
     "src": "textbook"
    }
   },
@@ -1191,7 +1191,7 @@
    ],
    "example": {
     "en": "What do you see in the box?",
-    "zh": "",
+    "zh": "你在盒子里看到了什么？",
     "src": "textbook"
    }
   },
@@ -1206,7 +1206,7 @@
    ],
    "example": {
     "en": "What can you tell about this boy?",
-    "zh": "",
+    "zh": "关于这个男孩，你能说些什么？",
     "src": "textbook"
    }
   },
@@ -1221,7 +1221,7 @@
    ],
    "example": {
     "en": "I'd like some milk and bread.",
-    "zh": "",
+    "zh": "我想要一些牛奶和面包。",
     "src": "textbook"
    },
    "emoji": "bread"
@@ -1237,7 +1237,7 @@
    ],
    "example": {
     "en": "This is my healthy plate for breakfast.",
-    "zh": "",
+    "zh": "这是我健康的早餐餐盘。",
     "src": "textbook"
    }
   },
@@ -1251,8 +1251,8 @@
     "5A-U6"
    ],
    "example": {
-    "en": "Bring enough with you on the trip.",
-    "zh": "",
+    "en": "Bring enough water with you on the trip.",
+    "zh": "旅行时带上足够的水。",
     "src": "textbook"
    }
   },
@@ -1267,7 +1267,7 @@
    ],
    "example": {
     "en": "Our friend Robin cleaned our room and fixed a broken chair.",
-    "zh": "",
+    "zh": "我们的朋友罗宾打扫了我们的房间，还修好了一把坏椅子。",
     "src": "textbook"
    }
   },
@@ -1282,7 +1282,7 @@
    ],
    "example": {
     "en": "I play with my brother.",
-    "zh": "",
+    "zh": "我和我哥哥一起玩。",
     "src": "textbook"
    },
    "emoji": "brother"
@@ -1298,7 +1298,7 @@
    ],
    "example": {
     "en": "I am green and brown.",
-    "zh": "",
+    "zh": "我是绿色和棕色的。",
     "src": "textbook"
    }
   },
@@ -1313,7 +1313,7 @@
    ],
    "example": {
     "en": "You should brush your teeth twice a day.",
-    "zh": "",
+    "zh": "你应该每天刷两次牙。",
     "src": "textbook"
    }
   },
@@ -1327,8 +1327,8 @@
     "4A-U3"
    ],
    "example": {
-    "en": "Make fun sentences is singing at the bus stop.",
-    "zh": "",
+    "en": "He is singing at the bus stop.",
+    "zh": "他正在公交车站唱歌。",
     "src": "textbook"
    }
   },
@@ -1344,7 +1344,7 @@
    ],
    "example": {
     "en": "Mum and Dad are busy and tired.",
-    "zh": "",
+    "zh": "爸爸妈妈又忙又累。",
     "src": "textbook"
    }
   },
@@ -1359,7 +1359,7 @@
    ],
    "example": {
     "en": "People buy gifts and books there.",
-    "zh": "",
+    "zh": "人们在那里买礼物和书。",
     "src": "textbook"
    }
   },
@@ -1374,7 +1374,7 @@
    ],
    "example": {
     "en": "Please send an email by March 23rd.",
-    "zh": "",
+    "zh": "请在3月23日前发一封电子邮件。",
     "src": "textbook"
    }
   },
@@ -1389,7 +1389,7 @@
    ],
    "example": {
     "en": "Dogs don't eat cake, Sam!",
-    "zh": "",
+    "zh": "萨姆，狗不吃蛋糕！",
     "src": "textbook"
    },
    "emoji": "cake"
@@ -1405,7 +1405,7 @@
    ],
    "example": {
     "en": "Liu Jia called Miss White and thanked her.",
-    "zh": "",
+    "zh": "刘佳给怀特老师打电话表示感谢。",
     "src": "textbook"
    }
   },
@@ -1420,7 +1420,7 @@
    ],
    "example": {
     "en": "They went camping together.",
-    "zh": "",
+    "zh": "他们一起去露营了。",
     "src": "textbook"
    }
   },
@@ -1436,7 +1436,7 @@
    ],
    "example": {
     "en": "How can we be a good friend?",
-    "zh": "",
+    "zh": "我们怎样才能成为好朋友？",
     "src": "textbook"
    }
   },
@@ -1451,7 +1451,7 @@
    ],
    "example": {
     "en": "Students from Canada and the USA.",
-    "zh": "",
+    "zh": "来自加拿大和美国的学生。",
     "src": "textbook"
    }
   },
@@ -1476,7 +1476,7 @@
    ],
    "example": {
     "en": "Candy and cake are yummy, but don't eat too much!",
-    "zh": "",
+    "zh": "糖果和蛋糕很好吃，但不要吃太多！",
     "src": "textbook"
    }
   },
@@ -1491,7 +1491,7 @@
    ],
    "example": {
     "en": "And this old cap too.",
-    "zh": "",
+    "zh": "还有这顶旧帽子。",
     "src": "textbook"
    }
   },
@@ -1506,7 +1506,7 @@
    ],
    "example": {
     "en": "I have a car.",
-    "zh": "",
+    "zh": "我有一辆小汽车。",
     "src": "textbook"
    },
    "emoji": "car"
@@ -1522,7 +1522,7 @@
    ],
    "example": {
     "en": "I often make a card for my dad.",
-    "zh": "",
+    "zh": "我经常给我爸爸做卡片。",
     "src": "textbook"
    }
   },
@@ -1537,7 +1537,7 @@
    ],
    "example": {
     "en": "Cucumbers, carrots and green beans.",
-    "zh": "",
+    "zh": "黄瓜、胡萝卜和青豆。",
     "src": "textbook"
    }
   },
@@ -1552,7 +1552,7 @@
    ],
    "example": {
     "en": "Sleep, sleep, sleep like a cat.",
-    "zh": "",
+    "zh": "睡呀睡，像小猫一样睡觉。",
     "src": "textbook"
    },
    "emoji": "cat"
@@ -1568,7 +1568,7 @@
    ],
    "example": {
     "en": "Robinson only cleans his cave on Fridays.",
-    "zh": "",
+    "zh": "鲁滨逊只在周五打扫他的山洞。",
     "src": "textbook"
    }
   },
@@ -1583,7 +1583,7 @@
    ],
    "example": {
     "en": "John wants to go to the children's centre, but I want to clean up the park.",
-    "zh": "",
+    "zh": "约翰想去儿童中心，但我想打扫公园。",
     "src": "textbook"
    }
   },
@@ -1598,7 +1598,7 @@
    ],
    "example": {
     "en": "I can put back the desks and chairs.",
-    "zh": "",
+    "zh": "我会把课桌椅放回原处。",
     "src": "textbook"
    },
    "emoji": "chair"
@@ -1614,7 +1614,7 @@
    ],
    "example": {
     "en": "We can do things to change this.",
-    "zh": "",
+    "zh": "我们可以做些事情来改变这一切。",
     "src": "textbook"
    }
   },
@@ -1628,8 +1628,8 @@
     "4B-U4"
    ],
    "example": {
-    "en": "Sunglasses Buy a nice and cheap pair.",
-    "zh": "",
+    "en": "Buy a nice and cheap pair of sunglasses.",
+    "zh": "买一副又好又便宜的太阳镜。",
     "src": "textbook"
    }
   },
@@ -1644,7 +1644,7 @@
    ],
    "example": {
     "en": "You shouldn't check your phone so often.",
-    "zh": "",
+    "zh": "你不应该这么频繁地看手机。",
     "src": "textbook"
    }
   },
@@ -1658,8 +1658,8 @@
     "6A-U2"
    ],
    "example": {
-    "en": "The boy and cheered for his father.",
-    "zh": "",
+    "en": "The boy ran and cheered for his father.",
+    "zh": "那个男孩跑着为他爸爸加油。",
     "src": "textbook"
    }
   },
@@ -1674,7 +1674,7 @@
    ],
    "example": {
     "en": "Wu Binbin ran like a cheetah.",
-    "zh": "",
+    "zh": "吴斌斌跑得像猎豹一样快。",
     "src": "textbook"
    }
   },
@@ -1689,7 +1689,7 @@
    ],
    "example": {
     "en": "He is good at playing Chinese chess.",
-    "zh": "",
+    "zh": "他擅长下中国象棋。",
     "src": "textbook"
    }
   },
@@ -1704,7 +1704,7 @@
    ],
    "example": {
     "en": "My family often eat rice, chicken and tomatoes for lunch.",
-    "zh": "",
+    "zh": "我家人午饭常吃米饭、鸡肉和西红柿。",
     "src": "textbook"
    }
   },
@@ -1719,7 +1719,7 @@
    ],
    "example": {
     "en": "I am a child.",
-    "zh": "",
+    "zh": "我是一个孩子。",
     "src": "textbook"
    }
   },
@@ -1734,7 +1734,7 @@
    ],
    "example": {
     "en": "A boy from China, a girl from the UK.",
-    "zh": "",
+    "zh": "一个来自中国的男孩，一个来自英国的女孩。",
     "src": "textbook"
    }
   },
@@ -1749,7 +1749,7 @@
    ],
    "example": {
     "en": "I help my friend with Chinese.",
-    "zh": "",
+    "zh": "我帮助我的朋友学语文。",
     "src": "textbook"
    }
   },
@@ -1764,7 +1764,7 @@
    ],
    "example": {
     "en": "Don't point chopsticks at food.",
-    "zh": "",
+    "zh": "不要用筷子指着食物。",
     "src": "textbook"
    }
   },
@@ -1779,7 +1779,7 @@
    ],
    "example": {
     "en": "She can do some chores.",
-    "zh": "",
+    "zh": "她会做一些家务。",
     "src": "textbook"
    }
   },
@@ -1794,7 +1794,7 @@
    ],
    "example": {
     "en": "What do you usually do on Christmas Day?",
-    "zh": "",
+    "zh": "你圣诞节通常做什么？",
     "src": "textbook"
    }
   },
@@ -1810,7 +1810,7 @@
    ],
    "example": {
     "en": "Don't be late or eat in class.",
-    "zh": "",
+    "zh": "不要迟到，也不要在课堂上吃东西。",
     "src": "textbook"
    }
   },
@@ -1825,7 +1825,7 @@
    ],
    "example": {
     "en": "Zhang Peng is my classmate.",
-    "zh": "",
+    "zh": "张鹏是我的同学。",
     "src": "textbook"
    }
   },
@@ -1840,7 +1840,7 @@
    ],
    "example": {
     "en": "We all help make our classroom great!",
-    "zh": "",
+    "zh": "我们都帮忙让教室变得很棒！",
     "src": "textbook"
    }
   },
@@ -1855,7 +1855,7 @@
    ],
    "example": {
     "en": "There are over seven thousand clay warriors and horses.",
-    "zh": "",
+    "zh": "那里有七千多个陶土做的武士和马。",
     "src": "textbook"
    }
   },
@@ -1870,7 +1870,7 @@
    ],
    "example": {
     "en": "I can clean my room.",
-    "zh": "",
+    "zh": "我会打扫我的房间。",
     "src": "textbook"
    }
   },
@@ -1885,7 +1885,7 @@
    ],
    "example": {
     "en": "I often clean my room on Saturdays!",
-    "zh": "",
+    "zh": "我常在周六打扫我的房间！",
     "src": "textbook"
    }
   },
@@ -1899,8 +1899,8 @@
     "6B-U2"
    ],
    "example": {
-    "en": "I cleaned my room last weekend?",
-    "zh": "",
+    "en": "I cleaned my room last weekend.",
+    "zh": "我上周末打扫了我的房间。",
     "src": "textbook"
    }
   },
@@ -1915,7 +1915,7 @@
    ],
    "example": {
     "en": "A cleaner is telling a story in the park.",
-    "zh": "",
+    "zh": "一位清洁工正在公园里讲故事。",
     "src": "textbook"
    }
   },
@@ -1930,7 +1930,7 @@
    ],
    "example": {
     "en": "Let's clear the table.",
-    "zh": "",
+    "zh": "我们收拾桌子吧。",
     "src": "textbook"
    }
   },
@@ -1945,7 +1945,7 @@
    ],
    "example": {
     "en": "Robin is a clever robot.",
-    "zh": "",
+    "zh": "罗宾是一个聪明的机器人。",
     "src": "textbook"
    }
   },
@@ -1960,7 +1960,7 @@
    ],
    "example": {
     "en": "I climbed the Great Wall.",
-    "zh": "",
+    "zh": "我爬了长城。",
     "src": "textbook"
    }
   },
@@ -1975,7 +1975,7 @@
    ],
    "example": {
     "en": "I'm climbing like him.",
-    "zh": "",
+    "zh": "我像他一样在爬。",
     "src": "textbook"
    }
   },
@@ -1990,7 +1990,7 @@
    ],
    "example": {
     "en": "Tell the time on the clock.",
-    "zh": "",
+    "zh": "看钟说出时间。",
     "src": "textbook"
    }
   },
@@ -2005,7 +2005,7 @@
    ],
    "example": {
     "en": "Mike, stay in the hotel with Mum and close the windows.",
-    "zh": "",
+    "zh": "迈克，和妈妈待在酒店里，把窗户关好。",
     "src": "textbook"
    }
   },
@@ -2020,7 +2020,7 @@
    ],
    "example": {
     "en": "But it's closed now.",
-    "zh": "",
+    "zh": "但是它现在关门了。",
     "src": "textbook"
    }
   },
@@ -2035,7 +2035,7 @@
    ],
    "example": {
     "en": "So taikonauts have to use a wet cloth.",
-    "zh": "",
+    "zh": "所以航天员不得不用湿布。",
     "src": "textbook"
    }
   },
@@ -2050,7 +2050,7 @@
    ],
    "example": {
     "en": "How do you choose your clothes?",
-    "zh": "",
+    "zh": "你怎样挑选衣服？",
     "src": "textbook"
    }
   },
@@ -2065,7 +2065,7 @@
    ],
    "example": {
     "en": "We can see the Sun and clouds.",
-    "zh": "",
+    "zh": "我们能看到太阳和云。",
     "src": "textbook"
    }
   },
@@ -2080,7 +2080,7 @@
    ],
    "example": {
     "en": "It's cool and cloudy.",
-    "zh": "",
+    "zh": "天气凉爽又多云。",
     "src": "textbook"
    }
   },
@@ -2095,7 +2095,7 @@
    ],
    "example": {
     "en": "Yes, but wear a coat too.",
-    "zh": "",
+    "zh": "可以，但也要穿件外套。",
     "src": "textbook"
    }
   },
@@ -2110,7 +2110,7 @@
    ],
    "example": {
     "en": "How much is the coconut water?",
-    "zh": "",
+    "zh": "椰子水多少钱？",
     "src": "textbook"
    }
   },
@@ -2126,7 +2126,7 @@
    ],
    "example": {
     "en": "Is it cold and windy in Beijing?",
-    "zh": "",
+    "zh": "北京冷吗？风大吗？",
     "src": "textbook"
    },
    "emoji": "cold"
@@ -2142,7 +2142,7 @@
    ],
    "example": {
     "en": "I can tell the colour of things.",
-    "zh": "",
+    "zh": "我能说出东西的颜色。",
     "src": "textbook"
    }
   },
@@ -2157,7 +2157,7 @@
    ],
    "example": {
     "en": "Fruit and vegetables are colourful and healthy.",
-    "zh": "",
+    "zh": "水果和蔬菜色彩丰富又健康。",
     "src": "textbook"
    }
   },
@@ -2172,7 +2172,7 @@
    ],
    "example": {
     "en": "What can we see in a community?",
-    "zh": "",
+    "zh": "在社区里我们能看见什么？",
     "src": "textbook"
    }
   },
@@ -2187,7 +2187,7 @@
    ],
    "example": {
     "en": "I can use paper, pencils, books and computers to learn.",
-    "zh": "",
+    "zh": "我可以用纸、铅笔、书和电脑来学习。",
     "src": "textbook"
    }
   },
@@ -2202,7 +2202,7 @@
    ],
    "example": {
     "en": "Is the singing contest in May, too?",
-    "zh": "",
+    "zh": "歌唱比赛也在五月吗？",
     "src": "textbook"
    }
   },
@@ -2218,7 +2218,7 @@
    ],
    "example": {
     "en": "A cook is cooking at the children's centre.",
-    "zh": "",
+    "zh": "一位厨师正在儿童中心做饭。",
     "src": "textbook"
    }
   },
@@ -2235,7 +2235,7 @@
    ],
    "example": {
     "en": "This boat is cool.",
-    "zh": "",
+    "zh": "这只小船真酷。",
     "src": "textbook"
    }
   },
@@ -2250,7 +2250,7 @@
    ],
    "example": {
     "en": "He had a runny nose and a cough.",
-    "zh": "",
+    "zh": "他流鼻涕还咳嗽。",
     "src": "textbook"
    }
   },
@@ -2265,7 +2265,7 @@
    ],
    "example": {
     "en": "Could you see stars at night?",
-    "zh": "",
+    "zh": "你晚上能看到星星吗？",
     "src": "textbook"
    }
   },
@@ -2280,7 +2280,7 @@
    ],
    "example": {
     "en": "Did you count down to 12 o'clock?",
-    "zh": "",
+    "zh": "你们倒数到12点了吗？",
     "src": "textbook"
    }
   },
@@ -2295,7 +2295,7 @@
    ],
    "example": {
     "en": "Wu Binbin and his family are going on a trip to the countryside.",
-    "zh": "",
+    "zh": "吴斌斌一家要去乡下旅行。",
     "src": "textbook"
    }
   },
@@ -2310,7 +2310,7 @@
    ],
    "example": {
     "en": "No, it's my cousin.",
-    "zh": "",
+    "zh": "不，那是我的表姐。",
     "src": "textbook"
    }
   },
@@ -2324,8 +2324,8 @@
     "4B-U5"
    ],
    "example": {
-    "en": "How many I have 15 cows.",
-    "zh": "",
+    "en": "I have 15 cows.",
+    "zh": "我有十五头奶牛。",
     "src": "textbook"
    },
    "emoji": "cow"
@@ -2341,7 +2341,7 @@
    ],
    "example": {
     "en": "Liu Jia was crying.",
-    "zh": "",
+    "zh": "刘佳在哭。",
     "src": "textbook"
    }
   },
@@ -2356,7 +2356,7 @@
    ],
    "example": {
     "en": "Oh, one more cut for the dog.",
-    "zh": "",
+    "zh": "哦，再给狗切一刀。",
     "src": "textbook"
    }
   },
@@ -2371,7 +2371,7 @@
    ],
    "example": {
     "en": "It's cute!",
-    "zh": "",
+    "zh": "它真可爱！",
     "src": "textbook"
    }
   },
@@ -2386,7 +2386,7 @@
    ],
    "example": {
     "en": "I thought it was too cold, and I couldn't go cycling.",
-    "zh": "",
+    "zh": "我觉得太冷了，没法去骑车。",
     "src": "textbook"
    }
   },
@@ -2401,7 +2401,7 @@
    ],
    "example": {
     "en": "And this is my dad.",
-    "zh": "",
+    "zh": "这是我的爸爸。",
     "src": "textbook"
    }
   },
@@ -2416,7 +2416,7 @@
    ],
    "example": {
     "en": "We sing songs or dance.",
-    "zh": "",
+    "zh": "我们唱歌或跳舞。",
     "src": "textbook"
    },
    "emoji": "dance"
@@ -2432,7 +2432,7 @@
    ],
    "example": {
     "en": "I'm dancing like a bear.",
-    "zh": "",
+    "zh": "我像熊一样跳舞。",
     "src": "textbook"
    }
   },
@@ -2447,7 +2447,7 @@
    ],
    "example": {
     "en": "Strong winds are often dangerous.",
-    "zh": "",
+    "zh": "大风常常很危险。",
     "src": "textbook"
    }
   },
@@ -2462,7 +2462,7 @@
    ],
    "example": {
     "en": "The sky is often blue in the daytime.",
-    "zh": "",
+    "zh": "白天天空常常是蓝色的。",
     "src": "textbook"
    }
   },
@@ -2477,7 +2477,7 @@
    ],
    "example": {
     "en": "I'm sorry, dear.",
-    "zh": "",
+    "zh": "对不起，亲爱的。",
     "src": "textbook"
    }
   },
@@ -2492,7 +2492,7 @@
    ],
    "example": {
     "en": "What will they do in December?",
-    "zh": "",
+    "zh": "他们十二月会做什么？",
     "src": "textbook"
    }
   },
@@ -2507,7 +2507,7 @@
    ],
    "example": {
     "en": "The food is delicious!",
-    "zh": "",
+    "zh": "食物真美味！",
     "src": "textbook"
    }
   },
@@ -2532,7 +2532,7 @@
    ],
    "example": {
     "en": "I clean my desk after class.",
-    "zh": "",
+    "zh": "下课后我打扫我的课桌。",
     "src": "textbook"
    }
   },
@@ -2547,7 +2547,7 @@
    ],
    "example": {
     "en": "This is my video diary.",
-    "zh": "",
+    "zh": "这是我的视频日记。",
     "src": "textbook"
    }
   },
@@ -2562,7 +2562,7 @@
    ],
    "example": {
     "en": "Have a healthy diet.",
-    "zh": "",
+    "zh": "保持健康的饮食。",
     "src": "textbook"
    }
   },
@@ -2577,7 +2577,7 @@
    ],
    "example": {
     "en": "Small changes can make a big difference.",
-    "zh": "",
+    "zh": "小小的改变也能带来很大的不同。",
     "src": "textbook"
    }
   },
@@ -2593,7 +2593,7 @@
    ],
    "example": {
     "en": "There were many different kinds of tea.",
-    "zh": "",
+    "zh": "有很多不同种类的茶。",
     "src": "textbook"
    }
   },
@@ -2618,7 +2618,7 @@
    ],
    "example": {
     "en": "It's time for dinner.",
-    "zh": "",
+    "zh": "晚饭时间到了。",
     "src": "textbook"
    }
   },
@@ -2633,7 +2633,7 @@
    ],
    "example": {
     "en": "That's the tallest dinosaur in this hall.",
-    "zh": "",
+    "zh": "那是这个大厅里最高的恐龙。",
     "src": "textbook"
    }
   },
@@ -2647,8 +2647,8 @@
     "6A-U6"
    ],
    "example": {
-    "en": "The is dirty.",
-    "zh": "",
+    "en": "The room is dirty.",
+    "zh": "房间很脏。",
     "src": "textbook"
    }
   },
@@ -2663,7 +2663,7 @@
    ],
    "example": {
     "en": "Class, now we're going to discuss health.",
-    "zh": "",
+    "zh": "同学们，现在我们要讨论健康问题。",
     "src": "textbook"
    }
   },
@@ -2678,7 +2678,7 @@
    ],
    "example": {
     "en": "When do you do morning exercises?",
-    "zh": "",
+    "zh": "你什么时候做早操？",
     "src": "textbook"
    }
   },
@@ -2693,7 +2693,7 @@
    ],
    "example": {
     "en": "My father is a doctor too.",
-    "zh": "",
+    "zh": "我爸爸也是一名医生。",
     "src": "textbook"
    },
    "emoji": "doctor"
@@ -2709,7 +2709,7 @@
    ],
    "example": {
     "en": "Run, run, run like a dog.",
-    "zh": "",
+    "zh": "跑呀跑，像小狗一样奔跑。",
     "src": "textbook"
    },
    "emoji": "dog"
@@ -2735,7 +2735,7 @@
    ],
    "example": {
     "en": "I have an old doll's arm.",
-    "zh": "",
+    "zh": "我有一个旧娃娃的手臂。",
     "src": "textbook"
    }
   },
@@ -2750,7 +2750,7 @@
    ],
    "example": {
     "en": "We put back the chairs and close the doors.",
-    "zh": "",
+    "zh": "我们把椅子放回原处，关上门。",
     "src": "textbook"
    },
    "emoji": "door"
@@ -2766,7 +2766,7 @@
    ],
    "example": {
     "en": "We drank tea in the afternoon and watched TV.",
-    "zh": "",
+    "zh": "我们下午喝了茶，看了电视。",
     "src": "textbook"
    }
   },
@@ -2781,7 +2781,7 @@
    ],
    "example": {
     "en": "Draw your family.",
-    "zh": "",
+    "zh": "画一画你的家人。",
     "src": "textbook"
    },
    "emoji": "draw"
@@ -2797,7 +2797,7 @@
    ],
    "example": {
     "en": "I had a dream last night.",
-    "zh": "",
+    "zh": "我昨晚做了一个梦。",
     "src": "textbook"
    }
   },
@@ -2813,7 +2813,7 @@
    ],
    "example": {
     "en": "The yellow dress is Chen Jie's.",
-    "zh": "",
+    "zh": "那条黄色的连衣裙是陈洁的。",
     "src": "textbook"
    }
   },
@@ -2828,7 +2828,7 @@
    ],
    "example": {
     "en": "We buy food and drink.",
-    "zh": "",
+    "zh": "我们买食物和饮料。",
     "src": "textbook"
    },
    "emoji": "drink"
@@ -2844,7 +2844,7 @@
    ],
    "example": {
     "en": "Is he drinking water?",
-    "zh": "",
+    "zh": "他在喝水吗？",
     "src": "textbook"
    }
   },
@@ -2859,7 +2859,7 @@
    ],
    "example": {
     "en": "Walk more and drive less.",
-    "zh": "",
+    "zh": "多走路，少开车。",
     "src": "textbook"
    }
   },
@@ -2874,7 +2874,7 @@
    ],
    "example": {
     "en": "He's a school bus driver.",
-    "zh": "",
+    "zh": "他是一名校车司机。",
     "src": "textbook"
    }
   },
@@ -2889,7 +2889,7 @@
    ],
    "example": {
     "en": "I ate hot dry noodles.",
-    "zh": "",
+    "zh": "我吃了热干面。",
     "src": "textbook"
    }
   },
@@ -2904,7 +2904,7 @@
    ],
    "example": {
     "en": "When is the duck's shadow longer?",
-    "zh": "",
+    "zh": "鸭子的影子什么时候更长？",
     "src": "textbook"
    },
    "emoji": "duck"
@@ -2930,7 +2930,7 @@
    ],
    "example": {
     "en": "They're playing with each other.",
-    "zh": "",
+    "zh": "它们在互相玩耍。",
     "src": "textbook"
    }
   },
@@ -2945,7 +2945,7 @@
    ],
    "example": {
     "en": "They're playing with each other.",
-    "zh": "",
+    "zh": "它们在互相玩耍。",
     "src": "textbook"
    }
   },
@@ -2960,7 +2960,7 @@
    ],
    "example": {
     "en": "Point to your ear.",
-    "zh": "",
+    "zh": "指指你的耳朵。",
     "src": "textbook"
    }
   },
@@ -2975,7 +2975,7 @@
    ],
    "example": {
     "en": "I can see Earth and the Sun.",
-    "zh": "",
+    "zh": "我能看到地球和太阳。",
     "src": "textbook"
    }
   },
@@ -2991,7 +2991,7 @@
    ],
    "example": {
     "en": "Jumping rope is easy and fun.",
-    "zh": "",
+    "zh": "跳绳既简单又有趣。",
     "src": "textbook"
    }
   },
@@ -3007,7 +3007,7 @@
    ],
    "example": {
     "en": "Eat gingerbread?",
-    "zh": "",
+    "zh": "吃姜饼？",
     "src": "textbook"
    },
    "emoji": "eat"
@@ -3023,7 +3023,7 @@
    ],
    "example": {
     "en": "I wash my face, and then I eat breakfast.",
-    "zh": "",
+    "zh": "我洗脸，然后吃早饭。",
     "src": "textbook"
    }
   },
@@ -3038,7 +3038,7 @@
    ],
    "example": {
     "en": "When do you usually eat dinner in Spain?",
-    "zh": "",
+    "zh": "你们在西班牙通常什么时候吃晚饭？",
     "src": "textbook"
    }
   },
@@ -3053,7 +3053,7 @@
    ],
    "example": {
     "en": "I'm eating like a rabbit.",
-    "zh": "",
+    "zh": "我像兔子一样吃东西。",
     "src": "textbook"
    }
   },
@@ -3068,7 +3068,7 @@
    ],
    "example": {
     "en": "They're eating lunch!",
-    "zh": "",
+    "zh": "它们在吃午饭！",
     "src": "textbook"
    }
   },
@@ -3083,7 +3083,7 @@
    ],
    "example": {
     "en": "Eat your egg.",
-    "zh": "",
+    "zh": "把你的鸡蛋吃了。",
     "src": "textbook"
    },
    "emoji": "egg"
@@ -3099,7 +3099,7 @@
    ],
    "example": {
     "en": "Liu Jia's family travelled to Paris and visited the Eiffel Tower.",
-    "zh": "",
+    "zh": "刘佳一家去巴黎旅行，参观了埃菲尔铁塔。",
     "src": "textbook"
    }
   },
@@ -3115,7 +3115,7 @@
    ],
    "example": {
     "en": "One head, eight eyes, eight legs.",
-    "zh": "",
+    "zh": "一个头，八只眼睛，八条腿。",
     "src": "textbook"
    }
   },
@@ -3131,7 +3131,7 @@
    ],
    "example": {
     "en": "Sixteen, seventeen, eighteen.",
-    "zh": "",
+    "zh": "十六、十七、十八。",
     "src": "textbook"
    }
   },
@@ -3155,8 +3155,8 @@
     "6A-U6"
    ],
    "example": {
-    "en": "We use electricity to , , and .",
-    "zh": "",
+    "en": "We use electricity to light, heat and cool our homes.",
+    "zh": "我们用电力来照明、取暖和降温。",
     "src": "textbook"
    }
   },
@@ -3171,7 +3171,7 @@
    ],
    "example": {
     "en": "The elephant is big!",
-    "zh": "",
+    "zh": "大象很大！",
     "src": "textbook"
    },
    "emoji": "elephant"
@@ -3188,7 +3188,7 @@
    ],
    "example": {
     "en": "And a football team always has eleven players.",
-    "zh": "",
+    "zh": "一支足球队总是有十一名球员。",
     "src": "textbook"
    }
   },
@@ -3204,7 +3204,7 @@
    ],
    "example": {
     "en": "And what else?",
-    "zh": "",
+    "zh": "还有别的吗？",
     "src": "textbook"
    }
   },
@@ -3219,7 +3219,7 @@
    ],
    "example": {
     "en": "Please send an email by March 23rd.",
-    "zh": "",
+    "zh": "请在3月23日前发一封电子邮件。",
     "src": "textbook"
    }
   },
@@ -3234,7 +3234,7 @@
    ],
    "example": {
     "en": "Why do we have to save energy?",
-    "zh": "",
+    "zh": "我们为什么必须节约能源？",
     "src": "textbook"
    }
   },
@@ -3249,7 +3249,7 @@
    ],
    "example": {
     "en": "Miss White is my English teacher.",
-    "zh": "",
+    "zh": "怀特老师是我的英语老师。",
     "src": "textbook"
    }
   },
@@ -3264,7 +3264,7 @@
    ],
    "example": {
     "en": "I'm sorry, but we didn't enjoy our stay very much.",
-    "zh": "",
+    "zh": "很抱歉，我们住得不太愉快。",
     "src": "textbook"
    }
   },
@@ -3279,7 +3279,7 @@
    ],
    "example": {
     "en": "Yes, but please drink enough water.",
-    "zh": "",
+    "zh": "好的，但要喝足够的水。",
     "src": "textbook"
    }
   },
@@ -3294,7 +3294,7 @@
    ],
    "example": {
     "en": "Can I use your eraser, please?",
-    "zh": "",
+    "zh": "我可以用一下你的橡皮吗？",
     "src": "textbook"
    }
   },
@@ -3309,7 +3309,7 @@
    ],
    "example": {
     "en": "Does Chen Jie do her homework on Saturday evenings?",
-    "zh": "",
+    "zh": "陈洁周六晚上做作业吗？",
     "src": "textbook"
    }
   },
@@ -3324,7 +3324,7 @@
    ],
    "example": {
     "en": "It was the best Dragon Boat Festival ever!",
-    "zh": "",
+    "zh": "那是有史以来最棒的端午节！",
     "src": "textbook"
    }
   },
@@ -3339,7 +3339,7 @@
    ],
    "example": {
     "en": "Everyone is happy!",
-    "zh": "",
+    "zh": "每个人都很开心！",
     "src": "textbook"
    }
   },
@@ -3355,7 +3355,7 @@
    ],
    "example": {
     "en": "Fido is excited.",
-    "zh": "",
+    "zh": "菲多很兴奋。",
     "src": "textbook"
    }
   },
@@ -3370,7 +3370,7 @@
    ],
    "example": {
     "en": "Like exciting races?",
-    "zh": "",
+    "zh": "喜欢刺激的比赛吗？",
     "src": "textbook"
    }
   },
@@ -3386,7 +3386,7 @@
    ],
    "example": {
     "en": "We should exercise every day.",
-    "zh": "",
+    "zh": "我们应该每天锻炼。",
     "src": "textbook"
    }
   },
@@ -3411,7 +3411,7 @@
    ],
    "example": {
     "en": "That's expensive.",
-    "zh": "",
+    "zh": "那太贵了。",
     "src": "textbook"
    }
   },
@@ -3426,7 +3426,7 @@
    ],
    "example": {
     "en": "Look into my eyes.",
-    "zh": "",
+    "zh": "看着我的眼睛。",
     "src": "textbook"
    }
   },
@@ -3441,7 +3441,7 @@
    ],
    "example": {
     "en": "Our mouth, face and body can all \"talk\".",
-    "zh": "",
+    "zh": "我们的嘴巴、脸和身体都能“说话”。",
     "src": "textbook"
    }
   },
@@ -3456,7 +3456,7 @@
    ],
    "example": {
     "en": "He's a factory worker.",
-    "zh": "",
+    "zh": "他是一名工厂工人。",
     "src": "textbook"
    }
   },
@@ -3472,7 +3472,7 @@
    ],
    "example": {
     "en": "The leaves fall and fall and fall.",
-    "zh": "",
+    "zh": "树叶落了又落，落了又落。",
     "src": "textbook"
    }
   },
@@ -3487,7 +3487,7 @@
    ],
    "example": {
     "en": "I can introduce my family to others.",
-    "zh": "",
+    "zh": "我能向别人介绍我的家人。",
     "src": "textbook"
    },
    "emoji": "family"
@@ -3503,7 +3503,7 @@
    ],
    "example": {
     "en": "Are there any famous mountains in the nature park?",
-    "zh": "",
+    "zh": "自然公园里有著名的山吗？",
     "src": "textbook"
    }
   },
@@ -3518,7 +3518,7 @@
    ],
    "example": {
     "en": "We turn off the fans.",
-    "zh": "",
+    "zh": "我们关掉风扇。",
     "src": "textbook"
    }
   },
@@ -3532,8 +3532,8 @@
     "3A-U4"
    ],
    "example": {
-    "en": "Yes, Miss the farm?",
-    "zh": "",
+    "en": "Yes, Miss White, this is the farm.",
+    "zh": "是的，怀特老师，这就是那个农场。",
     "src": "textbook"
    }
   },
@@ -3548,7 +3548,7 @@
    ],
    "example": {
     "en": "I draw a farmer on a card.",
-    "zh": "",
+    "zh": "我在卡片上画一位农民。",
     "src": "textbook"
    },
    "emoji": "farmer"
@@ -3564,7 +3564,7 @@
    ],
    "example": {
     "en": "The lion is fast!",
-    "zh": "",
+    "zh": "狮子跑得很快！",
     "src": "textbook"
    }
   },
@@ -3579,7 +3579,7 @@
    ],
    "example": {
     "en": "It's faster than walking.",
-    "zh": "",
+    "zh": "它比走路快。",
     "src": "textbook"
    }
   },
@@ -3594,7 +3594,7 @@
    ],
    "example": {
     "en": "We can be fat or thin.",
-    "zh": "",
+    "zh": "我们可以胖也可以瘦。",
     "src": "textbook"
    }
   },
@@ -3609,7 +3609,7 @@
    ],
    "example": {
     "en": "We are a family, A happy family, My father, my mother, My sister and me!",
-    "zh": "",
+    "zh": "我们是一家人，快乐的一家人，有爸爸、妈妈、妹妹和我！",
     "src": "textbook"
    },
    "emoji": "father"
@@ -3625,7 +3625,7 @@
    ],
    "example": {
     "en": "My favourite place is the museum.",
-    "zh": "",
+    "zh": "我最喜欢的地方是博物馆。",
     "src": "textbook"
    }
   },
@@ -3640,7 +3640,7 @@
    ],
    "example": {
     "en": "Tree Planting Day is in February.",
-    "zh": "",
+    "zh": "植树节在二月。",
     "src": "textbook"
    }
   },
@@ -3654,8 +3654,8 @@
     "4B-U6"
    ],
    "example": {
-    "en": "They They feed feed chickens.",
-    "zh": "",
+    "en": "They feed chickens.",
+    "zh": "他们喂鸡。",
     "src": "textbook"
    }
   },
@@ -3670,7 +3670,7 @@
    ],
    "example": {
     "en": "I feel good and others feel good too.",
-    "zh": "",
+    "zh": "我感觉很好，别人也感觉很好。",
     "src": "textbook"
    }
   },
@@ -3685,7 +3685,7 @@
    ],
    "example": {
     "en": "I fell off my bike last Saturday and hurt my foot.",
-    "zh": "",
+    "zh": "上周六我从自行车上摔下来，伤了我的脚。",
     "src": "textbook"
    }
   },
@@ -3700,7 +3700,7 @@
    ],
    "example": {
     "en": "Binbin drank it and suddenly he felt good.",
-    "zh": "",
+    "zh": "斌斌喝了它，突然感觉好多了。",
     "src": "textbook"
    }
   },
@@ -3715,7 +3715,7 @@
    ],
    "example": {
     "en": "A birthday cake for Mid-Autumn Festival?!",
-    "zh": "",
+    "zh": "中秋节吃生日蛋糕？！",
     "src": "textbook"
    }
   },
@@ -3730,7 +3730,7 @@
    ],
    "example": {
     "en": "He has a fever.",
-    "zh": "",
+    "zh": "他发烧了。",
     "src": "textbook"
    }
   },
@@ -3745,7 +3745,7 @@
    ],
    "example": {
     "en": "We have a few fun things in spring.",
-    "zh": "",
+    "zh": "春天我们有一些有趣的事情。",
     "src": "textbook"
    }
   },
@@ -3761,7 +3761,7 @@
    ],
    "example": {
     "en": "I pay fifteen yuan for five books.",
-    "zh": "",
+    "zh": "我花十五元买五本书。",
     "src": "textbook"
    }
   },
@@ -3786,7 +3786,7 @@
    ],
    "example": {
     "en": "I have three hundred and fifty-seven yuan.",
-    "zh": "",
+    "zh": "我有三百五十七元。",
     "src": "textbook"
    }
   },
@@ -3801,7 +3801,7 @@
    ],
    "example": {
     "en": "Let's go and see a film.",
-    "zh": "",
+    "zh": "我们去看电影吧。",
     "src": "textbook"
    }
   },
@@ -3816,7 +3816,7 @@
    ],
    "example": {
     "en": "I can't find my ruler.",
-    "zh": "",
+    "zh": "我找不到我的尺子了。",
     "src": "textbook"
    }
   },
@@ -3831,7 +3831,7 @@
    ],
    "example": {
     "en": "It'll be a fine day tomorrow.",
-    "zh": "",
+    "zh": "明天会是晴天。",
     "src": "textbook"
    }
   },
@@ -3846,7 +3846,7 @@
    ],
    "example": {
     "en": "And we have to finish our project by Monday.",
-    "zh": "",
+    "zh": "而且我们必须在周一之前完成我们的项目。",
     "src": "textbook"
    }
   },
@@ -3860,8 +3860,8 @@
     "5A-U6"
    ],
    "example": {
-    "en": "Sometimes there is heavy snow of fires.",
-    "zh": "",
+    "en": "Sometimes there is heavy snow or fires.",
+    "zh": "有时会有大雪或火灾。",
     "src": "textbook"
    }
   },
@@ -3876,7 +3876,7 @@
    ],
    "example": {
     "en": "Our neighbour is a firefighter.",
-    "zh": "",
+    "zh": "我们的邻居是一名消防员。",
     "src": "textbook"
    }
   },
@@ -3891,7 +3891,7 @@
    ],
    "example": {
     "en": "You have to do your homework first.",
-    "zh": "",
+    "zh": "你得先做作业。",
     "src": "textbook"
    }
   },
@@ -3906,7 +3906,7 @@
    ],
    "example": {
     "en": "You have to do your homework first.",
-    "zh": "",
+    "zh": "你得先做作业。",
     "src": "textbook"
    }
   },
@@ -3922,7 +3922,7 @@
    ],
    "example": {
     "en": "Swim, swim, swim like a fish.",
-    "zh": "",
+    "zh": "游呀游，像小鱼一样游泳。",
     "src": "textbook"
    },
    "emoji": "fish"
@@ -3939,7 +3939,7 @@
    ],
    "example": {
     "en": "I'm five years old.",
-    "zh": "",
+    "zh": "我五岁了。",
     "src": "textbook"
    }
   },
@@ -3954,7 +3954,7 @@
    ],
    "example": {
     "en": "Our friend Robin cleaned our room and fixed a broken chair.",
-    "zh": "",
+    "zh": "我们的朋友罗宾打扫了我们的房间，还修好了一把坏椅子。",
     "src": "textbook"
    }
   },
@@ -3969,7 +3969,7 @@
    ],
    "example": {
     "en": "Sometimes there are floods too.",
-    "zh": "",
+    "zh": "有时也会有洪水。",
     "src": "textbook"
    }
   },
@@ -3984,7 +3984,7 @@
    ],
    "example": {
     "en": "He can sweep the floor.",
-    "zh": "",
+    "zh": "他会扫地。",
     "src": "textbook"
    }
   },
@@ -3999,7 +3999,7 @@
    ],
    "example": {
     "en": "Flowers need air, water and sun.",
-    "zh": "",
+    "zh": "花需要空气、水和阳光。",
     "src": "textbook"
    },
    "emoji": "flower"
@@ -4015,7 +4015,7 @@
    ],
    "example": {
     "en": "It's flu season now.",
-    "zh": "",
+    "zh": "现在是流感季节。",
     "src": "textbook"
    }
   },
@@ -4030,7 +4030,7 @@
    ],
    "example": {
     "en": "I fly a kite and I play.",
-    "zh": "",
+    "zh": "我放风筝，还玩耍。",
     "src": "textbook"
    }
   },
@@ -4045,7 +4045,7 @@
    ],
    "example": {
     "en": "There is often heavy fog on spring mornings.",
-    "zh": "",
+    "zh": "春天早晨常常有大雾。",
     "src": "textbook"
    }
   },
@@ -4060,7 +4060,7 @@
    ],
    "example": {
     "en": "We work hard and follow the rules.",
-    "zh": "",
+    "zh": "我们努力学习，遵守规则。",
     "src": "textbook"
    }
   },
@@ -4075,7 +4075,7 @@
    ],
    "example": {
     "en": "What food do we get from this plant?",
-    "zh": "",
+    "zh": "我们从这种植物得到什么食物？",
     "src": "textbook"
    }
   },
@@ -4090,7 +4090,7 @@
    ],
    "example": {
     "en": "I often play football and basketball.",
-    "zh": "",
+    "zh": "我经常踢足球和打篮球。",
     "src": "textbook"
    }
   },
@@ -4105,7 +4105,7 @@
    ],
    "example": {
     "en": "She uses this money to buy gifts, for example, birthday gifts for her family.",
-    "zh": "",
+    "zh": "她用这些钱买礼物，比如给家人的生日礼物。",
     "src": "textbook"
    }
   },
@@ -4120,7 +4120,7 @@
    ],
    "example": {
     "en": "Is there a waterfall in the forest?",
-    "zh": "",
+    "zh": "森林里有瀑布吗？",
     "src": "textbook"
    }
   },
@@ -4135,7 +4135,7 @@
    ],
    "example": {
     "en": "Can you please pass me the fork?",
-    "zh": "",
+    "zh": "请把叉子递给我好吗？",
     "src": "textbook"
    }
   },
@@ -4150,7 +4150,7 @@
    ],
    "example": {
     "en": "I have one hundred and forty-six yuan.",
-    "zh": "",
+    "zh": "我有一百四十六元。",
     "src": "textbook"
    }
   },
@@ -4166,7 +4166,7 @@
    ],
    "example": {
     "en": "One head, four wings, six legs.",
-    "zh": "",
+    "zh": "一个头，四只翅膀，六条腿。",
     "src": "textbook"
    }
   },
@@ -4182,7 +4182,7 @@
    ],
    "example": {
     "en": "Add one, it's fourteen.",
-    "zh": "",
+    "zh": "加一，就是十四。",
     "src": "textbook"
    }
   },
@@ -4207,7 +4207,7 @@
    ],
    "example": {
     "en": "It's a fox.",
-    "zh": "",
+    "zh": "它是一只狐狸。",
     "src": "textbook"
    }
   },
@@ -4223,7 +4223,7 @@
    ],
    "example": {
     "en": "How do you usually spend your free time?",
-    "zh": "",
+    "zh": "你通常怎样度过空闲时间？",
     "src": "textbook"
    }
   },
@@ -4238,7 +4238,7 @@
    ],
    "example": {
     "en": "He cleans the classroom with his friends on Friday afternoons.",
-    "zh": "",
+    "zh": "他每周五下午和朋友们一起打扫教室。",
     "src": "textbook"
    }
   },
@@ -4253,7 +4253,7 @@
    ],
    "example": {
     "en": "How can we be a good friend?",
-    "zh": "",
+    "zh": "我们怎样才能成为好朋友？",
     "src": "textbook"
    },
    "emoji": "friend"
@@ -4269,7 +4269,7 @@
    ],
    "example": {
     "en": "Students from Canada and the USA.",
-    "zh": "",
+    "zh": "来自加拿大和美国的学生。",
     "src": "textbook"
    }
   },
@@ -4284,7 +4284,7 @@
    ],
    "example": {
     "en": "Max sat in a basket on the front of the bike.",
-    "zh": "",
+    "zh": "马克斯坐在自行车前面的篮子里。",
     "src": "textbook"
    }
   },
@@ -4299,7 +4299,7 @@
    ],
    "example": {
     "en": "Fruit and vegetables are colourful and healthy.",
-    "zh": "",
+    "zh": "水果和蔬菜色彩丰富又健康。",
     "src": "textbook"
    }
   },
@@ -4314,7 +4314,7 @@
    ],
    "example": {
     "en": "The boy is having fun in the snow.",
-    "zh": "",
+    "zh": "那个男孩在雪地里玩得很开心。",
     "src": "textbook"
    }
   },
@@ -4329,7 +4329,7 @@
    ],
    "example": {
     "en": "They have white fur now.",
-    "zh": "",
+    "zh": "它们现在有白色的毛。",
     "src": "textbook"
    }
   },
@@ -4344,7 +4344,7 @@
    ],
    "example": {
     "en": "We waited for the Spring Festival Gala.",
-    "zh": "",
+    "zh": "我们等着看春节联欢晚会。",
     "src": "textbook"
    }
   },
@@ -4359,8 +4359,8 @@
     "5B-U3"
    ],
    "example": {
-    "en": "Gym WHAT: You will play games.",
-    "zh": "",
+    "en": "In the gym you will play games.",
+    "zh": "在体育馆里你会玩游戏。",
     "src": "textbook"
    }
   },
@@ -4375,7 +4375,7 @@
    ],
    "example": {
     "en": "Share your paper garden in class.",
-    "zh": "",
+    "zh": "在课堂上分享你的纸花园。",
     "src": "textbook"
    }
   },
@@ -4390,7 +4390,7 @@
    ],
    "example": {
     "en": "My family and I often get together and have fun.",
-    "zh": "",
+    "zh": "我和家人经常聚在一起玩。",
     "src": "textbook"
    }
   },
@@ -4405,7 +4405,7 @@
    ],
    "example": {
     "en": "I get up early every morning.",
-    "zh": "",
+    "zh": "我每天早上起得很早。",
     "src": "textbook"
    }
   },
@@ -4421,7 +4421,7 @@
    ],
    "example": {
     "en": "Who did Sarah buy gifts for?",
-    "zh": "",
+    "zh": "萨拉给谁买了礼物？",
     "src": "textbook"
    }
   },
@@ -4436,7 +4436,7 @@
    ],
    "example": {
     "en": "I visited the \"Gingerbread House\" last Saturday.",
-    "zh": "",
+    "zh": "上周六我参观了“姜饼屋”。",
     "src": "textbook"
    }
   },
@@ -4451,7 +4451,7 @@
    ],
    "example": {
     "en": "The giraffe is tall!",
-    "zh": "",
+    "zh": "长颈鹿很高！",
     "src": "textbook"
    }
   },
@@ -4466,7 +4466,7 @@
    ],
    "example": {
     "en": "A boy from China, a girl from the UK.",
-    "zh": "",
+    "zh": "一个来自中国的男孩，一个来自英国的女孩。",
     "src": "textbook"
    }
   },
@@ -4481,7 +4481,7 @@
    ],
    "example": {
     "en": "Plants can give us many things.",
-    "zh": "",
+    "zh": "植物能给我们很多东西。",
     "src": "textbook"
    }
   },
@@ -4496,7 +4496,7 @@
    ],
    "example": {
     "en": "Miss White gave her a glass of water.",
-    "zh": "",
+    "zh": "怀特老师给了她一杯水。",
     "src": "textbook"
    }
   },
@@ -4511,7 +4511,7 @@
    ],
    "example": {
     "en": "Oh, where is my glove?",
-    "zh": "",
+    "zh": "哦，我的手套在哪儿？",
     "src": "textbook"
    }
   },
@@ -4527,7 +4527,7 @@
    ],
    "example": {
     "en": "I really want to go there!",
-    "zh": "",
+    "zh": "我真想去那里！",
     "src": "textbook"
    }
   },
@@ -4542,7 +4542,7 @@
    ],
    "example": {
     "en": "I thought it was too cold, and I couldn't go cycling.",
-    "zh": "",
+    "zh": "我觉得太冷了，没法去骑车。",
     "src": "textbook"
    }
   },
@@ -4567,7 +4567,7 @@
    ],
    "example": {
     "en": "Don't go hiking in bad weather!",
-    "zh": "",
+    "zh": "天气不好时不要去远足！",
     "src": "textbook"
    }
   },
@@ -4582,7 +4582,7 @@
    ],
    "example": {
     "en": "Time to go home, kids.",
-    "zh": "",
+    "zh": "孩子们，该回家了。",
     "src": "textbook"
    }
   },
@@ -4597,7 +4597,7 @@
    ],
    "example": {
     "en": "I often go on a picnic with my family.",
-    "zh": "",
+    "zh": "我常和家人去野餐。",
     "src": "textbook"
    }
   },
@@ -4612,7 +4612,7 @@
    ],
    "example": {
     "en": "I often go shopping with my mum.",
-    "zh": "",
+    "zh": "我常和妈妈一起去购物。",
     "src": "textbook"
    }
   },
@@ -4628,7 +4628,7 @@
    ],
    "example": {
     "en": "I often go swimming in the water.",
-    "zh": "",
+    "zh": "我常去水里游泳。",
     "src": "textbook"
    }
   },
@@ -4643,7 +4643,7 @@
    ],
    "example": {
     "en": "Can I go to bed late tonight?",
-    "zh": "",
+    "zh": "今晚我可以晚点睡吗？",
     "src": "textbook"
    }
   },
@@ -4658,7 +4658,7 @@
    ],
    "example": {
     "en": "It's time to go to school.",
-    "zh": "",
+    "zh": "该上学了。",
     "src": "textbook"
    }
   },
@@ -4673,7 +4673,7 @@
    ],
    "example": {
     "en": "How can we be a good friend?",
-    "zh": "",
+    "zh": "我们怎样才能成为好朋友？",
     "src": "textbook"
    }
   },
@@ -4688,7 +4688,7 @@
    ],
    "example": {
     "en": "Good job!",
-    "zh": "",
+    "zh": "干得好！",
     "src": "textbook"
    }
   },
@@ -4703,7 +4703,7 @@
    ],
    "example": {
     "en": "We use money to buy goods.",
-    "zh": "",
+    "zh": "我们用钱买东西。",
     "src": "textbook"
    }
   },
@@ -4728,7 +4728,7 @@
    ],
    "example": {
     "en": "This is my grandma.",
-    "zh": "",
+    "zh": "这是我的奶奶。",
     "src": "textbook"
    }
   },
@@ -4753,7 +4753,7 @@
    ],
    "example": {
     "en": "This is my grandpa.",
-    "zh": "",
+    "zh": "这是我的爷爷。",
     "src": "textbook"
    }
   },
@@ -4767,8 +4767,8 @@
     "5A-U3"
    ],
    "example": {
-    "en": "Ron usually visits his grandparents on .",
-    "zh": "",
+    "en": "Ron usually visits his grandparents on weekends.",
+    "zh": "罗恩通常周末去看望他的祖父母。",
     "src": "textbook"
    }
   },
@@ -4783,7 +4783,7 @@
    ],
    "example": {
     "en": "I see grapes.",
-    "zh": "",
+    "zh": "我看见葡萄了。",
     "src": "textbook"
    },
    "emoji": "grape"
@@ -4800,7 +4800,7 @@
    ],
    "example": {
     "en": "Purple flowers, green grass and blue sea.",
-    "zh": "",
+    "zh": "紫色的花、绿草和蓝色的大海。",
     "src": "textbook"
    },
    "emoji": "grass"
@@ -4816,7 +4816,7 @@
    ],
    "example": {
     "en": "Purple flowers, green grass and blue sea.",
-    "zh": "",
+    "zh": "紫色的花、绿草和蓝色的大海。",
     "src": "textbook"
    }
   },
@@ -4841,7 +4841,7 @@
    ],
    "example": {
     "en": "There was no gym either!",
-    "zh": "",
+    "zh": "那时也没有体育馆！",
     "src": "textbook"
    }
   },
@@ -4855,8 +4855,8 @@
     "5A-U4"
    ],
    "example": {
-    "en": "Good habit Good habit Mon.",
-    "zh": "",
+    "en": "Good habits are important.",
+    "zh": "好习惯很重要。",
     "src": "textbook"
    }
   },
@@ -4871,7 +4871,7 @@
    ],
    "example": {
     "en": "No, I had a cold.",
-    "zh": "",
+    "zh": "不，我感冒了。",
     "src": "textbook"
    }
   },
@@ -4886,7 +4886,7 @@
    ],
    "example": {
     "en": "No, I had a cold.",
-    "zh": "",
+    "zh": "不，我感冒了。",
     "src": "textbook"
    }
   },
@@ -4901,7 +4901,7 @@
    ],
    "example": {
     "en": "He has nice short hair too.",
-    "zh": "",
+    "zh": "他也有一头好看的短发。",
     "src": "textbook"
    }
   },
@@ -4916,7 +4916,7 @@
    ],
    "example": {
     "en": "How are you going to pay for your haircuts?",
-    "zh": "",
+    "zh": "你打算怎么付理发的钱？",
     "src": "textbook"
    }
   },
@@ -4941,7 +4941,7 @@
    ],
    "example": {
     "en": "That's the tallest dinosaur in this hall.",
-    "zh": "",
+    "zh": "那是这个大厅里最高的恐龙。",
     "src": "textbook"
    }
   },
@@ -4956,7 +4956,7 @@
    ],
    "example": {
     "en": "I'd like a hamburger and some ice cream.",
-    "zh": "",
+    "zh": "我想要一个汉堡和一些冰淇淋。",
     "src": "textbook"
    }
   },
@@ -4971,7 +4971,7 @@
    ],
    "example": {
     "en": "Wave your hand.",
-    "zh": "",
+    "zh": "挥挥你的手。",
     "src": "textbook"
    }
   },
@@ -4986,7 +4986,7 @@
    ],
    "example": {
     "en": "Some hand out the workbooks.",
-    "zh": "",
+    "zh": "一些人分发练习册。",
     "src": "textbook"
    }
   },
@@ -5001,7 +5001,7 @@
    ],
    "example": {
     "en": "We work hard and follow the rules.",
-    "zh": "",
+    "zh": "我们努力学习，遵守规则。",
     "src": "textbook"
    }
   },
@@ -5016,7 +5016,7 @@
    ],
    "example": {
     "en": "She is hard-working.",
-    "zh": "",
+    "zh": "她很勤奋。",
     "src": "textbook"
    }
   },
@@ -5031,7 +5031,7 @@
    ],
    "example": {
     "en": "It has a long tail and big ears.",
-    "zh": "",
+    "zh": "它有长长的尾巴和大大的耳朵。",
     "src": "textbook"
    }
   },
@@ -5046,7 +5046,7 @@
    ],
    "example": {
     "en": "Are the hats good for everyone?",
-    "zh": "",
+    "zh": "这些帽子适合每个人吗？",
     "src": "textbook"
    }
   },
@@ -5061,7 +5061,7 @@
    ],
    "example": {
     "en": "Sarah, you have a big family.",
-    "zh": "",
+    "zh": "萨拉，你有一个大家庭。",
     "src": "textbook"
    }
   },
@@ -5076,7 +5076,7 @@
    ],
    "example": {
     "en": "Because I have my taijiquan class!",
-    "zh": "",
+    "zh": "因为我有太极拳课！",
     "src": "textbook"
    }
   },
@@ -5091,7 +5091,7 @@
    ],
    "example": {
     "en": "Have a look.",
-    "zh": "",
+    "zh": "看一看吧。",
     "src": "textbook"
    }
   },
@@ -5106,7 +5106,7 @@
    ],
    "example": {
     "en": "We're having an English class.",
-    "zh": "",
+    "zh": "我们正在上英语课。",
     "src": "textbook"
    }
   },
@@ -5121,7 +5121,7 @@
    ],
    "example": {
     "en": "He is also my neighbour.",
-    "zh": "",
+    "zh": "他也是我的邻居。",
     "src": "textbook"
    }
   },
@@ -5136,7 +5136,7 @@
    ],
    "example": {
     "en": "My head hurts and I have a runny nose.",
-    "zh": "",
+    "zh": "我头疼，还流鼻涕。",
     "src": "textbook"
    }
   },
@@ -5151,7 +5151,7 @@
    ],
    "example": {
     "en": "Fruit and vegetables are colourful and healthy.",
-    "zh": "",
+    "zh": "水果和蔬菜色彩丰富又健康。",
     "src": "textbook"
    }
   },
@@ -5166,7 +5166,7 @@
    ],
    "example": {
     "en": "I see and hear in class.",
-    "zh": "",
+    "zh": "我在课堂上用眼睛看、用耳朵听。",
     "src": "textbook"
    }
   },
@@ -5181,7 +5181,7 @@
    ],
    "example": {
     "en": "We use green energy to light, heat and cool our homes and schools.",
-    "zh": "",
+    "zh": "我们用绿色能源来为我们的家和学校照明、取暖和降温。",
     "src": "textbook"
    }
   },
@@ -5196,7 +5196,7 @@
    ],
    "example": {
     "en": "But I think you are heavier.",
-    "zh": "",
+    "zh": "但我觉得你更重。",
     "src": "textbook"
    }
   },
@@ -5210,8 +5210,8 @@
     "5A-U6"
    ],
    "example": {
-    "en": "Sometimes there is heavy snow of fires.",
-    "zh": "",
+    "en": "Sometimes there is heavy snow or fires.",
+    "zh": "有时会有大雪或火灾。",
     "src": "textbook"
    }
   },
@@ -5226,7 +5226,7 @@
    ],
    "example": {
     "en": "We listen with care and help each other.",
-    "zh": "",
+    "zh": "我们用心倾听，互相帮助。",
     "src": "textbook"
    }
   },
@@ -5241,7 +5241,7 @@
    ],
    "example": {
     "en": "They are all helpful.",
-    "zh": "",
+    "zh": "他们都乐于助人。",
     "src": "textbook"
    }
   },
@@ -5256,7 +5256,7 @@
    ],
    "example": {
     "en": "Amy and her friend are talking about pets.",
-    "zh": "",
+    "zh": "艾米和她的朋友在谈论宠物。",
     "src": "textbook"
    }
   },
@@ -5271,7 +5271,7 @@
    ],
    "example": {
     "en": "The book is hers.",
-    "zh": "",
+    "zh": "这本书是她的。",
     "src": "textbook"
    }
   },
@@ -5286,7 +5286,7 @@
    ],
    "example": {
     "en": "Chen Jie grows them by herself.",
-    "zh": "",
+    "zh": "陈洁自己种它们。",
     "src": "textbook"
    }
   },
@@ -5301,7 +5301,7 @@
    ],
    "example": {
     "en": "Come and play with him!",
-    "zh": "",
+    "zh": "来和他一起玩吧！",
     "src": "textbook"
    }
   },
@@ -5317,7 +5317,7 @@
    ],
    "example": {
     "en": "His name is Zhang Peng.",
-    "zh": "",
+    "zh": "他的名字叫张鹏。",
     "src": "textbook"
    }
   },
@@ -5332,7 +5332,7 @@
    ],
    "example": {
     "en": "Do you have old things at home?",
-    "zh": "",
+    "zh": "你家里有旧东西吗？",
     "src": "textbook"
    }
   },
@@ -5347,7 +5347,7 @@
    ],
    "example": {
     "en": "You have to do your homework first.",
-    "zh": "",
+    "zh": "你得先做作业。",
     "src": "textbook"
    }
   },
@@ -5362,7 +5362,7 @@
    ],
    "example": {
     "en": "Mike visited the Hong Kong-Zhuhai-Macao Bridge.",
-    "zh": "",
+    "zh": "迈克参观了港珠澳大桥。",
     "src": "textbook"
    }
   },
@@ -5377,7 +5377,7 @@
    ],
    "example": {
     "en": "Cows, horses, sheep, pigs and chickens.",
-    "zh": "",
+    "zh": "奶牛、马、绵羊、猪和鸡。",
     "src": "textbook"
    },
    "emoji": "horse"
@@ -5393,7 +5393,7 @@
    ],
    "example": {
     "en": "The park or the hospital?",
-    "zh": "",
+    "zh": "公园还是医院？",
     "src": "textbook"
    },
    "emoji": "hospital"
@@ -5409,7 +5409,7 @@
    ],
    "example": {
     "en": "It's hot and sunny here.",
-    "zh": "",
+    "zh": "这里又热又晴朗。",
     "src": "textbook"
    },
    "emoji": "hot"
@@ -5426,7 +5426,7 @@
    ],
    "example": {
     "en": "Our weekend at your hotel was bad.",
-    "zh": "",
+    "zh": "我们在你们酒店的周末过得很糟。",
     "src": "textbook"
    }
   },
@@ -5441,7 +5441,7 @@
    ],
    "example": {
     "en": "How many hours do you sleep every day?",
-    "zh": "",
+    "zh": "你每天睡多少个小时？",
     "src": "textbook"
    }
   },
@@ -5456,7 +5456,7 @@
    ],
    "example": {
     "en": "And some people make houses with coconut tree leaves.",
-    "zh": "",
+    "zh": "有些人用椰子树叶盖房子。",
     "src": "textbook"
    },
    "emoji": "house"
@@ -5472,7 +5472,7 @@
    ],
    "example": {
     "en": "I have one hundred and forty-six yuan.",
-    "zh": "",
+    "zh": "我有一百四十六元。",
     "src": "textbook"
    }
   },
@@ -5487,7 +5487,7 @@
    ],
    "example": {
     "en": "Mum, I'm hungry.",
-    "zh": "",
+    "zh": "妈妈，我饿了。",
     "src": "textbook"
    }
   },
@@ -5502,7 +5502,7 @@
    ],
    "example": {
     "en": "Hurry up!",
-    "zh": "",
+    "zh": "快点！",
     "src": "textbook"
    }
   },
@@ -5517,7 +5517,7 @@
    ],
    "example": {
     "en": "John hurt his foot.",
-    "zh": "",
+    "zh": "约翰伤了他的脚。",
     "src": "textbook"
    }
   },
@@ -5532,7 +5532,7 @@
    ],
    "example": {
     "en": "Can I have some ice cream, please?",
-    "zh": "",
+    "zh": "我可以吃一些冰淇淋吗？",
     "src": "textbook"
    }
   },
@@ -5547,7 +5547,7 @@
    ],
    "example": {
     "en": "Now I love to ice-skate, so I like winter.",
-    "zh": "",
+    "zh": "现在我喜欢滑冰，所以我喜欢冬天。",
     "src": "textbook"
    }
   },
@@ -5562,7 +5562,7 @@
    ],
    "example": {
     "en": "That's a good idea!",
-    "zh": "",
+    "zh": "那是个好主意！",
     "src": "textbook"
    }
   },
@@ -5577,7 +5577,7 @@
    ],
    "example": {
     "en": "And if you don't feel well, you should see a doctor.",
-    "zh": "",
+    "zh": "如果你感觉不舒服，就应该去看医生。",
     "src": "textbook"
    }
   },
@@ -5592,7 +5592,7 @@
    ],
    "example": {
     "en": "How do we know we are ill?",
-    "zh": "",
+    "zh": "我们怎么知道自己生病了？",
     "src": "textbook"
    }
   },
@@ -5607,7 +5607,7 @@
    ],
    "example": {
     "en": "What jobs are important in a community?",
-    "zh": "",
+    "zh": "社区里哪些工作很重要？",
     "src": "textbook"
    }
   },
@@ -5622,7 +5622,7 @@
    ],
    "example": {
     "en": "What do you see in the box?",
-    "zh": "",
+    "zh": "你在盒子里看到了什么？",
     "src": "textbook"
    }
   },
@@ -5637,7 +5637,7 @@
    ],
    "example": {
     "en": "I see and hear in class.",
-    "zh": "",
+    "zh": "我在课堂上用眼睛看、用耳朵听。",
     "src": "textbook"
    }
   },
@@ -5652,7 +5652,7 @@
    ],
    "example": {
     "en": "The stories were really inspiring.",
-    "zh": "",
+    "zh": "那些故事真的很鼓舞人心。",
     "src": "textbook"
    }
   },
@@ -5667,7 +5667,7 @@
    ],
    "example": {
     "en": "That's interesting.",
-    "zh": "",
+    "zh": "那真有趣。",
     "src": "textbook"
    }
   },
@@ -5682,7 +5682,7 @@
    ],
    "example": {
     "en": "There were no computers or Internet in my time.",
-    "zh": "",
+    "zh": "我那个时代没有电脑，也没有互联网。",
     "src": "textbook"
    }
   },
@@ -5697,7 +5697,7 @@
    ],
    "example": {
     "en": "We can look into space with telescopes.",
-    "zh": "",
+    "zh": "我们可以用望远镜观察太空。",
     "src": "textbook"
    }
   },
@@ -5712,7 +5712,7 @@
    ],
    "example": {
     "en": "I live on an island.",
-    "zh": "",
+    "zh": "我住在一座岛上。",
     "src": "textbook"
    }
   },
@@ -5727,7 +5727,7 @@
    ],
    "example": {
     "en": "It's playing with its mother!",
-    "zh": "",
+    "zh": "它在和它的妈妈玩！",
     "src": "textbook"
    }
   },
@@ -5742,7 +5742,7 @@
    ],
    "example": {
     "en": "How much is the jacket?",
-    "zh": "",
+    "zh": "这件夹克多少钱？",
     "src": "textbook"
    }
   },
@@ -5757,7 +5757,7 @@
    ],
    "example": {
     "en": "My birthday is on January 1st.",
-    "zh": "",
+    "zh": "我的生日在1月1日。",
     "src": "textbook"
    }
   },
@@ -5772,7 +5772,7 @@
    ],
    "example": {
     "en": "Jar 3 is money to save.",
-    "zh": "",
+    "zh": "3号罐子是存钱用的。",
     "src": "textbook"
    }
   },
@@ -5787,7 +5787,7 @@
    ],
    "example": {
     "en": "My trip to the Jinggangshan Revolution Museum was amazing!",
-    "zh": "",
+    "zh": "我的井冈山革命博物馆之行太棒了！",
     "src": "textbook"
    }
   },
@@ -5802,7 +5802,7 @@
    ],
    "example": {
     "en": "What is the job of Chen Jie's father?",
-    "zh": "",
+    "zh": "陈洁的爸爸是做什么工作的？",
     "src": "textbook"
    }
   },
@@ -5817,7 +5817,7 @@
    ],
    "example": {
     "en": "The judge counted down and the race began!",
-    "zh": "",
+    "zh": "裁判倒数，比赛开始了！",
     "src": "textbook"
    }
   },
@@ -5832,7 +5832,7 @@
    ],
    "example": {
     "en": "I'd like some juice and noodles.",
-    "zh": "",
+    "zh": "我想要一些果汁和面条。",
     "src": "textbook"
    }
   },
@@ -5847,7 +5847,7 @@
    ],
    "example": {
     "en": "In July I'll visit my grandparents.",
-    "zh": "",
+    "zh": "七月我要去看望我的祖父母。",
     "src": "textbook"
    }
   },
@@ -5862,7 +5862,7 @@
    ],
    "example": {
     "en": "He can jump rope.",
-    "zh": "",
+    "zh": "他会跳绳。",
     "src": "textbook"
    },
    "emoji": "jump"
@@ -5878,7 +5878,7 @@
    ],
    "example": {
     "en": "Jumping rope is easy and fun.",
-    "zh": "",
+    "zh": "跳绳既简单又有趣。",
     "src": "textbook"
    }
   },
@@ -5893,7 +5893,7 @@
    ],
    "example": {
     "en": "It's usually in June.",
-    "zh": "",
+    "zh": "它通常在六月。",
     "src": "textbook"
    }
   },
@@ -5908,7 +5908,7 @@
    ],
    "example": {
     "en": "Just a minute.",
-    "zh": "",
+    "zh": "等一下。",
     "src": "textbook"
    }
   },
@@ -5924,7 +5924,7 @@
    ],
    "example": {
     "en": "Keep to the right, please.",
-    "zh": "",
+    "zh": "请靠右走。",
     "src": "textbook"
    }
   },
@@ -5939,7 +5939,7 @@
    ],
    "example": {
     "en": "Keep to the right, please.",
-    "zh": "",
+    "zh": "请靠右走。",
     "src": "textbook"
    }
   },
@@ -5954,7 +5954,7 @@
    ],
    "example": {
     "en": "Keep your desk clean!",
-    "zh": "",
+    "zh": "保持你的课桌干净！",
     "src": "textbook"
    }
   },
@@ -5969,7 +5969,7 @@
    ],
    "example": {
     "en": "Time to go home, kids.",
-    "zh": "",
+    "zh": "孩子们，该回家了。",
     "src": "textbook"
    }
   },
@@ -5984,7 +5984,7 @@
    ],
    "example": {
     "en": "I'm 48 kilograms.",
-    "zh": "",
+    "zh": "我48公斤。",
     "src": "textbook"
    }
   },
@@ -5999,7 +5999,7 @@
    ],
    "example": {
     "en": "It's about 21,000 kilometres long.",
-    "zh": "",
+    "zh": "它大约有两万一千公里长。",
     "src": "textbook"
    }
   },
@@ -6014,7 +6014,7 @@
    ],
    "example": {
     "en": "She's quiet and kind.",
-    "zh": "",
+    "zh": "她安静又善良。",
     "src": "textbook"
    }
   },
@@ -6029,7 +6029,7 @@
    ],
    "example": {
     "en": "Be careful in the kitchen.",
-    "zh": "",
+    "zh": "在厨房里要小心。",
     "src": "textbook"
    }
   },
@@ -6044,7 +6044,7 @@
    ],
    "example": {
     "en": "I fly a kite and I play.",
-    "zh": "",
+    "zh": "我放风筝，还玩耍。",
     "src": "textbook"
    }
   },
@@ -6059,7 +6059,7 @@
    ],
    "example": {
     "en": "Now write two sentences about the kittens.",
-    "zh": "",
+    "zh": "现在写两句话描述这些小猫。",
     "src": "textbook"
    }
   },
@@ -6084,7 +6084,7 @@
    ],
    "example": {
     "en": "They need to know where you are.",
-    "zh": "",
+    "zh": "他们需要知道你在哪里。",
     "src": "textbook"
    }
   },
@@ -6099,7 +6099,7 @@
    ],
    "example": {
     "en": "It's Labour Day.",
-    "zh": "",
+    "zh": "是劳动节。",
     "src": "textbook"
    }
   },
@@ -6114,7 +6114,7 @@
    ],
    "example": {
     "en": "It's Labour Day.",
-    "zh": "",
+    "zh": "是劳动节。",
     "src": "textbook"
    }
   },
@@ -6128,8 +6128,8 @@
     "5A-U5"
    ],
    "example": {
-    "en": "Lotus plants grow and eat them in different in lakes around the world.",
-    "zh": "",
+    "en": "Lotus plants grow in lakes around the world.",
+    "zh": "莲藕植物生长在世界各地的湖泊里。",
     "src": "textbook"
    }
   },
@@ -6144,7 +6144,7 @@
    ],
    "example": {
     "en": "My mother wanted to read a book but the lamp was too small.",
-    "zh": "",
+    "zh": "我妈妈想看书，但灯太暗了。",
     "src": "textbook"
    }
   },
@@ -6158,8 +6158,8 @@
     "4B-U4"
    ],
    "example": {
-    "en": "Hats: Large (L) size only, ten Large (L) size only, ten yuan!",
-    "zh": "",
+    "en": "Hats: Large (L) size only, ten yuan!",
+    "zh": "帽子：只有大号（L），十元！",
     "src": "textbook"
    }
   },
@@ -6175,7 +6175,7 @@
    ],
    "example": {
     "en": "What did Mike's grandpa do last weekend?",
-    "zh": "",
+    "zh": "迈克的爷爷上周末做了什么？",
     "src": "textbook"
    }
   },
@@ -6191,7 +6191,7 @@
    ],
    "example": {
     "en": "Don't be late or eat in class.",
-    "zh": "",
+    "zh": "不要迟到，也不要在课堂上吃东西。",
     "src": "textbook"
    }
   },
@@ -6206,7 +6206,7 @@
    ],
    "example": {
     "en": "My mum and I went later and waited for the race.",
-    "zh": "",
+    "zh": "我和妈妈后来才去，等着看比赛。",
     "src": "textbook"
    }
   },
@@ -6221,7 +6221,7 @@
    ],
    "example": {
     "en": "We laugh and study together all day.",
-    "zh": "",
+    "zh": "我们整天一起欢笑、一起学习。",
     "src": "textbook"
    }
   },
@@ -6236,7 +6236,7 @@
    ],
    "example": {
     "en": "We laughed and laughed.",
-    "zh": "",
+    "zh": "我们笑了又笑。",
     "src": "textbook"
    }
   },
@@ -6262,7 +6262,7 @@
    ],
    "example": {
     "en": "What tools do we need to learn?",
-    "zh": "",
+    "zh": "学习需要什么工具？",
     "src": "textbook"
    }
   },
@@ -6277,7 +6277,7 @@
    ],
    "example": {
     "en": "It has a long body and short legs.",
-    "zh": "",
+    "zh": "它有长长的身体和短短的腿。",
     "src": "textbook"
    }
   },
@@ -6292,7 +6292,7 @@
    ],
    "example": {
     "en": "You should eat less candy.",
-    "zh": "",
+    "zh": "你应该少吃糖。",
     "src": "textbook"
    }
   },
@@ -6307,7 +6307,7 @@
    ],
    "example": {
     "en": "She has pipa lessons on Sunday mornings.",
-    "zh": "",
+    "zh": "她每周日上午上琵琶课。",
     "src": "textbook"
    }
   },
@@ -6322,7 +6322,7 @@
    ],
    "example": {
     "en": "Here is a letter from him.",
-    "zh": "",
+    "zh": "这里有一封他写的信。",
     "src": "textbook"
    }
   },
@@ -6337,7 +6337,7 @@
    ],
    "example": {
     "en": "This is a library.",
-    "zh": "",
+    "zh": "这是一座图书馆。",
     "src": "textbook"
    },
    "emoji": "library"
@@ -6353,7 +6353,7 @@
    ],
    "example": {
     "en": "He jumped on him and licked him.",
-    "zh": "",
+    "zh": "它跳到他身上舔他。",
     "src": "textbook"
    }
   },
@@ -6369,7 +6369,7 @@
    ],
    "example": {
     "en": "The bee is on the light!",
-    "zh": "",
+    "zh": "蜜蜂在灯上！",
     "src": "textbook"
    }
   },
@@ -6385,7 +6385,7 @@
    ],
    "example": {
     "en": "Run, run, run like a dog.",
-    "zh": "",
+    "zh": "跑呀跑，像小狗一样奔跑。",
     "src": "textbook"
    }
   },
@@ -6400,7 +6400,7 @@
    ],
    "example": {
     "en": "The lion is fast!",
-    "zh": "",
+    "zh": "狮子跑得很快！",
     "src": "textbook"
    },
    "emoji": "lion"
@@ -6416,7 +6416,7 @@
    ],
    "example": {
     "en": "Dear Mike, Here's your shopping list.",
-    "zh": "",
+    "zh": "亲爱的迈克，这是你的购物清单。",
     "src": "textbook"
    }
   },
@@ -6431,7 +6431,7 @@
    ],
    "example": {
     "en": "We listen with care and help each other.",
-    "zh": "",
+    "zh": "我们用心倾听，互相帮助。",
     "src": "textbook"
    }
   },
@@ -6446,7 +6446,7 @@
    ],
    "example": {
     "en": "She's listening to music in the classroom.",
-    "zh": "",
+    "zh": "她正在教室里听音乐。",
     "src": "textbook"
    }
   },
@@ -6461,7 +6461,7 @@
    ],
    "example": {
     "en": "Yes, but just a little.",
-    "zh": "",
+    "zh": "可以，但只能一点点。",
     "src": "textbook"
    }
   },
@@ -6476,7 +6476,7 @@
    ],
    "example": {
     "en": "I live on an island.",
-    "zh": "",
+    "zh": "我住在一座岛上。",
     "src": "textbook"
    }
   },
@@ -6491,7 +6491,7 @@
    ],
    "example": {
     "en": "Don't run in the living room.",
-    "zh": "",
+    "zh": "不要在客厅里跑。",
     "src": "textbook"
    }
   },
@@ -6506,7 +6506,7 @@
    ],
    "example": {
     "en": "It has a long tail and big ears.",
-    "zh": "",
+    "zh": "它有长长的尾巴和大大的耳朵。",
     "src": "textbook"
    }
   },
@@ -6521,7 +6521,7 @@
    ],
    "example": {
     "en": "When is the duck's shadow longer?",
-    "zh": "",
+    "zh": "鸭子的影子什么时候更长？",
     "src": "textbook"
    }
   },
@@ -6536,7 +6536,7 @@
    ],
    "example": {
     "en": "I can look after my baby sister too!",
-    "zh": "",
+    "zh": "我也会照顾我的小妹妹！",
     "src": "textbook"
    }
   },
@@ -6561,7 +6561,7 @@
    ],
    "example": {
     "en": "What can people do with lotus leaves?",
-    "zh": "",
+    "zh": "人们能用荷叶做什么？",
     "src": "textbook"
    }
   },
@@ -6577,7 +6577,7 @@
    ],
    "example": {
     "en": "The people in Room 301 listened to loud music.",
-    "zh": "",
+    "zh": "301房间的人听着吵闹的音乐。",
     "src": "textbook"
    }
   },
@@ -6592,7 +6592,7 @@
    ],
    "example": {
     "en": "But I love him, don't you know?",
-    "zh": "",
+    "zh": "但我爱他，你不知道吗？",
     "src": "textbook"
    }
   },
@@ -6608,7 +6608,7 @@
    ],
    "example": {
     "en": "Grace is so lovely and friendly.",
-    "zh": "",
+    "zh": "格雷斯非常可爱又友好。",
     "src": "textbook"
    }
   },
@@ -6623,7 +6623,7 @@
    ],
    "example": {
     "en": "It is getting lower and grows longer because you are growing taller.",
-    "zh": "",
+    "zh": "它越来越低，还变得越来越长，因为你在长高。",
     "src": "textbook"
    }
   },
@@ -6638,7 +6638,7 @@
    ],
    "example": {
     "en": "What are you going to buy with your lucky money?",
-    "zh": "",
+    "zh": "你打算用你的压岁钱买什么？",
     "src": "textbook"
    }
   },
@@ -6653,7 +6653,7 @@
    ],
    "example": {
     "en": "It's time for lunch.",
-    "zh": "",
+    "zh": "午饭时间到了。",
     "src": "textbook"
    }
   },
@@ -6668,7 +6668,7 @@
    ],
    "example": {
     "en": "He read a new film magazine.",
-    "zh": "",
+    "zh": "他读了一本新的电影杂志。",
     "src": "textbook"
    }
   },
@@ -6684,7 +6684,7 @@
    ],
    "example": {
     "en": "Did you make cards for our teachers?",
-    "zh": "",
+    "zh": "你给我们的老师做卡片了吗？",
     "src": "textbook"
    }
   },
@@ -6699,7 +6699,7 @@
    ],
    "example": {
     "en": "I make a snowman and I play.",
-    "zh": "",
+    "zh": "我堆雪人，还玩耍。",
     "src": "textbook"
    }
   },
@@ -6724,7 +6724,7 @@
    ],
    "example": {
     "en": "The man is my neighbour.",
-    "zh": "",
+    "zh": "那个男人是我的邻居。",
     "src": "textbook"
    }
   },
@@ -6739,7 +6739,7 @@
    ],
    "example": {
     "en": "How does Chen Jie manage her money?",
-    "zh": "",
+    "zh": "陈洁怎样管理她的钱？",
     "src": "textbook"
    }
   },
@@ -6754,7 +6754,7 @@
    ],
    "example": {
     "en": "Put your old map on the wall.",
-    "zh": "",
+    "zh": "把你的旧地图挂在墙上。",
     "src": "textbook"
    }
   },
@@ -6769,7 +6769,7 @@
    ],
    "example": {
     "en": "People from different places ran a marathon.",
-    "zh": "",
+    "zh": "来自不同地方的人们跑了一场马拉松。",
     "src": "textbook"
    }
   },
@@ -6784,7 +6784,7 @@
    ],
    "example": {
     "en": "It looks like a big blue marble.",
-    "zh": "",
+    "zh": "它看起来像一颗巨大的蓝色弹珠。",
     "src": "textbook"
    }
   },
@@ -6799,7 +6799,7 @@
    ],
    "example": {
     "en": "Please send an email by March 23rd.",
-    "zh": "",
+    "zh": "请在3月23日前发一封电子邮件。",
     "src": "textbook"
    }
   },
@@ -6824,7 +6824,7 @@
    ],
    "example": {
     "en": "I really want to travel to Mars.",
-    "zh": "",
+    "zh": "我真想去火星旅行。",
     "src": "textbook"
    }
   },
@@ -6839,7 +6839,7 @@
    ],
    "example": {
     "en": "It's time for maths class.",
-    "zh": "",
+    "zh": "数学课时间到了。",
     "src": "textbook"
    }
   },
@@ -6854,7 +6854,7 @@
    ],
    "example": {
     "en": "What's the matter?",
-    "zh": "",
+    "zh": "怎么了？",
     "src": "textbook"
    }
   },
@@ -6870,7 +6870,7 @@
    ],
    "example": {
     "en": "Is the singing contest in May, too?",
-    "zh": "",
+    "zh": "歌唱比赛也在五月吗？",
     "src": "textbook"
    }
   },
@@ -6885,7 +6885,7 @@
    ],
    "example": {
     "en": "They can play with me.",
-    "zh": "",
+    "zh": "它们可以和我一起玩。",
     "src": "textbook"
    }
   },
@@ -6900,7 +6900,7 @@
    ],
    "example": {
     "en": "Meat, milk and eggs are good too.",
-    "zh": "",
+    "zh": "肉、牛奶和鸡蛋也很好。",
     "src": "textbook"
    }
   },
@@ -6915,7 +6915,7 @@
    ],
    "example": {
     "en": "Please come to the sports meet next Friday.",
-    "zh": "",
+    "zh": "请下周五来参加运动会。",
     "src": "textbook"
    }
   },
@@ -6930,7 +6930,7 @@
    ],
    "example": {
     "en": "I'm 21 metres tall.",
-    "zh": "",
+    "zh": "我有21米高。",
     "src": "textbook"
    }
   },
@@ -6945,7 +6945,7 @@
    ],
    "example": {
     "en": "I also want to buy a microscope.",
-    "zh": "",
+    "zh": "我还想买一台显微镜。",
     "src": "textbook"
    }
   },
@@ -6961,7 +6961,7 @@
    ],
    "example": {
     "en": "Meat, milk and eggs are good too.",
-    "zh": "",
+    "zh": "肉、牛奶和鸡蛋也很好。",
     "src": "textbook"
    },
    "emoji": "milk"
@@ -6978,7 +6978,7 @@
    ],
    "example": {
     "en": "The yellow picture is mine.",
-    "zh": "",
+    "zh": "那幅黄色的画是我的。",
     "src": "textbook"
    }
   },
@@ -6993,7 +6993,7 @@
    ],
    "example": {
     "en": "Just a minute.",
-    "zh": "",
+    "zh": "等一下。",
     "src": "textbook"
    }
   },
@@ -7008,7 +7008,7 @@
    ],
    "example": {
     "en": "Miss White, what's that?",
-    "zh": "",
+    "zh": "怀特老师，那是什么？",
     "src": "textbook"
    }
   },
@@ -7023,7 +7023,7 @@
    ],
    "example": {
     "en": "It is Monday night.",
-    "zh": "",
+    "zh": "今天是周一晚上。",
     "src": "textbook"
    }
   },
@@ -7038,7 +7038,7 @@
    ],
    "example": {
     "en": "Mum is giving Matt his pocket money.",
-    "zh": "",
+    "zh": "妈妈正在给马特他的零花钱。",
     "src": "textbook"
    }
   },
@@ -7053,7 +7053,7 @@
    ],
    "example": {
     "en": "This is a monkey.",
-    "zh": "",
+    "zh": "这是一只猴子。",
     "src": "textbook"
    },
    "emoji": "monkey"
@@ -7068,8 +7068,8 @@
     "6A-U5"
    ],
    "example": {
-    "en": "Some work on a for months.",
-    "zh": "",
+    "en": "Some work on a space station for months.",
+    "zh": "有些人在空间站上工作好几个月。",
     "src": "textbook"
    }
   },
@@ -7084,7 +7084,7 @@
    ],
    "example": {
     "en": "Are there any footprints on the Moon?",
-    "zh": "",
+    "zh": "月球上有脚印吗？",
     "src": "textbook"
    },
    "emoji": "moon"
@@ -7100,7 +7100,7 @@
    ],
    "example": {
     "en": "We are a family, A happy family, My father, my mother, My sister and me!",
-    "zh": "",
+    "zh": "我们是一家人，快乐的一家人，有爸爸、妈妈、妹妹和我！",
     "src": "textbook"
    },
    "emoji": "mother"
@@ -7116,7 +7116,7 @@
    ],
    "example": {
     "en": "There is a lake in the mountains.",
-    "zh": "",
+    "zh": "山里有一个湖。",
     "src": "textbook"
    }
   },
@@ -7131,7 +7131,7 @@
    ],
    "example": {
     "en": "A mouse!",
-    "zh": "",
+    "zh": "一只老鼠！",
     "src": "textbook"
    }
   },
@@ -7146,7 +7146,7 @@
    ],
    "example": {
     "en": "Point to your mouth.",
-    "zh": "",
+    "zh": "指指你的嘴巴。",
     "src": "textbook"
    }
   },
@@ -7161,7 +7161,7 @@
    ],
    "example": {
     "en": "But my family just moved to a new home.",
-    "zh": "",
+    "zh": "但我家刚搬到了新家。",
     "src": "textbook"
    }
   },
@@ -7176,7 +7176,7 @@
    ],
    "example": {
     "en": "That's my new neighbour, Mr Lin.",
-    "zh": "",
+    "zh": "那是我的新邻居，林先生。",
     "src": "textbook"
    }
   },
@@ -7191,7 +7191,7 @@
    ],
    "example": {
     "en": "Mrs Green is talking with the children.",
-    "zh": "",
+    "zh": "格林夫人正在和孩子们谈话。",
     "src": "textbook"
    }
   },
@@ -7206,7 +7206,7 @@
    ],
    "example": {
     "en": "Amy is drawing a picture of Ms Xu.",
-    "zh": "",
+    "zh": "艾米正在画徐老师的画像。",
     "src": "textbook"
    }
   },
@@ -7221,7 +7221,7 @@
    ],
    "example": {
     "en": "A smile can say so much!",
-    "zh": "",
+    "zh": "一个微笑能表达很多！",
     "src": "textbook"
    }
   },
@@ -7236,7 +7236,7 @@
    ],
    "example": {
     "en": "It looks like a mule!",
-    "zh": "",
+    "zh": "它看起来像一头骡子！",
     "src": "textbook"
    }
   },
@@ -7251,7 +7251,7 @@
    ],
    "example": {
     "en": "This is my mum.",
-    "zh": "",
+    "zh": "这是我的妈妈。",
     "src": "textbook"
    }
   },
@@ -7266,7 +7266,7 @@
    ],
    "example": {
     "en": "The music room is nice and clean.",
-    "zh": "",
+    "zh": "音乐教室又漂亮又干净。",
     "src": "textbook"
    }
   },
@@ -7281,7 +7281,7 @@
    ],
    "example": {
     "en": "My name is Wu Binbin.",
-    "zh": "",
+    "zh": "我的名字叫吴斌斌。",
     "src": "textbook"
    }
   },
@@ -7296,7 +7296,7 @@
    ],
    "example": {
     "en": "National Day?",
-    "zh": "",
+    "zh": "国庆节？",
     "src": "textbook"
    }
   },
@@ -7311,7 +7311,7 @@
    ],
    "example": {
     "en": "National Day?",
-    "zh": "",
+    "zh": "国庆节？",
     "src": "textbook"
    }
   },
@@ -7326,7 +7326,7 @@
    ],
    "example": {
     "en": "Mike's family are in a nature park.",
-    "zh": "",
+    "zh": "迈克一家在自然公园里。",
     "src": "textbook"
    }
   },
@@ -7342,7 +7342,7 @@
    ],
    "example": {
     "en": "You need a robot to help you!",
-    "zh": "",
+    "zh": "你需要一个机器人来帮你！",
     "src": "textbook"
    }
   },
@@ -7357,7 +7357,7 @@
    ],
    "example": {
     "en": "The man is my neighbour.",
-    "zh": "",
+    "zh": "那个男人是我的邻居。",
     "src": "textbook"
    }
   },
@@ -7372,7 +7372,7 @@
    ],
    "example": {
     "en": "We can plant new trees.",
-    "zh": "",
+    "zh": "我们可以种下新的树。",
     "src": "textbook"
    }
   },
@@ -7387,7 +7387,7 @@
    ],
    "example": {
     "en": "It's a beautiful train station in New Zealand.",
-    "zh": "",
+    "zh": "那是新西兰一座漂亮的火车站。",
     "src": "textbook"
    }
   },
@@ -7402,7 +7402,7 @@
    ],
    "example": {
     "en": "Some of us make wall newspapers.",
-    "zh": "",
+    "zh": "我们中的一些人制作墙报。",
     "src": "textbook"
    }
   },
@@ -7417,7 +7417,7 @@
    ],
    "example": {
     "en": "I am nice to my friends.",
-    "zh": "",
+    "zh": "我对朋友们很友好。",
     "src": "textbook"
    }
   },
@@ -7432,7 +7432,7 @@
    ],
    "example": {
     "en": "One night, a baker makes some pies.",
-    "zh": "",
+    "zh": "一天晚上，一位面包师做了一些馅饼。",
     "src": "textbook"
    }
   },
@@ -7448,7 +7448,7 @@
    ],
    "example": {
     "en": "Nine o'clock.",
-    "zh": "",
+    "zh": "九点钟。",
     "src": "textbook"
    }
   },
@@ -7464,7 +7464,7 @@
    ],
    "example": {
     "en": "Nineteen minutes, tick.",
-    "zh": "",
+    "zh": "十九分钟，打勾。",
     "src": "textbook"
    }
   },
@@ -7489,7 +7489,7 @@
    ],
    "example": {
     "en": "They make noises when they are hungry.",
-    "zh": "",
+    "zh": "它们饿了就会发出声音。",
     "src": "textbook"
    }
   },
@@ -7504,7 +7504,7 @@
    ],
    "example": {
     "en": "I'd like some juice and noodles.",
-    "zh": "",
+    "zh": "我想要一些果汁和面条。",
     "src": "textbook"
    }
   },
@@ -7519,7 +7519,7 @@
    ],
    "example": {
     "en": "I smell with my nose.",
-    "zh": "",
+    "zh": "我用鼻子闻。",
     "src": "textbook"
    }
   },
@@ -7534,7 +7534,7 @@
    ],
    "example": {
     "en": "There was nothing he could do.",
-    "zh": "",
+    "zh": "他什么也做不了。",
     "src": "textbook"
    }
   },
@@ -7549,7 +7549,7 @@
    ],
    "example": {
     "en": "The notice about the dragon boat race finally came out last Friday.",
-    "zh": "",
+    "zh": "关于龙舟比赛的通知上周五终于出来了。",
     "src": "textbook"
    }
   },
@@ -7564,7 +7564,7 @@
    ],
    "example": {
     "en": "It's on November 2nd.",
-    "zh": "",
+    "zh": "它在11月2日。",
     "src": "textbook"
    }
   },
@@ -7579,7 +7579,7 @@
    ],
    "example": {
     "en": "She is cooking our lunch now.",
-    "zh": "",
+    "zh": "她现在正在做我们的午饭。",
     "src": "textbook"
    }
   },
@@ -7594,7 +7594,7 @@
    ],
    "example": {
     "en": "You are a great nurse.",
-    "zh": "",
+    "zh": "你是一位很棒的护士。",
     "src": "textbook"
    }
   },
@@ -7609,7 +7609,7 @@
    ],
    "example": {
     "en": "It's seven o'clock.",
-    "zh": "",
+    "zh": "七点钟了。",
     "src": "textbook"
    }
   },
@@ -7624,7 +7624,7 @@
    ],
    "example": {
     "en": "We can see mountains, oceans and clouds.",
-    "zh": "",
+    "zh": "我们能看到山脉、海洋和云。",
     "src": "textbook"
    }
   },
@@ -7639,7 +7639,7 @@
    ],
    "example": {
     "en": "It's usually in September or October.",
-    "zh": "",
+    "zh": "它通常在九月或十月。",
     "src": "textbook"
    }
   },
@@ -7654,7 +7654,7 @@
    ],
    "example": {
     "en": "I fell off my bike last Saturday and hurt my foot.",
-    "zh": "",
+    "zh": "上周六我从自行车上摔下来，伤了我的脚。",
     "src": "textbook"
    }
   },
@@ -7680,7 +7680,7 @@
    ],
    "example": {
     "en": "We often help children and old people.",
-    "zh": "",
+    "zh": "我们经常帮助孩子和老人。",
     "src": "textbook"
    }
   },
@@ -7695,7 +7695,7 @@
    ],
    "example": {
     "en": "You are older and smarter than me.",
-    "zh": "",
+    "zh": "你比我大，也比我聪明。",
     "src": "textbook"
    }
   },
@@ -7710,7 +7710,7 @@
    ],
    "example": {
     "en": "Put your old map on the wall.",
-    "zh": "",
+    "zh": "把你的旧地图挂在墙上。",
     "src": "textbook"
    }
   },
@@ -7726,7 +7726,7 @@
    ],
    "example": {
     "en": "Oh, one more cut for the dog.",
-    "zh": "",
+    "zh": "哦，再给狗切一刀。",
     "src": "textbook"
    }
   },
@@ -7741,7 +7741,7 @@
    ],
    "example": {
     "en": "Their eyes are open on April 26th.",
-    "zh": "",
+    "zh": "它们的眼睛在4月26日睁开。",
     "src": "textbook"
    }
   },
@@ -7756,7 +7756,7 @@
    ],
    "example": {
     "en": "We draw pictures or make cards.",
-    "zh": "",
+    "zh": "我们画画或做卡片。",
     "src": "textbook"
    }
   },
@@ -7772,7 +7772,7 @@
    ],
    "example": {
     "en": "Orange and red, jump up and down.",
-    "zh": "",
+    "zh": "橙色和红色，跳上跳下。",
     "src": "textbook"
    },
    "emoji": "orange"
@@ -7788,7 +7788,7 @@
    ],
    "example": {
     "en": "There are some other special days in May.",
-    "zh": "",
+    "zh": "五月还有一些别的特殊日子。",
     "src": "textbook"
    }
   },
@@ -7803,7 +7803,7 @@
    ],
    "example": {
     "en": "Are these all ours?",
-    "zh": "",
+    "zh": "这些都是我们的吗？",
     "src": "textbook"
    }
   },
@@ -7818,7 +7818,7 @@
    ],
    "example": {
     "en": "But what can we see from outer space?",
-    "zh": "",
+    "zh": "但从外太空我们能看到什么？",
     "src": "textbook"
    }
   },
@@ -7834,7 +7834,7 @@
    ],
    "example": {
     "en": "There is also a nice park over there.",
-    "zh": "",
+    "zh": "那边还有一个漂亮的公园。",
     "src": "textbook"
    }
   },
@@ -7849,7 +7849,7 @@
    ],
    "example": {
     "en": "I can write my own travel review.",
-    "zh": "",
+    "zh": "我会写我自己的旅行评论。",
     "src": "textbook"
    }
   },
@@ -7864,7 +7864,7 @@
    ],
    "example": {
     "en": "April 12th, 7 p.m.",
-    "zh": "",
+    "zh": "4月12日晚上7点。",
     "src": "textbook"
    }
   },
@@ -7879,7 +7879,7 @@
    ],
    "example": {
     "en": "I want to paint a picture, too!",
-    "zh": "",
+    "zh": "我也想画一幅画！",
     "src": "textbook"
    }
   },
@@ -7894,7 +7894,7 @@
    ],
    "example": {
     "en": "Sunglasses Buy a nice and cheap pair.",
-    "zh": "",
+    "zh": "买一副又好又便宜的。",
     "src": "textbook"
    }
   },
@@ -7909,7 +7909,7 @@
    ],
    "example": {
     "en": "It's a panda.",
-    "zh": "",
+    "zh": "它是一只熊猫。",
     "src": "textbook"
    },
    "emoji": "panda"
@@ -7925,7 +7925,7 @@
    ],
    "example": {
     "en": "We draw maps with pencils and paper.",
-    "zh": "",
+    "zh": "我们用铅笔和纸画地图。",
     "src": "textbook"
    }
   },
@@ -7940,7 +7940,7 @@
    ],
    "example": {
     "en": "I don't want to tell my parents.",
-    "zh": "",
+    "zh": "我不想告诉我的父母。",
     "src": "textbook"
    }
   },
@@ -7955,7 +7955,7 @@
    ],
    "example": {
     "en": "Liu Jia's family travelled to Paris and visited the Eiffel Tower.",
-    "zh": "",
+    "zh": "刘佳一家去巴黎旅行，参观了埃菲尔铁塔。",
     "src": "textbook"
    }
   },
@@ -7970,7 +7970,7 @@
    ],
    "example": {
     "en": "The museum is in a nice park.",
-    "zh": "",
+    "zh": "博物馆在一个漂亮的公园里。",
     "src": "textbook"
    },
    "emoji": "park"
@@ -7986,7 +7986,7 @@
    ],
    "example": {
     "en": "Robin played the part of a dog.",
-    "zh": "",
+    "zh": "罗宾扮演了一只狗。",
     "src": "textbook"
    }
   },
@@ -8001,7 +8001,7 @@
    ],
    "example": {
     "en": "Can you please pass me the vegetables?",
-    "zh": "",
+    "zh": "请把蔬菜递给我好吗？",
     "src": "textbook"
    }
   },
@@ -8016,7 +8016,7 @@
    ],
    "example": {
     "en": "We can paste fu and eat jiaozi together.",
-    "zh": "",
+    "zh": "我们可以一起贴“福”字、吃饺子。",
     "src": "textbook"
    }
   },
@@ -8031,7 +8031,7 @@
    ],
    "example": {
     "en": "I pay fifteen yuan for five books.",
-    "zh": "",
+    "zh": "我花十五元买五本书。",
     "src": "textbook"
    }
   },
@@ -8046,7 +8046,7 @@
    ],
    "example": {
     "en": "He's a PE teacher.",
-    "zh": "",
+    "zh": "他是一名体育老师。",
     "src": "textbook"
    }
   },
@@ -8061,7 +8061,7 @@
    ],
    "example": {
     "en": "Put the pen in your pencil box.",
-    "zh": "",
+    "zh": "把钢笔放进你的铅笔盒里。",
     "src": "textbook"
    },
    "emoji": "pen"
@@ -8077,7 +8077,7 @@
    ],
    "example": {
     "en": "Put the pen in your pencil box.",
-    "zh": "",
+    "zh": "把钢笔放进你的铅笔盒里。",
     "src": "textbook"
    },
    "emoji": "pencil"
@@ -8093,7 +8093,7 @@
    ],
    "example": {
     "en": "I can ask about people's jobs.",
-    "zh": "",
+    "zh": "我会询问人们的工作。",
     "src": "textbook"
    }
   },
@@ -8108,7 +8108,7 @@
    ],
    "example": {
     "en": "Do you have a pet?",
-    "zh": "",
+    "zh": "你有宠物吗？",
     "src": "textbook"
    }
   },
@@ -8123,7 +8123,7 @@
    ],
    "example": {
     "en": "You shouldn't check your phone so often.",
-    "zh": "",
+    "zh": "你不应该这么频繁地看手机。",
     "src": "textbook"
    }
   },
@@ -8138,7 +8138,7 @@
    ],
    "example": {
     "en": "There are many old things and photos.",
-    "zh": "",
+    "zh": "那里有很多旧东西和照片。",
     "src": "textbook"
    }
   },
@@ -8153,7 +8153,7 @@
    ],
    "example": {
     "en": "He can play the piano and the pipa!",
-    "zh": "",
+    "zh": "他会弹钢琴和琵琶！",
     "src": "textbook"
    }
   },
@@ -8168,8 +8168,8 @@
     "5B-U2"
    ],
    "example": {
-    "en": "Pick the Pick the tomatoes.",
-    "zh": "",
+    "en": "Pick the tomatoes.",
+    "zh": "摘西红柿。",
     "src": "textbook"
    }
   },
@@ -8194,7 +8194,7 @@
    ],
    "example": {
     "en": "I often go on a picnic with my family.",
-    "zh": "",
+    "zh": "我常和家人去野餐。",
     "src": "textbook"
    }
   },
@@ -8209,7 +8209,7 @@
    ],
    "example": {
     "en": "Draw a picture.",
-    "zh": "",
+    "zh": "画一幅画。",
     "src": "textbook"
    }
   },
@@ -8224,7 +8224,7 @@
    ],
    "example": {
     "en": "Cows, horses, sheep, pigs and chickens.",
-    "zh": "",
+    "zh": "奶牛、马、绵羊、猪和鸡。",
     "src": "textbook"
    },
    "emoji": "pig"
@@ -8240,7 +8240,7 @@
    ],
    "example": {
     "en": "I put them in my piggy bank.",
-    "zh": "",
+    "zh": "我把它们放进我的存钱罐。",
     "src": "textbook"
    }
   },
@@ -8255,7 +8255,7 @@
    ],
    "example": {
     "en": "Dear Miss White, I play ping-pong with Binbin on Mondays and Thursdays.",
-    "zh": "",
+    "zh": "亲爱的怀特老师，我每周一和周四和斌斌打乒乓球。",
     "src": "textbook"
    }
   },
@@ -8271,7 +8271,7 @@
    ],
    "example": {
     "en": "Pink and red, touch the ground.",
-    "zh": "",
+    "zh": "粉色和红色，摸摸地面。",
     "src": "textbook"
    }
   },
@@ -8286,7 +8286,7 @@
    ],
    "example": {
     "en": "It's a place for us all!",
-    "zh": "",
+    "zh": "这是属于我们大家的地方！",
     "src": "textbook"
    }
   },
@@ -8301,7 +8301,7 @@
    ],
    "example": {
     "en": "We learn more about the \"red planet\" every year.",
-    "zh": "",
+    "zh": "我们每年都更多地了解这颗“红色星球”。",
     "src": "textbook"
    }
   },
@@ -8317,7 +8317,7 @@
    ],
    "example": {
     "en": "We can plant new trees.",
-    "zh": "",
+    "zh": "我们可以种下新的树。",
     "src": "textbook"
    }
   },
@@ -8332,7 +8332,7 @@
    ],
    "example": {
     "en": "This is my healthy plate for breakfast.",
-    "zh": "",
+    "zh": "这是我健康的早餐餐盘。",
     "src": "textbook"
    }
   },
@@ -8348,7 +8348,7 @@
    ],
    "example": {
     "en": "Sometimes I play ping-pong with Zhang Peng.",
-    "zh": "",
+    "zh": "有时我和张鹏一起打乒乓球。",
     "src": "textbook"
    },
    "emoji": "play"
@@ -8364,7 +8364,7 @@
    ],
    "example": {
     "en": "Robinson and Friday play sports together in the afternoon.",
-    "zh": "",
+    "zh": "鲁滨逊和星期五下午一起做运动。",
     "src": "textbook"
    }
   },
@@ -8379,7 +8379,7 @@
    ],
    "example": {
     "en": "Our football team needs more players.",
-    "zh": "",
+    "zh": "我们的足球队需要更多球员。",
     "src": "textbook"
    }
   },
@@ -8394,7 +8394,7 @@
    ],
    "example": {
     "en": "There is a playground in my community.",
-    "zh": "",
+    "zh": "我的社区里有一个操场。",
     "src": "textbook"
    }
   },
@@ -8409,7 +8409,7 @@
    ],
    "example": {
     "en": "They're playing with each other.",
-    "zh": "",
+    "zh": "它们在互相玩耍。",
     "src": "textbook"
    }
   },
@@ -8424,7 +8424,7 @@
    ],
    "example": {
     "en": "Mum is giving Matt his pocket money.",
-    "zh": "",
+    "zh": "妈妈正在给马特他的零花钱。",
     "src": "textbook"
    }
   },
@@ -8439,7 +8439,7 @@
    ],
    "example": {
     "en": "My neighbour is a police officer.",
-    "zh": "",
+    "zh": "我的邻居是一名警察。",
     "src": "textbook"
    }
   },
@@ -8454,7 +8454,7 @@
    ],
    "example": {
     "en": "Those are green beans and potatoes.",
-    "zh": "",
+    "zh": "那些是青豆和土豆。",
     "src": "textbook"
    }
   },
@@ -8469,7 +8469,7 @@
    ],
    "example": {
     "en": "How do we make power from water?",
-    "zh": "",
+    "zh": "我们怎样用水发电？",
     "src": "textbook"
    }
   },
@@ -8484,7 +8484,7 @@
    ],
    "example": {
     "en": "They are talking about John's school project.",
-    "zh": "",
+    "zh": "他们在谈论约翰的学校项目。",
     "src": "textbook"
    }
   },
@@ -8498,8 +8498,8 @@
     "5A-U5"
    ],
    "example": {
-    "en": "Finally, we will pull up the carrot by the and .",
-    "zh": "",
+    "en": "Finally, we will pull up the carrot by the stem and leaves.",
+    "zh": "最后，我们会抓住茎和叶子把萝卜拔起来。",
     "src": "textbook"
    }
   },
@@ -8514,7 +8514,7 @@
    ],
    "example": {
     "en": "We tried delicious pumpkin soup and red rice in a nice restaurant too.",
-    "zh": "",
+    "zh": "我们还在一家不错的餐厅尝了美味的南瓜汤和红米饭。",
     "src": "textbook"
    }
   },
@@ -8529,7 +8529,7 @@
    ],
    "example": {
     "en": "Purple flowers, green grass and blue sea.",
-    "zh": "",
+    "zh": "紫色的花、绿草和蓝色的大海。",
     "src": "textbook"
    }
   },
@@ -8544,7 +8544,7 @@
    ],
    "example": {
     "en": "Put your old map on the wall.",
-    "zh": "",
+    "zh": "把你的旧地图挂在墙上。",
     "src": "textbook"
    }
   },
@@ -8559,7 +8559,7 @@
    ],
    "example": {
     "en": "Sometimes, they also give classes to children and answer questions about space.",
-    "zh": "",
+    "zh": "有时他们还给孩子们上课，回答关于太空的问题。",
     "src": "textbook"
    }
   },
@@ -8574,7 +8574,7 @@
    ],
    "example": {
     "en": "We can take quick showers.",
-    "zh": "",
+    "zh": "我们可以快点洗澡。",
     "src": "textbook"
    }
   },
@@ -8589,7 +8589,7 @@
    ],
    "example": {
     "en": "She's quiet and kind.",
-    "zh": "",
+    "zh": "她安静又善良。",
     "src": "textbook"
    }
   },
@@ -8604,7 +8604,7 @@
    ],
    "example": {
     "en": "Hop, hop, hop like a rabbit.",
-    "zh": "",
+    "zh": "跳呀跳，像兔子一样蹦跳。",
     "src": "textbook"
    },
    "emoji": "rabbit"
@@ -8621,7 +8621,7 @@
    ],
    "example": {
     "en": "There were many animals in that race.",
-    "zh": "",
+    "zh": "那场比赛里有很多动物。",
     "src": "textbook"
    }
   },
@@ -8636,7 +8636,7 @@
    ],
    "example": {
     "en": "They can play in the rain, dear!",
-    "zh": "",
+    "zh": "亲爱的，他们可以在雨里玩！",
     "src": "textbook"
    },
    "emoji": "rain"
@@ -8652,7 +8652,7 @@
    ],
    "example": {
     "en": "I'll go to buy some umbrellas and raincoats.",
-    "zh": "",
+    "zh": "我去买一些雨伞和雨衣。",
     "src": "textbook"
    }
   },
@@ -8667,7 +8667,7 @@
    ],
    "example": {
     "en": "It's cold and rainy.",
-    "zh": "",
+    "zh": "天气又冷又下雨。",
     "src": "textbook"
    }
   },
@@ -8684,7 +8684,7 @@
    ],
    "example": {
     "en": "The writer read his book to us.",
-    "zh": "",
+    "zh": "那位作家把他的书读给我们听。",
     "src": "textbook"
    },
    "emoji": "read"
@@ -8700,7 +8700,7 @@
    ],
    "example": {
     "en": "Yes, she's reading a book.",
-    "zh": "",
+    "zh": "是的，她正在看书。",
     "src": "textbook"
    }
   },
@@ -8715,7 +8715,7 @@
    ],
    "example": {
     "en": "I'm ready.",
-    "zh": "",
+    "zh": "我准备好了。",
     "src": "textbook"
    }
   },
@@ -8730,7 +8730,7 @@
    ],
    "example": {
     "en": "Orange and red, jump up and down.",
-    "zh": "",
+    "zh": "橙色和红色，跳上跳下。",
     "src": "textbook"
    }
   },
@@ -8755,7 +8755,7 @@
    ],
    "example": {
     "en": "We should reduce energy use.",
-    "zh": "",
+    "zh": "我们应该减少能源使用。",
     "src": "textbook"
    }
   },
@@ -8770,7 +8770,7 @@
    ],
    "example": {
     "en": "This will save more energy and resources.",
-    "zh": "",
+    "zh": "这样可以节约更多的能源和资源。",
     "src": "textbook"
    }
   },
@@ -8785,7 +8785,7 @@
    ],
    "example": {
     "en": "You should rest your eyes.",
-    "zh": "",
+    "zh": "你应该让眼睛休息一下。",
     "src": "textbook"
    }
   },
@@ -8800,7 +8800,7 @@
    ],
    "example": {
     "en": "We tried delicious pumpkin soup and red rice in a nice restaurant too.",
-    "zh": "",
+    "zh": "我们还在一家不错的餐厅尝了美味的南瓜汤和红米饭。",
     "src": "textbook"
    }
   },
@@ -8815,7 +8815,7 @@
    ],
    "example": {
     "en": "Save and reuse resources.",
-    "zh": "",
+    "zh": "节约并重复利用资源。",
     "src": "textbook"
    }
   },
@@ -8830,7 +8830,7 @@
    ],
    "example": {
     "en": "I like rice and meat.",
-    "zh": "",
+    "zh": "我喜欢米饭和肉。",
     "src": "textbook"
    },
    "emoji": "rice"
@@ -8846,7 +8846,7 @@
    ],
    "example": {
     "en": "You will read riddles.",
-    "zh": "",
+    "zh": "你们会读谜语。",
     "src": "textbook"
    }
   },
@@ -8861,7 +8861,7 @@
    ],
    "example": {
     "en": "Yes, that's right.",
-    "zh": "",
+    "zh": "是的，没错。",
     "src": "textbook"
    }
   },
@@ -8876,7 +8876,7 @@
    ],
    "example": {
     "en": "There is a long river in the park.",
-    "zh": "",
+    "zh": "公园里有一条长长的河。",
     "src": "textbook"
    }
   },
@@ -8890,8 +8890,8 @@
     "5A-U1"
    ],
    "example": {
-    "en": "Draw, write and say is my robot.",
-    "zh": "",
+    "en": "This is my robot.",
+    "zh": "这是我的机器人。",
     "src": "textbook"
    }
   },
@@ -8906,7 +8906,7 @@
    ],
    "example": {
     "en": "I rode a horse.",
-    "zh": "",
+    "zh": "我骑了马。",
     "src": "textbook"
    }
   },
@@ -8921,7 +8921,7 @@
    ],
    "example": {
     "en": "I can clean my room.",
-    "zh": "",
+    "zh": "我会打扫我的房间。",
     "src": "textbook"
    }
   },
@@ -8936,7 +8936,7 @@
    ],
    "example": {
     "en": "Amy cooks the root.",
-    "zh": "",
+    "zh": "艾米煮了根。",
     "src": "textbook"
    }
   },
@@ -8951,7 +8951,7 @@
    ],
    "example": {
     "en": "Jumping rope is easy and fun.",
-    "zh": "",
+    "zh": "跳绳既简单又有趣。",
     "src": "textbook"
    }
   },
@@ -8965,8 +8965,8 @@
     "5A-U5"
    ],
    "example": {
-    "en": "They have many and round.",
-    "zh": "",
+    "en": "The lotus leaves are round.",
+    "zh": "荷叶是圆圆的。",
     "src": "textbook"
    }
   },
@@ -8981,7 +8981,7 @@
    ],
    "example": {
     "en": "China put a rover on Mars.",
-    "zh": "",
+    "zh": "中国把一辆火星车送上了火星。",
     "src": "textbook"
    }
   },
@@ -9006,7 +9006,7 @@
    ],
    "example": {
     "en": "What rule is it?",
-    "zh": "",
+    "zh": "这是哪条规则？",
     "src": "textbook"
    }
   },
@@ -9021,7 +9021,7 @@
    ],
    "example": {
     "en": "Draw a line with your ruler.",
-    "zh": "",
+    "zh": "用你的尺子画一条线。",
     "src": "textbook"
    },
    "emoji": "ruler"
@@ -9039,7 +9039,7 @@
    ],
    "example": {
     "en": "Don't run in the living room.",
-    "zh": "",
+    "zh": "不要在客厅里跑。",
     "src": "textbook"
    },
    "emoji": "run"
@@ -9055,7 +9055,7 @@
    ],
    "example": {
     "en": "Many resources will run out.",
-    "zh": "",
+    "zh": "许多资源将会耗尽。",
     "src": "textbook"
    }
   },
@@ -9070,7 +9070,7 @@
    ],
    "example": {
     "en": "And I have a runny nose.",
-    "zh": "",
+    "zh": "我还流鼻涕。",
     "src": "textbook"
    }
   },
@@ -9085,7 +9085,7 @@
    ],
    "example": {
     "en": "You look sad.",
-    "zh": "",
+    "zh": "你看起来很难过。",
     "src": "textbook"
    },
    "emoji": "sad"
@@ -9101,7 +9101,7 @@
    ],
    "example": {
     "en": "You can, but it has to be safe.",
-    "zh": "",
+    "zh": "可以，但必须安全。",
     "src": "textbook"
    }
   },
@@ -9116,7 +9116,7 @@
    ],
    "example": {
     "en": "She makes a salad and eats it with her family.",
-    "zh": "",
+    "zh": "她做了一份沙拉，和家人一起吃。",
     "src": "textbook"
    }
   },
@@ -9131,7 +9131,7 @@
    ],
    "example": {
     "en": "Maybe you can wait for a sale!",
-    "zh": "",
+    "zh": "也许你可以等打折！",
     "src": "textbook"
    }
   },
@@ -9146,7 +9146,7 @@
    ],
    "example": {
     "en": "Satellites travel around me.",
-    "zh": "",
+    "zh": "卫星围绕着我运行。",
     "src": "textbook"
    }
   },
@@ -9161,7 +9161,7 @@
    ],
    "example": {
     "en": "She tidies her room on Saturday afternoons.",
-    "zh": "",
+    "zh": "她每周六下午整理她的房间。",
     "src": "textbook"
    }
   },
@@ -9176,7 +9176,7 @@
    ],
    "example": {
     "en": "Mike is going to save up for a computer.",
-    "zh": "",
+    "zh": "迈克打算攒钱买一台电脑。",
     "src": "textbook"
    }
   },
@@ -9191,7 +9191,7 @@
    ],
    "example": {
     "en": "I saw a film.",
-    "zh": "",
+    "zh": "我看了一部电影。",
     "src": "textbook"
    }
   },
@@ -9207,7 +9207,7 @@
    ],
    "example": {
     "en": "I can say the names of body parts.",
-    "zh": "",
+    "zh": "我会说身体部位的名称。",
     "src": "textbook"
    }
   },
@@ -9222,7 +9222,7 @@
    ],
    "example": {
     "en": "How can John make friends at school?",
-    "zh": "",
+    "zh": "约翰在学校怎么交朋友？",
     "src": "textbook"
    },
    "emoji": "school"
@@ -9238,7 +9238,7 @@
    ],
    "example": {
     "en": "I'm going to buy a schoolbag.",
-    "zh": "",
+    "zh": "我打算买一个书包。",
     "src": "textbook"
    }
   },
@@ -9253,7 +9253,7 @@
    ],
    "example": {
     "en": "The Science and Art Festival is in two weeks.",
-    "zh": "",
+    "zh": "科技艺术节在两周后举行。",
     "src": "textbook"
    }
   },
@@ -9268,7 +9268,7 @@
    ],
    "example": {
     "en": "Purple flowers, green grass and blue sea.",
-    "zh": "",
+    "zh": "紫色的花、绿草和蓝色的大海。",
     "src": "textbook"
    }
   },
@@ -9284,7 +9284,7 @@
    ],
    "example": {
     "en": "Which season do you like best?",
-    "zh": "",
+    "zh": "你最喜欢哪个季节？",
     "src": "textbook"
    }
   },
@@ -9298,8 +9298,8 @@
     "5B-U4"
    ],
    "example": {
-    "en": "A The second class is beginning.",
-    "zh": "",
+    "en": "The second class is beginning.",
+    "zh": "第二节课开始了。",
     "src": "textbook"
    }
   },
@@ -9315,7 +9315,7 @@
    ],
    "example": {
     "en": "What do you see in the picture?",
-    "zh": "",
+    "zh": "你在图片里看到了什么？",
     "src": "textbook"
    }
   },
@@ -9329,8 +9329,8 @@
     "5A-U5"
    ],
    "example": {
-    "en": "Then a will grow from the seed.",
-    "zh": "",
+    "en": "Then a new plant will grow from the seed.",
+    "zh": "然后一株新植物会从种子长出来。",
     "src": "textbook"
    }
   },
@@ -9345,7 +9345,7 @@
    ],
    "example": {
     "en": "She also gets some money from selling old things.",
-    "zh": "",
+    "zh": "她也通过卖旧东西得到一些钱。",
     "src": "textbook"
    }
   },
@@ -9360,7 +9360,7 @@
    ],
    "example": {
     "en": "Please send me some pictures.",
-    "zh": "",
+    "zh": "请给我发一些照片。",
     "src": "textbook"
    }
   },
@@ -9375,7 +9375,7 @@
    ],
    "example": {
     "en": "It's usually in September or October.",
-    "zh": "",
+    "zh": "它通常在九月或十月。",
     "src": "textbook"
    }
   },
@@ -9390,7 +9390,7 @@
    ],
    "example": {
     "en": "We use money to pay for services.",
-    "zh": "",
+    "zh": "我们用钱支付服务费用。",
     "src": "textbook"
    }
   },
@@ -9404,8 +9404,8 @@
     "4B-U6"
    ],
    "example": {
-    "en": "Set the table before after dinner.",
-    "zh": "",
+    "en": "Set the table before dinner.",
+    "zh": "晚饭前摆好餐具。",
     "src": "textbook"
    }
   },
@@ -9421,7 +9421,7 @@
    ],
    "example": {
     "en": "It's seven o'clock.",
-    "zh": "",
+    "zh": "七点钟了。",
     "src": "textbook"
    }
   },
@@ -9437,7 +9437,7 @@
    ],
    "example": {
     "en": "Six yuan, or three for seventeen yuan.",
-    "zh": "",
+    "zh": "六元一个，或者十七元三个。",
     "src": "textbook"
    }
   },
@@ -9462,7 +9462,7 @@
    ],
    "example": {
     "en": "When is the duck's shadow longer?",
-    "zh": "",
+    "zh": "鸭子的影子什么时候更长？",
     "src": "textbook"
    }
   },
@@ -9477,7 +9477,7 @@
    ],
    "example": {
     "en": "Share your ideas in class.",
-    "zh": "",
+    "zh": "在课堂上分享你的想法。",
     "src": "textbook"
    }
   },
@@ -9492,7 +9492,7 @@
    ],
    "example": {
     "en": "She is very nice.",
-    "zh": "",
+    "zh": "她非常友好。",
     "src": "textbook"
    }
   },
@@ -9507,7 +9507,7 @@
    ],
    "example": {
     "en": "Cows, horses, sheep, pigs and chickens.",
-    "zh": "",
+    "zh": "奶牛、马、绵羊、猪和鸡。",
     "src": "textbook"
    }
   },
@@ -9522,7 +9522,7 @@
    ],
    "example": {
     "en": "Put your old dolls on the shelf.",
-    "zh": "",
+    "zh": "把你的旧娃娃放在架子上。",
     "src": "textbook"
    }
   },
@@ -9537,7 +9537,7 @@
    ],
    "example": {
     "en": "Can I wear this new shirt today?",
-    "zh": "",
+    "zh": "今天我可以穿这件新衬衫吗？",
     "src": "textbook"
    }
   },
@@ -9551,8 +9551,8 @@
     "4B-U4"
    ],
    "example": {
-    "en": "There is a pair of shoes under the .",
-    "zh": "",
+    "en": "There is a pair of shoes under the desk.",
+    "zh": "课桌下有一双鞋。",
     "src": "textbook"
    }
   },
@@ -9568,7 +9568,7 @@
    ],
    "example": {
     "en": "There is also a nice shop.",
-    "zh": "",
+    "zh": "那里还有一家不错的商店。",
     "src": "textbook"
    }
   },
@@ -9583,7 +9583,7 @@
    ],
    "example": {
     "en": "It has a long body and short legs.",
-    "zh": "",
+    "zh": "它有长长的身体和短短的腿。",
     "src": "textbook"
    }
   },
@@ -9608,7 +9608,7 @@
    ],
    "example": {
     "en": "How much are these shorts and sunglasses?",
-    "zh": "",
+    "zh": "这条短裤和这副太阳镜多少钱？",
     "src": "textbook"
    }
   },
@@ -9622,8 +9622,8 @@
     "5A-U4"
    ],
    "example": {
-    "en": "What should Make your healthy habits checklist.",
-    "zh": "",
+    "en": "You should make your healthy habits checklist.",
+    "zh": "你应该制定你的健康习惯清单。",
     "src": "textbook"
    }
   },
@@ -9641,7 +9641,7 @@
    ],
    "example": {
     "en": "I can show you the English books.",
-    "zh": "",
+    "zh": "我可以给你看那些英语书。",
     "src": "textbook"
    }
   },
@@ -9655,8 +9655,8 @@
     "6A-U6"
    ],
    "example": {
-    "en": "How can you use air shower save energy?",
-    "zh": "",
+    "en": "Take a quick shower to save energy.",
+    "zh": "洗个快澡来节约能源。",
     "src": "textbook"
    }
   },
@@ -9671,7 +9671,7 @@
    ],
    "example": {
     "en": "Use both sides of paper.",
-    "zh": "",
+    "zh": "纸的两面都要用。",
     "src": "textbook"
    }
   },
@@ -9687,7 +9687,7 @@
    ],
    "example": {
     "en": "We sing songs or dance.",
-    "zh": "",
+    "zh": "我们唱歌或跳舞。",
     "src": "textbook"
    },
    "emoji": "sing"
@@ -9703,7 +9703,7 @@
    ],
    "example": {
     "en": "This is my sister.",
-    "zh": "",
+    "zh": "这是我的妹妹。",
     "src": "textbook"
    },
    "emoji": "sister"
@@ -9720,7 +9720,7 @@
    ],
    "example": {
     "en": "One head, four wings, six legs.",
-    "zh": "",
+    "zh": "一个头，四只翅膀，六条腿。",
     "src": "textbook"
    }
   },
@@ -9736,7 +9736,7 @@
    ],
    "example": {
     "en": "How about three for sixteen yuan?",
-    "zh": "",
+    "zh": "十六元三个怎么样？",
     "src": "textbook"
    }
   },
@@ -9751,7 +9751,7 @@
    ],
    "example": {
     "en": "Sunglasses: Sixty yuan now!",
-    "zh": "",
+    "zh": "太阳镜：现在六十元！",
     "src": "textbook"
    }
   },
@@ -9765,8 +9765,8 @@
     "4B-U4"
    ],
    "example": {
-    "en": "Hats: Large (L) size only, ten Large (L) size only, ten yuan!",
-    "zh": "",
+    "en": "Find your size.",
+    "zh": "找到你的尺码。",
     "src": "textbook"
    }
   },
@@ -9781,7 +9781,7 @@
    ],
    "example": {
     "en": "Now the girl needs a new skirt!",
-    "zh": "",
+    "zh": "现在这个女孩需要一条新裙子！",
     "src": "textbook"
    }
   },
@@ -9796,7 +9796,7 @@
    ],
    "example": {
     "en": "What can we see in the sky?",
-    "zh": "",
+    "zh": "我们在天空中能看到什么？",
     "src": "textbook"
    }
   },
@@ -9811,7 +9811,7 @@
    ],
    "example": {
     "en": "Dad is sleeping in his bedroom.",
-    "zh": "",
+    "zh": "爸爸正在他的卧室里睡觉。",
     "src": "textbook"
    },
    "emoji": "sleep"
@@ -9827,7 +9827,7 @@
    ],
    "example": {
     "en": "Mike is sleeping at school!",
-    "zh": "",
+    "zh": "迈克在学校睡觉！",
     "src": "textbook"
    }
   },
@@ -9842,7 +9842,7 @@
    ],
    "example": {
     "en": "I stayed at home all weekend and slept.",
-    "zh": "",
+    "zh": "我整个周末都待在家里睡觉。",
     "src": "textbook"
    }
   },
@@ -9857,7 +9857,7 @@
    ],
    "example": {
     "en": "He's old and fat, And he's also very slow.",
-    "zh": "",
+    "zh": "他又老又胖，而且非常慢。",
     "src": "textbook"
    }
   },
@@ -9872,7 +9872,7 @@
    ],
    "example": {
     "en": "I have a small family.",
-    "zh": "",
+    "zh": "我有一个小家庭。",
     "src": "textbook"
    }
   },
@@ -9887,7 +9887,7 @@
    ],
    "example": {
     "en": "Some are smaller than our schoolbags.",
-    "zh": "",
+    "zh": "有些比我们的书包还小。",
     "src": "textbook"
    }
   },
@@ -9902,7 +9902,7 @@
    ],
    "example": {
     "en": "You are older and smarter than me.",
-    "zh": "",
+    "zh": "你比我大，也比我聪明。",
     "src": "textbook"
    }
   },
@@ -9917,7 +9917,7 @@
    ],
    "example": {
     "en": "But they can use smell to learn.",
-    "zh": "",
+    "zh": "但它们可以用嗅觉来学习。",
     "src": "textbook"
    }
   },
@@ -9932,7 +9932,7 @@
    ],
    "example": {
     "en": "I smile too.",
-    "zh": "",
+    "zh": "我也笑了。",
     "src": "textbook"
    }
   },
@@ -9948,7 +9948,7 @@
    ],
    "example": {
     "en": "What do you wear in the snow?",
-    "zh": "",
+    "zh": "下雪时你穿什么？",
     "src": "textbook"
    },
    "emoji": "snow"
@@ -9965,7 +9965,7 @@
    ],
    "example": {
     "en": "I make a snowman and I play.",
-    "zh": "",
+    "zh": "我堆雪人，还玩耍。",
     "src": "textbook"
    }
   },
@@ -9980,7 +9980,7 @@
    ],
    "example": {
     "en": "On snowy days, we can make a snowman.",
-    "zh": "",
+    "zh": "下雪天我们可以堆雪人。",
     "src": "textbook"
    }
   },
@@ -9995,7 +9995,7 @@
    ],
    "example": {
     "en": "A smile can say so much!",
-    "zh": "",
+    "zh": "一个微笑能表达很多！",
     "src": "textbook"
    }
   },
@@ -10010,7 +10010,7 @@
    ],
    "example": {
     "en": "The pink socks are mine.",
-    "zh": "",
+    "zh": "粉色的袜子是我的。",
     "src": "textbook"
    }
   },
@@ -10025,7 +10025,7 @@
    ],
    "example": {
     "en": "There is soil too.",
-    "zh": "",
+    "zh": "那里也有土壤。",
     "src": "textbook"
    }
   },
@@ -10040,7 +10040,7 @@
    ],
    "example": {
     "en": "Wind power, solar power and water power are types of green energy.",
-    "zh": "",
+    "zh": "风能、太阳能和水能都是绿色能源。",
     "src": "textbook"
    }
   },
@@ -10055,7 +10055,7 @@
    ],
    "example": {
     "en": "These are some things I know.",
-    "zh": "",
+    "zh": "这些是我知道的一些东西。",
     "src": "textbook"
    }
   },
@@ -10070,7 +10070,7 @@
    ],
    "example": {
     "en": "Sometimes I eat vegetables.",
-    "zh": "",
+    "zh": "有时我吃蔬菜。",
     "src": "textbook"
    }
   },
@@ -10085,7 +10085,7 @@
    ],
    "example": {
     "en": "Sing a song.",
-    "zh": "",
+    "zh": "唱一首歌。",
     "src": "textbook"
    }
   },
@@ -10100,7 +10100,7 @@
    ],
    "example": {
     "en": "Take care and get well soon!",
-    "zh": "",
+    "zh": "保重，祝你早日康复！",
     "src": "textbook"
    }
   },
@@ -10115,7 +10115,7 @@
    ],
    "example": {
     "en": "Oh, sorry.",
-    "zh": "",
+    "zh": "哦，对不起。",
     "src": "textbook"
    }
   },
@@ -10130,7 +10130,7 @@
    ],
    "example": {
     "en": "That sounds like a lot of fun.",
-    "zh": "",
+    "zh": "那听起来很有趣。",
     "src": "textbook"
    }
   },
@@ -10145,7 +10145,7 @@
    ],
    "example": {
     "en": "Water, soup, milk and juice.",
-    "zh": "",
+    "zh": "水、汤、牛奶和果汁。",
     "src": "textbook"
    }
   },
@@ -10160,7 +10160,7 @@
    ],
    "example": {
     "en": "What interests you about life in space?",
-    "zh": "",
+    "zh": "太空生活哪一点让你感兴趣？",
     "src": "textbook"
    }
   },
@@ -10175,7 +10175,7 @@
    ],
    "example": {
     "en": "Let's look at some photos from a space station.",
-    "zh": "",
+    "zh": "我们来看看一些来自空间站的照片。",
     "src": "textbook"
    }
   },
@@ -10190,7 +10190,7 @@
    ],
    "example": {
     "en": "Astronauts travel to space in a spaceship.",
-    "zh": "",
+    "zh": "宇航员乘宇宙飞船去太空。",
     "src": "textbook"
    }
   },
@@ -10205,7 +10205,7 @@
    ],
    "example": {
     "en": "When do you start class in Spain?",
-    "zh": "",
+    "zh": "你们在西班牙什么时候开始上课？",
     "src": "textbook"
    }
   },
@@ -10230,7 +10230,7 @@
    ],
    "example": {
     "en": "Mark speaking.",
-    "zh": "",
+    "zh": "我是马克。（电话用语）",
     "src": "textbook"
    }
   },
@@ -10245,7 +10245,7 @@
    ],
    "example": {
     "en": "There are some other special days in May.",
-    "zh": "",
+    "zh": "五月还有一些别的特殊日子。",
     "src": "textbook"
    }
   },
@@ -10270,7 +10270,7 @@
    ],
    "example": {
     "en": "I often do sports there.",
-    "zh": "",
+    "zh": "我经常在那里做运动。",
     "src": "textbook"
    }
   },
@@ -10285,7 +10285,7 @@
    ],
    "example": {
     "en": "Please come to the sports meet next Friday.",
-    "zh": "",
+    "zh": "请下周五来参加运动会。",
     "src": "textbook"
    }
   },
@@ -10301,7 +10301,7 @@
    ],
    "example": {
     "en": "Spring is green with flowers and songs.",
-    "zh": "",
+    "zh": "春天是绿色的，有花也有歌。",
     "src": "textbook"
    }
   },
@@ -10318,7 +10318,7 @@
    ],
    "example": {
     "en": "It is a star.",
-    "zh": "",
+    "zh": "它是一颗星星。",
     "src": "textbook"
    },
    "emoji": "star"
@@ -10335,7 +10335,7 @@
    ],
    "example": {
     "en": "When do you start class in Spain?",
-    "zh": "",
+    "zh": "你们在西班牙什么时候开始上课？",
     "src": "textbook"
    }
   },
@@ -10351,7 +10351,7 @@
    ],
    "example": {
     "en": "He has to stay at home.",
-    "zh": "",
+    "zh": "他不得不待在家里。",
     "src": "textbook"
    }
   },
@@ -10366,7 +10366,7 @@
    ],
    "example": {
     "en": "Don't stay up late.",
-    "zh": "",
+    "zh": "不要熬夜。",
     "src": "textbook"
    }
   },
@@ -10381,7 +10381,7 @@
    ],
    "example": {
     "en": "I stayed at home and watched TV.",
-    "zh": "",
+    "zh": "我待在家里看电视。",
     "src": "textbook"
    }
   },
@@ -10396,7 +10396,7 @@
    ],
    "example": {
     "en": "Amy pulls up the carrot by the stem and leaves.",
-    "zh": "",
+    "zh": "艾米抓住茎和叶子把萝卜拔起来。",
     "src": "textbook"
    }
   },
@@ -10412,7 +10412,7 @@
    ],
    "example": {
     "en": "They are still good.",
-    "zh": "",
+    "zh": "它们还是好的。",
     "src": "textbook"
    }
   },
@@ -10427,7 +10427,7 @@
    ],
    "example": {
     "en": "I can read stories about them.",
-    "zh": "",
+    "zh": "我能读关于它们的故事。",
     "src": "textbook"
    }
   },
@@ -10442,7 +10442,7 @@
    ],
    "example": {
     "en": "He's tall and strong.",
-    "zh": "",
+    "zh": "他又高又壮。",
     "src": "textbook"
    }
   },
@@ -10457,7 +10457,7 @@
    ],
    "example": {
     "en": "Yes, and he's stronger.",
-    "zh": "",
+    "zh": "是的，而且他更强壮。",
     "src": "textbook"
    }
   },
@@ -10472,7 +10472,7 @@
    ],
    "example": {
     "en": "Students from Canada and the USA.",
-    "zh": "",
+    "zh": "来自加拿大和美国的学生。",
     "src": "textbook"
    }
   },
@@ -10487,7 +10487,7 @@
    ],
    "example": {
     "en": "Dad is reading in the study.",
-    "zh": "",
+    "zh": "爸爸正在书房里看书。",
     "src": "textbook"
    }
   },
@@ -10502,7 +10502,7 @@
    ],
    "example": {
     "en": "Is music your favourite subject?",
-    "zh": "",
+    "zh": "音乐是你最喜欢的科目吗？",
     "src": "textbook"
    }
   },
@@ -10518,7 +10518,7 @@
    ],
    "example": {
     "en": "What do you often do in summer?",
-    "zh": "",
+    "zh": "你夏天常做什么？",
     "src": "textbook"
    }
   },
@@ -10533,7 +10533,7 @@
    ],
    "example": {
     "en": "Plants need air, water and sun.",
-    "zh": "",
+    "zh": "植物需要空气、水和阳光。",
     "src": "textbook"
    },
    "emoji": "sun"
@@ -10549,7 +10549,7 @@
    ],
    "example": {
     "en": "She has pipa lessons on Sunday mornings.",
-    "zh": "",
+    "zh": "她每周日上午上琵琶课。",
     "src": "textbook"
    }
   },
@@ -10564,7 +10564,7 @@
    ],
    "example": {
     "en": "Sunglasses Buy a nice and cheap pair.",
-    "zh": "",
+    "zh": "买一副又好又便宜的太阳镜。",
     "src": "textbook"
    }
   },
@@ -10579,7 +10579,7 @@
    ],
    "example": {
     "en": "On sunny days, we can play basketball.",
-    "zh": "",
+    "zh": "晴天我们可以打篮球。",
     "src": "textbook"
    }
   },
@@ -10594,7 +10594,7 @@
    ],
    "example": {
     "en": "This is the sunrise on Mars.",
-    "zh": "",
+    "zh": "这是火星上的日出。",
     "src": "textbook"
    }
   },
@@ -10609,7 +10609,7 @@
    ],
    "example": {
     "en": "They can see the sunrise and sunset 16 times a day.",
-    "zh": "",
+    "zh": "他们一天能看到十六次日出和日落。",
     "src": "textbook"
    }
   },
@@ -10624,7 +10624,7 @@
    ],
    "example": {
     "en": "In a supermarket?",
-    "zh": "",
+    "zh": "在超市里？",
     "src": "textbook"
    }
   },
@@ -10639,7 +10639,7 @@
    ],
    "example": {
     "en": "Please visit me someday and I am sure you will have a good time!",
-    "zh": "",
+    "zh": "请找个时间来看我，我相信你会玩得很开心！",
     "src": "textbook"
    }
   },
@@ -10654,7 +10654,7 @@
    ],
    "example": {
     "en": "Asako is making sushi.",
-    "zh": "",
+    "zh": "麻子正在做寿司。",
     "src": "textbook"
    }
   },
@@ -10669,7 +10669,7 @@
    ],
    "example": {
     "en": "I need to wear a sweater.",
-    "zh": "",
+    "zh": "我需要穿一件毛衣。",
     "src": "textbook"
    }
   },
@@ -10684,7 +10684,7 @@
    ],
    "example": {
     "en": "He can sweep the floor.",
-    "zh": "",
+    "zh": "他会扫地。",
     "src": "textbook"
    }
   },
@@ -10699,7 +10699,7 @@
    ],
    "example": {
     "en": "I can swim in the sea.",
-    "zh": "",
+    "zh": "我能在海里游泳。",
     "src": "textbook"
    },
    "emoji": "swim"
@@ -10715,7 +10715,7 @@
    ],
    "example": {
     "en": "What's the weather like in Sydney?",
-    "zh": "",
+    "zh": "悉尼的天气怎么样？",
     "src": "textbook"
    }
   },
@@ -10730,7 +10730,7 @@
    ],
    "example": {
     "en": "I put on my shorts and T-shirt and go to the beach.",
-    "zh": "",
+    "zh": "我穿上短裤和T恤去海滩。",
     "src": "textbook"
    }
   },
@@ -10745,7 +10745,7 @@
    ],
    "example": {
     "en": "It is special to be a taikonaut.",
-    "zh": "",
+    "zh": "当一名航天员很特别。",
     "src": "textbook"
    }
   },
@@ -10760,7 +10760,7 @@
    ],
    "example": {
     "en": "It has a long tail and big ears.",
-    "zh": "",
+    "zh": "它有长长的尾巴和大大的耳朵。",
     "src": "textbook"
    }
   },
@@ -10777,7 +10777,7 @@
    ],
    "example": {
     "en": "Let's take it.",
-    "zh": "",
+    "zh": "我们买下它吧。",
     "src": "textbook"
    }
   },
@@ -10802,7 +10802,7 @@
    ],
    "example": {
     "en": "How can I take care of my teeth?",
-    "zh": "",
+    "zh": "我怎样才能保护我的牙齿？",
     "src": "textbook"
    }
   },
@@ -10817,7 +10817,7 @@
    ],
    "example": {
     "en": "Take turns.",
-    "zh": "",
+    "zh": "轮流来。",
     "src": "textbook"
    }
   },
@@ -10832,7 +10832,7 @@
    ],
    "example": {
     "en": "Our mouth, face and body can all \"talk\".",
-    "zh": "",
+    "zh": "我们的嘴巴、脸和身体都能“说话”。",
     "src": "textbook"
    }
   },
@@ -10847,7 +10847,7 @@
    ],
    "example": {
     "en": "Talk quietly, please.",
-    "zh": "",
+    "zh": "请小声说话。",
     "src": "textbook"
    }
   },
@@ -10862,7 +10862,7 @@
    ],
    "example": {
     "en": "The giraffe is tall!",
-    "zh": "",
+    "zh": "长颈鹿很高！",
     "src": "textbook"
    }
   },
@@ -10877,7 +10877,7 @@
    ],
    "example": {
     "en": "It's taller than both of us together.",
-    "zh": "",
+    "zh": "它比我们俩加起来还高。",
     "src": "textbook"
    }
   },
@@ -10892,7 +10892,7 @@
    ],
    "example": {
     "en": "We taste food with our tongues.",
-    "zh": "",
+    "zh": "我们用舌头品尝食物。",
     "src": "textbook"
    }
   },
@@ -10907,7 +10907,7 @@
    ],
    "example": {
     "en": "Later, more people began to drink tea.",
-    "zh": "",
+    "zh": "后来，更多的人开始喝茶。",
     "src": "textbook"
    }
   },
@@ -10922,7 +10922,7 @@
    ],
    "example": {
     "en": "He is a great English teacher!",
-    "zh": "",
+    "zh": "他是一位很棒的英语老师！",
     "src": "textbook"
    }
   },
@@ -10937,7 +10937,7 @@
    ],
    "example": {
     "en": "Miss White is my English teacher.",
-    "zh": "",
+    "zh": "怀特老师是我的英语老师。",
     "src": "textbook"
    },
    "emoji": "teacher"
@@ -10953,7 +10953,7 @@
    ],
    "example": {
     "en": "Our football team needs more players.",
-    "zh": "",
+    "zh": "我们的足球队需要更多球员。",
     "src": "textbook"
    }
   },
@@ -10968,7 +10968,7 @@
    ],
    "example": {
     "en": "We can look into space with telescopes.",
-    "zh": "",
+    "zh": "我们可以用望远镜观察太空。",
     "src": "textbook"
    }
   },
@@ -10983,7 +10983,7 @@
    ],
    "example": {
     "en": "I can sing for old people, Or tell stories for kids!",
-    "zh": "",
+    "zh": "我能为老人唱歌，也能给孩子讲故事！",
     "src": "textbook"
    }
   },
@@ -10999,7 +10999,7 @@
    ],
    "example": {
     "en": "One head, two legs, ten toes.",
-    "zh": "",
+    "zh": "一个头，两条腿，十个脚趾。",
     "src": "textbook"
    }
   },
@@ -11014,7 +11014,7 @@
    ],
    "example": {
     "en": "Then we went to see the Terracotta Warriors.",
-    "zh": "",
+    "zh": "然后我们去看了兵马俑。",
     "src": "textbook"
    }
   },
@@ -11029,7 +11029,7 @@
    ],
    "example": {
     "en": "It's taller than both of us together.",
-    "zh": "",
+    "zh": "它比我们俩加起来还高。",
     "src": "textbook"
    }
   },
@@ -11054,7 +11054,7 @@
    ],
    "example": {
     "en": "I love the Great Wall!",
-    "zh": "",
+    "zh": "我爱长城！",
     "src": "textbook"
    }
   },
@@ -11069,7 +11069,7 @@
    ],
    "example": {
     "en": "The volunteers told great stories about the Red Army.",
-    "zh": "",
+    "zh": "志愿者们讲述了关于红军的精彩故事。",
     "src": "textbook"
    }
   },
@@ -11084,7 +11084,7 @@
    ],
    "example": {
     "en": "What are the students doing for their community?",
-    "zh": "",
+    "zh": "学生们在为他们的社区做什么？",
     "src": "textbook"
    }
   },
@@ -11099,7 +11099,7 @@
    ],
    "example": {
     "en": "The carrots are theirs.",
-    "zh": "",
+    "zh": "这些胡萝卜是他们的。",
     "src": "textbook"
    }
   },
@@ -11114,7 +11114,7 @@
    ],
    "example": {
     "en": "Can we help them?",
-    "zh": "",
+    "zh": "我们能帮助它们吗？",
     "src": "textbook"
    }
   },
@@ -11130,7 +11130,7 @@
    ],
    "example": {
     "en": "Then slowly walk to feed the goats.",
-    "zh": "",
+    "zh": "然后慢慢走过去喂山羊。",
     "src": "textbook"
    }
   },
@@ -11145,7 +11145,7 @@
    ],
    "example": {
     "en": "There is a playground in my community.",
-    "zh": "",
+    "zh": "我的社区里有一个操场。",
     "src": "textbook"
    }
   },
@@ -11160,7 +11160,7 @@
    ],
    "example": {
     "en": "What are these?",
-    "zh": "",
+    "zh": "这些是什么？",
     "src": "textbook"
    }
   },
@@ -11175,7 +11175,7 @@
    ],
    "example": {
     "en": "We can be fat or thin.",
-    "zh": "",
+    "zh": "我们可以胖也可以瘦。",
     "src": "textbook"
    }
   },
@@ -11190,7 +11190,7 @@
    ],
    "example": {
     "en": "We have a few fun things in spring.",
-    "zh": "",
+    "zh": "春天我们有一些有趣的事情。",
     "src": "textbook"
    }
   },
@@ -11205,7 +11205,7 @@
    ],
    "example": {
     "en": "I think of my friends and family.",
-    "zh": "",
+    "zh": "我想念我的朋友和家人。",
     "src": "textbook"
    }
   },
@@ -11241,7 +11241,7 @@
    ],
    "example": {
     "en": "Six and seven makes thirteen.",
-    "zh": "",
+    "zh": "六加七等于十三。",
     "src": "textbook"
    }
   },
@@ -11266,7 +11266,7 @@
    ],
    "example": {
     "en": "Thirty students like spring.",
-    "zh": "",
+    "zh": "三十名学生喜欢春天。",
     "src": "textbook"
    }
   },
@@ -11281,7 +11281,7 @@
    ],
    "example": {
     "en": "Those shorts are nice.",
-    "zh": "",
+    "zh": "那条短裤很好看。",
     "src": "textbook"
    }
   },
@@ -11296,7 +11296,7 @@
    ],
    "example": {
     "en": "\"I could run fast at school,\" he thought.",
-    "zh": "",
+    "zh": "“我在学校能跑得很快，”他想。",
     "src": "textbook"
    }
   },
@@ -11311,7 +11311,7 @@
    ],
    "example": {
     "en": "There are over seven thousand clay warriors and horses.",
-    "zh": "",
+    "zh": "那里有七千多个陶土做的武士和马。",
     "src": "textbook"
    }
   },
@@ -11327,7 +11327,7 @@
    ],
    "example": {
     "en": "One orange, two apples and three bananas.",
-    "zh": "",
+    "zh": "一个橙子、两个苹果和三根香蕉。",
     "src": "textbook"
    }
   },
@@ -11342,7 +11342,7 @@
    ],
    "example": {
     "en": "He has music class on Wednesday and Thursday mornings.",
-    "zh": "",
+    "zh": "他每周三和周四上午有音乐课。",
     "src": "textbook"
    }
   },
@@ -11357,7 +11357,7 @@
    ],
    "example": {
     "en": "He also wants to buy a robot show ticket.",
-    "zh": "",
+    "zh": "他还想买一张机器人表演的票。",
     "src": "textbook"
    }
   },
@@ -11372,7 +11372,7 @@
    ],
    "example": {
     "en": "Our classroom is clean and tidy!",
-    "zh": "",
+    "zh": "我们的教室又干净又整洁！",
     "src": "textbook"
    }
   },
@@ -11387,7 +11387,7 @@
    ],
    "example": {
     "en": "It's a tiger.",
-    "zh": "",
+    "zh": "它是一只老虎。",
     "src": "textbook"
    },
    "emoji": "tiger"
@@ -11403,7 +11403,7 @@
    ],
    "example": {
     "en": "They won't be ready till August.",
-    "zh": "",
+    "zh": "它们要到八月才好。",
     "src": "textbook"
    }
   },
@@ -11419,7 +11419,7 @@
    ],
    "example": {
     "en": "Breakfast time!",
-    "zh": "",
+    "zh": "早餐时间到了！",
     "src": "textbook"
    }
   },
@@ -11434,7 +11434,7 @@
    ],
    "example": {
     "en": "Mum and Dad are busy and tired.",
-    "zh": "",
+    "zh": "爸爸妈妈又忙又累。",
     "src": "textbook"
    },
    "emoji": "tired"
@@ -11450,7 +11450,7 @@
    ],
    "example": {
     "en": "We have two new friends today.",
-    "zh": "",
+    "zh": "今天我们有两个新朋友。",
     "src": "textbook"
    }
   },
@@ -11465,7 +11465,7 @@
    ],
    "example": {
     "en": "What do family do together?",
-    "zh": "",
+    "zh": "家人一起做什么？",
     "src": "textbook"
    }
   },
@@ -11489,8 +11489,8 @@
     "4B-U5"
    ],
    "example": {
-    "en": "There are , and tomato plants on farms.",
-    "zh": "",
+    "en": "There are potato plants and tomato plants on farms.",
+    "zh": "农场里有土豆秧和西红柿秧。",
     "src": "textbook"
    }
   },
@@ -11505,7 +11505,7 @@
    ],
    "example": {
     "en": "What's the weather like in Beijing tomorrow?",
-    "zh": "",
+    "zh": "北京明天天气怎么样？",
     "src": "textbook"
    }
   },
@@ -11520,7 +11520,7 @@
    ],
    "example": {
     "en": "I taste with my tongue.",
-    "zh": "",
+    "zh": "我用舌头尝味道。",
     "src": "textbook"
    }
   },
@@ -11535,7 +11535,7 @@
    ],
    "example": {
     "en": "We took pictures of the beautiful countryside.",
-    "zh": "",
+    "zh": "我们拍了美丽乡间的照片。",
     "src": "textbook"
    }
   },
@@ -11550,7 +11550,7 @@
    ],
    "example": {
     "en": "We took pictures of the beautiful countryside.",
-    "zh": "",
+    "zh": "我们拍了美丽乡间的照片。",
     "src": "textbook"
    }
   },
@@ -11565,7 +11565,7 @@
    ],
    "example": {
     "en": "I have a bad tooth.",
-    "zh": "",
+    "zh": "我有一颗坏牙。",
     "src": "textbook"
    }
   },
@@ -11580,7 +11580,7 @@
    ],
    "example": {
     "en": "They brush their teeth with a special toothpaste and have to \"eat\" it!",
-    "zh": "",
+    "zh": "他们用一种特殊的牙膏刷牙，还得把它“吃”下去！",
     "src": "textbook"
    }
   },
@@ -11595,7 +11595,7 @@
    ],
    "example": {
     "en": "Here are our top three ideas.",
-    "zh": "",
+    "zh": "这是我们的前三个想法。",
     "src": "textbook"
    }
   },
@@ -11610,7 +11610,7 @@
    ],
    "example": {
     "en": "I touch the grass.",
-    "zh": "",
+    "zh": "我摸摸草。",
     "src": "textbook"
    }
   },
@@ -11625,7 +11625,7 @@
    ],
    "example": {
     "en": "What does this fruit tree need?",
-    "zh": "",
+    "zh": "这棵果树需要什么？",
     "src": "textbook"
    },
    "emoji": "tree"
@@ -11643,7 +11643,7 @@
    ],
    "example": {
     "en": "When is the school trip this year?",
-    "zh": "",
+    "zh": "今年的学校旅行是什么时候？",
     "src": "textbook"
    }
   },
@@ -11657,8 +11657,8 @@
     "4B-U4"
    ],
    "example": {
-    "en": "Let's go to the Mum, my trousers are too short.",
-    "zh": "",
+    "en": "Mum, my trousers are too short.",
+    "zh": "妈妈，我的裤子太短了。",
     "src": "textbook"
    }
   },
@@ -11683,7 +11683,7 @@
    ],
    "example": {
     "en": "Tuesday is his favourite day.",
-    "zh": "",
+    "zh": "周二是他最喜欢的一天。",
     "src": "textbook"
    }
   },
@@ -11698,7 +11698,7 @@
    ],
    "example": {
     "en": "Take turns.",
-    "zh": "",
+    "zh": "轮流来。",
     "src": "textbook"
    }
   },
@@ -11713,7 +11713,7 @@
    ],
    "example": {
     "en": "We turn off the lights after school.",
-    "zh": "",
+    "zh": "放学后我们关灯。",
     "src": "textbook"
    }
   },
@@ -11728,7 +11728,7 @@
    ],
    "example": {
     "en": "Did you go to Turpan?",
-    "zh": "",
+    "zh": "你去吐鲁番了吗？",
     "src": "textbook"
    }
   },
@@ -11743,7 +11743,7 @@
    ],
    "example": {
     "en": "Mum, can I watch TV?",
-    "zh": "",
+    "zh": "妈妈，我可以看电视吗？",
     "src": "textbook"
    }
   },
@@ -11769,7 +11769,7 @@
    ],
    "example": {
     "en": "And a year has twelve months!",
-    "zh": "",
+    "zh": "一年有十二个月！",
     "src": "textbook"
    }
   },
@@ -11795,7 +11795,7 @@
    ],
    "example": {
     "en": "It's twenty yuan.",
-    "zh": "",
+    "zh": "二十元。",
     "src": "textbook"
    }
   },
@@ -11830,7 +11830,7 @@
    ],
    "example": {
     "en": "You should brush your teeth twice a day.",
-    "zh": "",
+    "zh": "你应该每天刷两次牙。",
     "src": "textbook"
    }
   },
@@ -11846,7 +11846,7 @@
    ],
    "example": {
     "en": "One orange, two apples and three bananas.",
-    "zh": "",
+    "zh": "一个橙子、两个苹果和三根香蕉。",
     "src": "textbook"
    }
   },
@@ -11860,8 +11860,8 @@
     "6A-U6"
    ],
    "example": {
-    "en": "Our project is about power are types of green energy.",
-    "zh": "",
+    "en": "Wind power, solar power and water power are types of green energy.",
+    "zh": "风能、太阳能和水能都是绿色能源。",
     "src": "textbook"
    }
   },
@@ -11876,7 +11876,7 @@
    ],
    "example": {
     "en": "A boy from China, a girl from the UK.",
-    "zh": "",
+    "zh": "一个来自中国的男孩，一个来自英国的女孩。",
     "src": "textbook"
    }
   },
@@ -11891,7 +11891,7 @@
    ],
    "example": {
     "en": "I'll go to buy some umbrellas and raincoats.",
-    "zh": "",
+    "zh": "我去买一些雨伞和雨衣。",
     "src": "textbook"
    }
   },
@@ -11906,7 +11906,7 @@
    ],
    "example": {
     "en": "I have an uncle.",
-    "zh": "",
+    "zh": "我有一个叔叔。",
     "src": "textbook"
    }
   },
@@ -11921,7 +11921,7 @@
    ],
    "example": {
     "en": "Put your boat under the bed.",
-    "zh": "",
+    "zh": "把你的小船放在床下面。",
     "src": "textbook"
    }
   },
@@ -11936,7 +11936,7 @@
    ],
    "example": {
     "en": "When we don't understand, we say, \"Excuse me?\"",
-    "zh": "",
+    "zh": "当我们不明白时，我们会说：“打扰一下？”",
     "src": "textbook"
    }
   },
@@ -11951,7 +11951,7 @@
    ],
    "example": {
     "en": "Liu Jia had a runny nose and felt unhappy.",
-    "zh": "",
+    "zh": "刘佳流鼻涕，心情很不好。",
     "src": "textbook"
    }
   },
@@ -11966,7 +11966,7 @@
    ],
    "example": {
     "en": "And we should always unplug our computers and TVs.",
-    "zh": "",
+    "zh": "我们还应该总是拔掉电脑和电视的插头。",
     "src": "textbook"
    }
   },
@@ -11981,7 +11981,7 @@
    ],
    "example": {
     "en": "Plants can give us many things.",
-    "zh": "",
+    "zh": "植物能给我们很多东西。",
     "src": "textbook"
    }
   },
@@ -11996,7 +11996,7 @@
    ],
    "example": {
     "en": "Students from Canada and the USA.",
-    "zh": "",
+    "zh": "来自加拿大和美国的学生。",
     "src": "textbook"
    }
   },
@@ -12011,7 +12011,7 @@
    ],
    "example": {
     "en": "Electricity is useful.",
-    "zh": "",
+    "zh": "电很有用。",
     "src": "textbook"
    }
   },
@@ -12026,8 +12026,8 @@
     "5B-U1"
    ],
    "example": {
-    "en": "Ron usually visits his grandparents on .",
-    "zh": "",
+    "en": "Ron usually visits his grandparents on weekends.",
+    "zh": "罗恩通常周末去看望他的祖父母。",
     "src": "textbook"
    }
   },
@@ -12042,7 +12042,7 @@
    ],
    "example": {
     "en": "Because I like summer vacation!",
-    "zh": "",
+    "zh": "因为我喜欢暑假！",
     "src": "textbook"
    }
   },
@@ -12057,7 +12057,7 @@
    ],
    "example": {
     "en": "Fruit and vegetables are colourful and healthy.",
-    "zh": "",
+    "zh": "水果和蔬菜色彩丰富又健康。",
     "src": "textbook"
    }
   },
@@ -12072,7 +12072,7 @@
    ],
    "example": {
     "en": "She is very nice.",
-    "zh": "",
+    "zh": "她非常友好。",
     "src": "textbook"
    }
   },
@@ -12087,7 +12087,7 @@
    ],
    "example": {
     "en": "I often make video calls with my friend now.",
-    "zh": "",
+    "zh": "我现在常和朋友视频通话。",
     "src": "textbook"
    }
   },
@@ -12102,7 +12102,7 @@
    ],
    "example": {
     "en": "The view from the tower was great.",
-    "zh": "",
+    "zh": "从塔上看风景很棒。",
     "src": "textbook"
    }
   },
@@ -12117,7 +12117,7 @@
    ],
    "example": {
     "en": "Binbin and Xinxin went to a nearby village.",
-    "zh": "",
+    "zh": "斌斌和心心去了附近的一个村庄。",
     "src": "textbook"
    }
   },
@@ -12132,7 +12132,7 @@
    ],
    "example": {
     "en": "At the weekend, I often play with my friends in the park or visit my grandparents.",
-    "zh": "",
+    "zh": "周末我常和朋友在公园玩，或者去看望我的祖父母。",
     "src": "textbook"
    }
   },
@@ -12158,7 +12158,7 @@
    ],
    "example": {
     "en": "I often take a walk there.",
-    "zh": "",
+    "zh": "我经常在那里散步。",
     "src": "textbook"
    },
    "emoji": "walk"
@@ -12174,7 +12174,7 @@
    ],
    "example": {
     "en": "Let's put them on the classroom wall.",
-    "zh": "",
+    "zh": "我们把它们贴在教室墙上吧。",
     "src": "textbook"
    }
   },
@@ -12189,7 +12189,7 @@
    ],
    "example": {
     "en": "I want to play more!",
-    "zh": "",
+    "zh": "我还想多玩一会儿！",
     "src": "textbook"
    }
   },
@@ -12204,7 +12204,7 @@
    ],
    "example": {
     "en": "It's warm and windy.",
-    "zh": "",
+    "zh": "天气温暖又有风。",
     "src": "textbook"
    }
   },
@@ -12219,7 +12219,7 @@
    ],
    "example": {
     "en": "The view from the tower was great.",
-    "zh": "",
+    "zh": "从塔上看风景很棒。",
     "src": "textbook"
    }
   },
@@ -12234,7 +12234,7 @@
    ],
    "example": {
     "en": "Wash my hands.",
-    "zh": "",
+    "zh": "洗洗我的手。",
     "src": "textbook"
    }
   },
@@ -12249,7 +12249,7 @@
    ],
    "example": {
     "en": "I washed my clothes.",
-    "zh": "",
+    "zh": "我洗了衣服。",
     "src": "textbook"
    }
   },
@@ -12264,7 +12264,7 @@
    ],
    "example": {
     "en": "Don't waste food anymore!",
-    "zh": "",
+    "zh": "不要再浪费食物了！",
     "src": "textbook"
    }
   },
@@ -12279,7 +12279,7 @@
    ],
    "example": {
     "en": "Mum, can I watch TV?",
-    "zh": "",
+    "zh": "妈妈，我可以看电视吗？",
     "src": "textbook"
    }
   },
@@ -12294,7 +12294,7 @@
    ],
    "example": {
     "en": "I watched some children's shows on TV.",
-    "zh": "",
+    "zh": "我在电视上看了些儿童节目。",
     "src": "textbook"
    }
   },
@@ -12309,7 +12309,7 @@
    ],
    "example": {
     "en": "Plants need air, water and sun.",
-    "zh": "",
+    "zh": "植物需要空气、水和阳光。",
     "src": "textbook"
    },
    "emoji": "water"
@@ -12325,7 +12325,7 @@
    ],
    "example": {
     "en": "Is there a waterfall in the forest?",
-    "zh": "",
+    "zh": "森林里有瀑布吗？",
     "src": "textbook"
    }
   },
@@ -12337,12 +12337,7 @@
    "core": true,
    "units": [
     "5A-U5"
-   ],
-   "example": {
-    "en": "It ways.",
-    "zh": "",
-    "src": "textbook"
-   }
+   ]
   },
   {
    "id": "w:wear",
@@ -12356,7 +12351,7 @@
    ],
    "example": {
     "en": "Can I wear this new shirt today?",
-    "zh": "",
+    "zh": "今天我可以穿这件新衬衫吗？",
     "src": "textbook"
    }
   },
@@ -12371,7 +12366,7 @@
    ],
    "example": {
     "en": "How can the weather change our lives?",
-    "zh": "",
+    "zh": "天气怎样改变我们的生活？",
     "src": "textbook"
    }
   },
@@ -12386,7 +12381,7 @@
    ],
    "example": {
     "en": "Wednesday is your favourite day.",
-    "zh": "",
+    "zh": "周三是你最喜欢的一天。",
     "src": "textbook"
    }
   },
@@ -12401,7 +12396,7 @@
    ],
    "example": {
     "en": "Chen Jie waters the tomato plants every week.",
-    "zh": "",
+    "zh": "陈洁每周给西红柿浇水。",
     "src": "textbook"
    }
   },
@@ -12416,7 +12411,7 @@
    ],
    "example": {
     "en": "What do you do at the weekend?",
-    "zh": "",
+    "zh": "你周末做什么？",
     "src": "textbook"
    }
   },
@@ -12431,7 +12426,7 @@
    ],
    "example": {
     "en": "My family and I went to Sanya.",
-    "zh": "",
+    "zh": "我和家人去了三亚。",
     "src": "textbook"
    }
   },
@@ -12446,7 +12441,7 @@
    ],
    "example": {
     "en": "They went camping together.",
-    "zh": "",
+    "zh": "他们一起去露营了。",
     "src": "textbook"
    }
   },
@@ -12461,7 +12456,7 @@
    ],
    "example": {
     "en": "Then I went fishing.",
-    "zh": "",
+    "zh": "然后我去钓鱼了。",
     "src": "textbook"
    }
   },
@@ -12476,7 +12471,7 @@
    ],
    "example": {
     "en": "The floor is wet.",
-    "zh": "",
+    "zh": "地板是湿的。",
     "src": "textbook"
    }
   },
@@ -12492,7 +12487,7 @@
    ],
    "example": {
     "en": "When do you start class in Spain?",
-    "zh": "",
+    "zh": "你们在西班牙什么时候开始上课？",
     "src": "textbook"
    }
   },
@@ -12507,7 +12502,7 @@
    ],
    "example": {
     "en": "Where are you from?",
-    "zh": "",
+    "zh": "你来自哪里？",
     "src": "textbook"
    }
   },
@@ -12523,7 +12518,7 @@
    ],
    "example": {
     "en": "Which season do you like best?",
-    "zh": "",
+    "zh": "你最喜欢哪个季节？",
     "src": "textbook"
    }
   },
@@ -12538,7 +12533,7 @@
    ],
    "example": {
     "en": "White, white, turn around.",
-    "zh": "",
+    "zh": "白色，白色，转个圈。",
     "src": "textbook"
    }
   },
@@ -12552,8 +12547,8 @@
     "3B-U1"
    ],
    "example": {
-    "en": "He's from Who's that woman?",
-    "zh": "",
+    "en": "Who's that woman?",
+    "zh": "那个女人是谁？",
     "src": "textbook"
    }
   },
@@ -12568,7 +12563,7 @@
    ],
    "example": {
     "en": "Whose sweater is it?",
-    "zh": "",
+    "zh": "这是谁的毛衣？",
     "src": "textbook"
    }
   },
@@ -12584,7 +12579,7 @@
    ],
    "example": {
     "en": "Why are you shopping today?",
-    "zh": "",
+    "zh": "你今天为什么去购物？",
     "src": "textbook"
    }
   },
@@ -12600,7 +12595,7 @@
    ],
    "example": {
     "en": "He often wins.",
-    "zh": "",
+    "zh": "他经常赢。",
     "src": "textbook"
    }
   },
@@ -12615,7 +12610,7 @@
    ],
    "example": {
     "en": "The wind is very strong outside.",
-    "zh": "",
+    "zh": "外面的风很大。",
     "src": "textbook"
    }
   },
@@ -12630,7 +12625,7 @@
    ],
    "example": {
     "en": "Just open the window.",
-    "zh": "",
+    "zh": "打开窗户就好。",
     "src": "textbook"
    },
    "emoji": "window"
@@ -12646,7 +12641,7 @@
    ],
    "example": {
     "en": "Is it cold and windy in Beijing?",
-    "zh": "",
+    "zh": "北京冷吗？风大吗？",
     "src": "textbook"
    }
   },
@@ -12661,7 +12656,7 @@
    ],
    "example": {
     "en": "The winner is my good friend, Chen Jie.",
-    "zh": "",
+    "zh": "获胜者是我的好朋友陈洁。",
     "src": "textbook"
    }
   },
@@ -12677,7 +12672,7 @@
    ],
    "example": {
     "en": "Winter is white and the year is gone.",
-    "zh": "",
+    "zh": "冬天是白色的，一年也走到了尽头。",
     "src": "textbook"
    }
   },
@@ -12692,7 +12687,7 @@
    ],
    "example": {
     "en": "Then he woke up.",
-    "zh": "",
+    "zh": "然后他醒了。",
     "src": "textbook"
    }
   },
@@ -12707,7 +12702,7 @@
    ],
    "example": {
     "en": "The woman is my neighbour.",
-    "zh": "",
+    "zh": "那个女人是我的邻居。",
     "src": "textbook"
    }
   },
@@ -12722,7 +12717,7 @@
    ],
    "example": {
     "en": "They are wonderful jumpers!",
-    "zh": "",
+    "zh": "他们是出色的跳跃者！",
     "src": "textbook"
    }
   },
@@ -12737,7 +12732,7 @@
    ],
    "example": {
     "en": "Use nice words and speak kindly.",
-    "zh": "",
+    "zh": "使用礼貌的词语，友善地说话。",
     "src": "textbook"
    }
   },
@@ -12753,7 +12748,7 @@
    ],
    "example": {
     "en": "We work hard and follow the rules.",
-    "zh": "",
+    "zh": "我们努力学习，遵守规则。",
     "src": "textbook"
    }
   },
@@ -12768,7 +12763,7 @@
    ],
    "example": {
     "en": "Some hand out the workbooks.",
-    "zh": "",
+    "zh": "一些人分发练习册。",
     "src": "textbook"
    }
   },
@@ -12783,7 +12778,7 @@
    ],
    "example": {
     "en": "Lotus plants grow and eat them in different in lakes around the world.",
-    "zh": "",
+    "zh": "莲藕植物生长在世界各地的湖泊里。",
     "src": "textbook"
    }
   },
@@ -12798,7 +12793,7 @@
    ],
    "example": {
     "en": "I'm so worried!",
-    "zh": "",
+    "zh": "我好担心！",
     "src": "textbook"
    }
   },
@@ -12813,7 +12808,7 @@
    ],
    "example": {
     "en": "Please don't worry!",
-    "zh": "",
+    "zh": "请不要担心！",
     "src": "textbook"
    }
   },
@@ -12828,7 +12823,7 @@
    ],
    "example": {
     "en": "The writer read his book to us.",
-    "zh": "",
+    "zh": "那位作家把他的书读给我们听。",
     "src": "textbook"
    }
   },
@@ -12843,7 +12838,7 @@
    ],
    "example": {
     "en": "Fido does the wrong thing.",
-    "zh": "",
+    "zh": "菲多做错了事。",
     "src": "textbook"
    }
   },
@@ -12859,7 +12854,7 @@
    ],
    "example": {
     "en": "When is the school trip this year?",
-    "zh": "",
+    "zh": "今年的学校旅行是什么时候？",
     "src": "textbook"
    }
   },
@@ -12874,7 +12869,7 @@
    ],
    "example": {
     "en": "Now I am a big yellow flower.",
-    "zh": "",
+    "zh": "现在我是一朵大大的黄花。",
     "src": "textbook"
    }
   },
@@ -12890,7 +12885,7 @@
    ],
    "example": {
     "en": "What do you think she did yesterday?",
-    "zh": "",
+    "zh": "你觉得她昨天做了什么？",
     "src": "textbook"
    }
   },
@@ -12905,7 +12900,7 @@
    ],
    "example": {
     "en": "She is young.",
-    "zh": "",
+    "zh": "她很年轻。",
     "src": "textbook"
    }
   },
@@ -12920,7 +12915,7 @@
    ],
    "example": {
     "en": "Who is younger?",
-    "zh": "",
+    "zh": "谁更年轻？",
     "src": "textbook"
    }
   },
@@ -12936,7 +12931,7 @@
    ],
    "example": {
     "en": "The dog is yours.",
-    "zh": "",
+    "zh": "这只狗是你的。",
     "src": "textbook"
    }
   },
@@ -12951,7 +12946,7 @@
    ],
    "example": {
     "en": "They're yummy and healthy too.",
-    "zh": "",
+    "zh": "它们既好吃又健康。",
     "src": "textbook"
    }
   },
@@ -12966,7 +12961,7 @@
    ],
    "example": {
     "en": "Let's go to the zoo!",
-    "zh": "",
+    "zh": "我们去动物园吧！",
     "src": "textbook"
    },
    "emoji": "zoo"

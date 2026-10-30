@@ -125,7 +125,7 @@ async function main() {
   for (const w of words) {
     // 例句来自教材正文，中文释义待补；缺失时词卡不显示例句
     const found = examples[w.id];
-    if (found?.en) w.example = { en: found.en, zh: "", src: "textbook" };
+    if (found?.en) w.example = { en: found.en, zh: found.zh ?? "", src: "textbook" };
     // 从 OpenMoji 包复制命中的图标，未命中时保留首字母回退。
     const ch = emojiMap[w.text.toLowerCase()];
     const hex = ch ? hexOf.get(noVs(ch)) : undefined;
