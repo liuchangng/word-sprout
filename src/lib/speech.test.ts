@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { pickVoice, spokenText } from "./speech";
+import { audioSlug, audioUrl, pickVoice, spokenText, ttsUrl } from "./speech";
 
 const voice = (lang: string, name: string) => ({ lang, name }) as SpeechSynthesisVoice;
 
@@ -30,5 +30,32 @@ describe("spokenText", () => {
     expect(spokenText("peach")).toBe("peach");
     expect(spokenText("PE class")).toBe("PE class");
     expect(spokenText("I")).toBe("I");
+  });
+});
+
+describe("ttsUrl", () => {
+  it("按口音选英式或美式", () => {
+    expect(ttsUrl("name", "uk")).toContain("type=1");
+    expect(ttsUrl("name", "us")).toContain("type=2");
+  });
+
+  it("对文本做 URL 编码", () => {
+    expect(ttsUrl("have a look", "uk")).toContain("audio=have%20a%20look");
+  });
+});
+
+describe("audioSlug", () => {
+  it("转成小写连字符形式", () => {
+    expect(audioSlug("PE")).toBe("pe");
+    expect(audioSlug("Jinggangshan Revolution Museum")).toBe("jinggangshan-revolution-museum");
+    expect(audioSlug("have … class")).toBe("have-class");
+    expect(audioSlug("a.m.")).toBe("a-m");
+  });
+});
+
+describe("audioUrl", () => {
+  it("拼出本地音频路径", () => {
+    expect(audioUrl("PE", "uk")).toBe("/audio/pe-uk.mp3");
+    expect(audioUrl("name", "us")).toBe("/audio/name-us.mp3");
   });
 });
